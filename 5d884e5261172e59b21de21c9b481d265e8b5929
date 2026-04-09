@@ -1,0 +1,73 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.6",
+  "base_commit_sha": "5d884e5261172e59b21de21c9b481d265e8b5929",
+  "prompts": {
+    "1769c692118c638d": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "6e3f6dc5ef5f4fdc91a13ee16c6a2852",
+        "model": "glm-4.7-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "2cf2682cd148c2f5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cursor-20260402T141909Z-174789",
+        "model": "kimi-k2.5"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "a00cfbff0ba18c37": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "41d434c73aa94518af557063a79e0214",
+        "model": "glm-5.0-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 10,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "a3df7d132e6cbfde": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "ae025d0cdb8e468c85f056166763dd21",
+        "model": "glm-5.0-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 2,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "cd8bdd212a35b2b2": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "6d251346b6934245921e73f7c062ff6f",
+        "model": "glm-5v-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 59,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}

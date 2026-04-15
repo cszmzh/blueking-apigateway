@@ -1,0 +1,38 @@
+src/dashboard/apigateway/apigateway/conf/default.py
+  ad96ab91d0e1bf52 865,868,883
+src/dashboard/apigateway/apigateway/conf/utils.py
+  ad96ab91d0e1bf52 235,265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "b81225284ac1ad8f7274550f35b59669685883b9",
+  "prompts": {
+    "66b4acc9a6ce1676": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "6a705611071542ff937dcd6089f11078",
+        "model": "glm-5v-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "ad96ab91d0e1bf52": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "062d4f49d6634053bf62d148712b2f35",
+        "model": "glm-5v-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 9,
+      "accepted_lines": 5,
+      "overriden_lines": 2
+    }
+  }
+}

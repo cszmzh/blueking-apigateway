@@ -1,0 +1,23 @@
+src/dashboard/pyproject.toml
+  66b4acc9a6ce1676 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8b7a482aca2b74be362828c09d4714c481446703",
+  "prompts": {
+    "66b4acc9a6ce1676": {
+      "agent_id": {
+        "tool": "codebuddy",
+        "id": "6a705611071542ff937dcd6089f11078",
+        "model": "glm-5v-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}

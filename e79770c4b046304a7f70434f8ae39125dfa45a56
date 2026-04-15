@@ -1,0 +1,27 @@
+src/dashboard-front/src/services/source/basic.ts
+  96afa6e966b9680b 134-136
+src/dashboard/apigateway/apigateway/conf/utils.py
+  96afa6e966b9680b 390-395
+src/dashboard-front/src/stores/useEnv.ts
+  96afa6e966b9680b 110-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "e79770c4b046304a7f70434f8ae39125dfa45a56",
+  "prompts": {
+    "96afa6e966b9680b": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "13a4245809c642c9a31b3eb6e1a9f6d7",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 0,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}

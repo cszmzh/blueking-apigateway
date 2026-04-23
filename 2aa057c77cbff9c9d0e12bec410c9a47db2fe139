@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/service/prometheus/dimension.py
+  5a3348bb170aba7c 352,391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "2aa057c77cbff9c9d0e12bec410c9a47db2fe139",
+  "prompts": {
+    "5a3348bb170aba7c": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "69af8e2ce1124ccf97b0b8c9a3539253",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 1,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}

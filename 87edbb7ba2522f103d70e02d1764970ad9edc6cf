@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_manager.py
+  b63a6fb65e5c643b 333,335-336,338-345,347-360,362-364,366-376,378-383
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "87edbb7ba2522f103d70e02d1764970ad9edc6cf",
+  "prompts": {
+    "b63a6fb65e5c643b": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "e6727aacb82041d382c73f4f666e0217",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 51,
+      "total_deletions": 3,
+      "accepted_lines": 48,
+      "overriden_lines": 5
+    }
+  }
+}

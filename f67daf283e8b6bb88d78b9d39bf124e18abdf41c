@@ -1,0 +1,38 @@
+src/dashboard/apigateway/apigateway/service/prometheus/dimension.py
+  5f6bd7967a78cdaa 41-42,348-350,386-388
+src/dashboard/apigateway/apigateway/tests/service/prometheus/test_dimension.py
+  5f6bd7967a78cdaa 370-387,434-451
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "f67daf283e8b6bb88d78b9d39bf124e18abdf41c",
+  "prompts": {
+    "5f6bd7967a78cdaa": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "abdd0a57aa6b42ca8498d53422694ca2",
+        "model": "glm-5.0-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 72,
+      "total_deletions": 49,
+      "accepted_lines": 44,
+      "overriden_lines": 0
+    },
+    "9dfaa3df304feadc": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "d4f0fb8b52e847f883dffe4224af9c2b",
+        "model": "glm-5.0-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}

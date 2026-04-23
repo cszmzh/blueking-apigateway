@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/apis/v2/open/serializers.py
+  b63a6fb65e5c643b 32-33,98,108-114,124-128
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_manager.py
+  b63a6fb65e5c643b 335-336
+src/dashboard/apigateway/apigateway/biz/permission/manager.py
+  b63a6fb65e5c643b 358-361,368,377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "4284d1edba403dc45ce58d3c47411dd64cfc0a97",
+  "prompts": {
+    "3df870b995c0c32d": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "aa1077c98402416ba71a54429d1b7cd3",
+        "model": "glm-5v-turbo-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 15,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "b63a6fb65e5c643b": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "e6727aacb82041d382c73f4f666e0217",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 59,
+      "total_deletions": 44,
+      "accepted_lines": 46,
+      "overriden_lines": 6
+    }
+  }
+}

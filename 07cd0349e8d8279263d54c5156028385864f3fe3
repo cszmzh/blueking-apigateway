@@ -1,0 +1,36 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  d8631c2c8be52450 517-518,525-527,529-530,537-539
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "07cd0349e8d8279263d54c5156028385864f3fe3",
+  "prompts": {
+    "0bc5877ce7886f8f": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "0f3fcafecc344bd3815cad984c702893",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 11,
+      "accepted_lines": 0,
+      "overriden_lines": 4
+    },
+    "d8631c2c8be52450": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "bf191c53a3f34e0997d71c2df418477c",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 5,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}

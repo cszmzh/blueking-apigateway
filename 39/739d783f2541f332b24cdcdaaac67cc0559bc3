@@ -1,0 +1,23 @@
+"test/cases/dashboard/open api/v2-sync/13-sync-mcp-servers.bru"
+  056fd69c9a25e437 28-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "39739d783f2541f332b24cdcdaaac67cc0559bc3",
+  "prompts": {
+    "056fd69c9a25e437": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "33921d3bbc7f47819766f2c1fa5a6d72",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}

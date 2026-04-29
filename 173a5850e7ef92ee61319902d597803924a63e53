@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/urls.py
+  344e3e5500a76178 48,50-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "173a5850e7ef92ee61319902d597803924a63e53",
+  "prompts": {
+    "344e3e5500a76178": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "c8c52c8d25cd40168c13460376fbc233",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 17,
+      "accepted_lines": 32,
+      "overriden_lines": 0
+    }
+  }
+}

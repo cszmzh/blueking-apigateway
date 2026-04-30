@@ -1,0 +1,49 @@
+test/cases/dashboard/v2-inner/20-apply-esb-permission.bru
+  67108c5caa62ce94 1-35
+test/cases/dashboard/v2-inner/12-update-gateway-status.bru
+  67108c5caa62ce94 1-32
+test/cases/dashboard/v2-inner/15-apply-mcp-server-permission.bru
+  67108c5caa62ce94 1-50
+test/cases/dashboard/v2-inner/19-list-esb-components.bru
+  67108c5caa62ce94 1-37
+test/cases/dashboard/v2-inner/18-list-esb-systems.bru
+  67108c5caa62ce94 1-34
+test/cases/dashboard/v2-inner/11-delete-gateway.bru
+  67108c5caa62ce94 1-25
+test/cases/dashboard/v2-inner/21-renew-esb-permission.bru
+  67108c5caa62ce94 1-26,29-30
+test/cases/dashboard/v2-inner/24-retrieve-esb-apply-record.bru
+  67108c5caa62ce94 1-37
+test/cases/dashboard/v2-inner/13-apply-gateway-permission.bru
+  67108c5caa62ce94 1-33,35
+test/cases/dashboard/v2-inner/16-retrieve-app-permission-record.bru
+  67108c5caa62ce94 1-7,9-18,21-35
+test/cases/dashboard/v2-inner/14-renew-app-permission.bru
+  67108c5caa62ce94 1-30
+test/cases/dashboard/v2-inner/22-list-esb-app-permissions.bru
+  67108c5caa62ce94 1-2,4-25
+test/cases/dashboard/v2-inner/23-list-esb-apply-records.bru
+  67108c5caa62ce94 1-38
+test/cases/dashboard/v2-inner/17-retrieve-mcp-server-permission-record.bru
+  67108c5caa62ce94 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "2c36b486c0c78ca75083a869c16c1d3f32533867",
+  "prompts": {
+    "67108c5caa62ce94": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "03d0182ccb094a52b2ce01da48df9e5c",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 2148,
+      "total_deletions": 1404,
+      "accepted_lines": 456,
+      "overriden_lines": 7
+    }
+  }
+}

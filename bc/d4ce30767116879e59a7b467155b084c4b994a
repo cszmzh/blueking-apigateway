@@ -1,0 +1,41 @@
+test/cases/dashboard/v2-inner/05-list-gateway-permission-resources.bru
+  67108c5caa62ce94 1-64
+test/cases/dashboard/v2-inner/07-list-app-permission-records.bru
+  67108c5caa62ce94 1-71
+test/cases/dashboard/v2-inner/06-check-allow-apply-by-gateway.bru
+  67108c5caa62ce94 1-31
+test/cases/dashboard/v2-inner/02-list-app-permissions.bru
+  67108c5caa62ce94 1-64
+test/cases/dashboard/v2-inner/01-list-gateways.bru
+  67108c5caa62ce94 1-46
+test/cases/dashboard/v2-inner/03-list-mcp-server-permissions.bru
+  67108c5caa62ce94 1-80
+test/cases/dashboard/v2-inner/04-retrieve-gateway.bru
+  67108c5caa62ce94 1-40
+test/cases/dashboard/v2-inner/09-list-mcp-server-permission-records.bru
+  67108c5caa62ce94 1-98
+test/cases/dashboard/v2-inner/10-list-mcp-servers.bru
+  67108c5caa62ce94 1-118
+test/cases/dashboard/v2-inner/08-list-mcp-server-app-permissions.bru
+  67108c5caa62ce94 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "bcd4ce30767116879e59a7b467155b084c4b994a",
+  "prompts": {
+    "67108c5caa62ce94": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "03d0182ccb094a52b2ce01da48df9e5c",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach",
+      "messages": [],
+      "total_additions": 976,
+      "total_deletions": 70,
+      "accepted_lines": 693,
+      "overriden_lines": 0
+    }
+  }
+}

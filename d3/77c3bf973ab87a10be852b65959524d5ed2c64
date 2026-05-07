@@ -1,0 +1,21 @@
+"test/cases/dashboard/open api/v2-open/04-gateway-resources-list.bru"
+  s_9f61130610b877::t_dd25bd49805ef8 26-27
+"test/cases/dashboard/open api/v2-open/07-mcp-server-list.bru"
+  s_9f61130610b877::t_ed41e0905f8016 27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "d377c3bf973ab87a10be852b65959524d5ed2c64",
+  "prompts": {},
+  "sessions": {
+    "s_9f61130610b877": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "dbcc2b78ee9540abbe72ffcedc0c58d3",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

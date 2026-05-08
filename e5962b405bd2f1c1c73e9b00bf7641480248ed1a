@@ -1,0 +1,53 @@
+"test/cases/dashboard/open api/v2-open/13-mcp-app-permission-apply-records.bru"
+  s_29d4836ea1fe66::t_aeb04dba4f0b5f 8
+"test/cases/dashboard/open api/v2-open/05-gateway-resource-detail.bru"
+  s_29d4836ea1fe66::t_ed8915a7713cf4 8
+"test/cases/dashboard/open api/v2-open/11-mcp-server-permission-list.bru"
+  s_29d4836ea1fe66::t_5cb27b63c30213 8
+"test/cases/dashboard/open api/v2-open/10-mcp-server-retrieve.bru"
+  s_29d4836ea1fe66::t_42af264f9290eb 8
+"test/cases/dashboard/open api/v2-open/18-well-known-oauth-protected-resource.bru"
+  s_29d4836ea1fe66::t_aa73814ae24ac3 8
+"test/cases/dashboard/open api/v2-open/17-tools-time-parse-datetime-to-timestamp.bru"
+  s_29d4836ea1fe66::t_c5c8867dac512e 8
+"test/cases/dashboard/open api/v2-open/04-gateway-resources-list.bru"
+  s_29d4836ea1fe66::t_71b60602f7e161 8
+"test/cases/dashboard/open api/v2-open/01-gateway-list.bru"
+  s_29d4836ea1fe66::t_db7e8c9dd3de57 8
+"test/cases/dashboard/open api/v2-open/02-gateway-batch-query.bru"
+  s_29d4836ea1fe66::t_e0694d6de070b0 8
+"test/cases/dashboard/open api/v2-open/09-mcp-server-batch-query.bru"
+  s_29d4836ea1fe66::t_533f9f3dbc5dbf 8
+"test/cases/dashboard/open api/v2-open/14-user-mcp-server-list.bru"
+  s_29d4836ea1fe66::t_777a41497e405f 8
+"test/cases/dashboard/open api/v2-open/16-tools-time-get-current-unix-timestamp.bru"
+  s_29d4836ea1fe66::t_4e00834c5f94e5 8
+"test/cases/dashboard/open api/v2-open/08-mcp-server-categories-list.bru"
+  s_29d4836ea1fe66::t_0fe19186a948c1 8
+"test/cases/dashboard/open api/v2-open/03-gateway-retrieve.bru"
+  s_29d4836ea1fe66::t_9a36f7068944c4 8
+"test/cases/dashboard/open api/v2-open/15-tools-time-get-datetime.bru"
+  s_29d4836ea1fe66::t_7fafed133a2eb1 8
+"test/cases/dashboard/open api/v2-open/12-mcp-app-permission-list.bru"
+  s_29d4836ea1fe66::t_d67bf3fe4cd9df 8
+"test/cases/dashboard/open api/v2-open/06-gateway-resource-info.bru"
+  s_29d4836ea1fe66::t_d2579c915089b8 8
+"test/cases/dashboard/open api/v2-open/07-mcp-server-list.bru"
+  s_29d4836ea1fe66::t_79f0c79afe958d 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "e5962b405bd2f1c1c73e9b00bf7641480248ed1a",
+  "prompts": {},
+  "sessions": {
+    "s_29d4836ea1fe66": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "00f381bb31c148a0b9ce4586b0ce688c",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

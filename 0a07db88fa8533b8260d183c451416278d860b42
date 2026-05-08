@@ -1,0 +1,48 @@
+"test/cases/dashboard/open api/v2-open/02-gateway-batch-query.bru"
+  29d4836ea1fe66de 1-7,9-19,21-28
+  s_29d4836ea1fe66::t_b6cb6141061ee0 20
+"test/cases/dashboard/open api/v2-open/03-gateway-retrieve.bru"
+  29d4836ea1fe66de 1-7,9-24
+  s_29d4836ea1fe66::t_1932a02f7715cf 8
+"test/cases/dashboard/open api/v2-open/04-gateway-resources-list.bru"
+  29d4836ea1fe66de 1-7,9-20
+  s_29d4836ea1fe66::t_30561d231a6d11 8
+  s_29d4836ea1fe66::t_ebea84f4ff9b2e 21-27
+"test/cases/dashboard/open api/v2-open/01-gateway-list.bru"
+  29d4836ea1fe66de 1-7,9-20
+"test/cases/dashboard/open api/v2-open/06-gateway-resource-info.bru"
+  s_29d4836ea1fe66::t_f79b67a2078b1b 8
+  29d4836ea1fe66de 1-7,9-26
+"test/cases/dashboard/open api/v2-open/05-gateway-resource-detail.bru"
+  29d4836ea1fe66de 1-7,9-26
+  s_29d4836ea1fe66::t_ca469a723016b1 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0a07db88fa8533b8260d183c451416278d860b42",
+  "prompts": {
+    "29d4836ea1fe66de": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "00f381bb31c148a0b9ce4586b0ce688c",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>",
+      "total_additions": 630,
+      "total_deletions": 52,
+      "accepted_lines": 138,
+      "overriden_lines": 2
+    }
+  },
+  "sessions": {
+    "s_29d4836ea1fe66": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "00f381bb31c148a0b9ce4586b0ce688c",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

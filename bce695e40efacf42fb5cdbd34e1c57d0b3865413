@@ -1,0 +1,56 @@
+test/cases/dashboard/01-open-api/01-v2-sync/05-create-resource-version.bru
+  s_f1ae7dbe746d28::t_7b579e7b866550 20,30
+  s_f1ae7dbe746d28::t_6bc0c0c219e90f 27-29
+test/cases/dashboard/02-inner-api/21-list-esb-apply-records.bru
+  s_f1ae7dbe746d28::t_f2339c281e8645 4
+test/cases/dashboard/02-inner-api/18-apply-esb-permission.bru
+  s_f1ae7dbe746d28::t_96b8c2af9f96a6 4
+test/cases/dashboard/02-inner-api/22-retrieve-esb-apply-record.bru
+  s_f1ae7dbe746d28::t_5ec043e4ecb211 4
+test/cases/dashboard/01-open-api/01-v2-sync/06-release.bru
+  s_f1ae7dbe746d28::t_38f812ab1a378a 20
+test/cases/dashboard/02-inner-api/24-delete-gateway.bru
+  s_f1ae7dbe746d28::t_259c203c206b1b 4
+test/cases/dashboard/01-open-api/02-v2-open/05-gateway-resource-detail.bru
+  s_f1ae7dbe746d28::t_516279743728e8 24
+  s_f1ae7dbe746d28::t_9d090593554254 18-21
+  s_f1ae7dbe746d28::t_d22b7fb4d24841 25-47
+  s_f1ae7dbe746d28::t_a3dfab53f3949f 17,22-23
+test/cases/dashboard/02-inner-api/20-list-esb-app-permissions.bru
+  s_f1ae7dbe746d28::t_3328660b425ffa 4
+src/dashboard-front/Dockerfile
+  s_f1ae7dbe746d28::t_d4436bfb4f7047 5
+test/cases/dashboard/02-inner-api/15-retrieve-mcp-server-permission-record.bru
+  s_f1ae7dbe746d28::t_1bd842cd6a5f74 4
+  s_f1ae7dbe746d28::t_5af06be61fbbf5 18-36
+test/cases/dashboard/02-inner-api/16-list-esb-systems.bru
+  s_f1ae7dbe746d28::t_ba94689f4050dd 4
+test/cases/dashboard/01-open-api/01-v2-sync/12-generate-sdk.bru
+  s_f1ae7dbe746d28::t_23a42ffe964aaa 29-31,38
+  s_f1ae7dbe746d28::t_56b8782d30c37f 27,33-34
+  s_f1ae7dbe746d28::t_ca3e668a407b8a 20-22,28,32,35-37
+test/cases/dashboard/02-inner-api/17-list-esb-components.bru
+  s_f1ae7dbe746d28::t_717de673c10772 4
+test/cases/dashboard/01-open-api/02-v2-open/13-mcp-app-permission-apply-records.bru
+  s_f1ae7dbe746d28::t_2cc1a21ae84085 18-19
+test/cases/dashboard/02-inner-api/23-deactivate-gateway.bru
+  s_f1ae7dbe746d28::t_5bef4aa8e12cda 2,4,24-27,29-30
+test/cases/dashboard/02-inner-api/19-renew-esb-permission.bru
+  s_f1ae7dbe746d28::t_3867cb0d7a0418 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "bce695e40efacf42fb5cdbd34e1c57d0b3865413",
+  "prompts": {},
+  "sessions": {
+    "s_f1ae7dbe746d28": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "582cb1704eab4005922f0bfd1ae582b9",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

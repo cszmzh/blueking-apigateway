@@ -1,0 +1,33 @@
+test/cases/dashboard/01-open-api/01-v2-sync/06-release.bru
+  s_f1ae7dbe746d28::t_d868a88c90b219 20
+test/cases/dashboard/01-open-api/01-v2-sync/12-generate-sdk.bru
+  s_f1ae7dbe746d28::t_baf1db4d2f4a4e 20,22
+test/cases/dashboard/02-inner-api/14-list-mcp-server-permission-records.bru
+  s_f1ae7dbe746d28::t_553ccbca6dabd7 51-62
+test/cases/dashboard/02-inner-api/11-retrieve-app-permission-record.bru
+  s_f1ae7dbe746d28::t_3ff1d1f26345cb 34-35
+test/cases/dashboard/02-inner-api/15-retrieve-mcp-server-permission-record.bru
+  s_f1ae7dbe746d28::t_8319358aa14707 37-40
+test/cases/dashboard/01-open-api/02-v2-open/05-gateway-resource-detail.bru
+  s_f1ae7dbe746d28::t_42a0a0da633956 35-51
+  s_f1ae7dbe746d28::t_70daecd85b7c6a 22-24,26-28,57-58
+  s_f1ae7dbe746d28::t_76e0a6a34ee354 25
+  s_f1ae7dbe746d28::t_f8be47237c5906 18-21,31-32,34,52-53,56,59-70
+  s_f1ae7dbe746d28::t_9e623cde2433ac 29,54
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "6e27eb4ceb40cc7e568ee5c562550cd64e963d1d",
+  "prompts": {},
+  "sessions": {
+    "s_f1ae7dbe746d28": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "582cb1704eab4005922f0bfd1ae582b9",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

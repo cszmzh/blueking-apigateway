@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_mcp_server_app_permissions_apply.md
+  s_031688ee083d81::t_11197c1bc2bf70 12
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server.md
+  s_031688ee083d81::t_44ebbf3fe5e8a0 14
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_apply_mcp_server_permission.md
+  s_031688ee083d81::t_e6a6b6c3e12bd6 13
+src/dashboard/apigateway/apigateway/apis/v2/open/serializers.py
+  s_031688ee083d81::t_9f2a29aac42e89 278-279
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_031688ee083d81::t_dd998a58804f0f 3441-3442
+  s_031688ee083d81::t_deaad51e1c3cf8 6310-6311
+  s_031688ee083d81::t_aecf59f8e9bd94 6557-6574
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_031688ee083d81::t_aad9e3ed3de235 950-1047
+  s_031688ee083d81::t_ce4586ccc3ec5c 1048-1061
+src/dashboard/apigateway/apigateway/apis/v2/mcp_server.py
+  s_031688ee083d81::t_2b499847232720 47,54-55
+  s_031688ee083d81::t_07250df60aac75 19
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_031688ee083d81::t_4eb3fc135b15d7 786
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_031688ee083d81::t_44cacc95b25765 544-546,551-560
+  s_031688ee083d81::t_05ffe7b6fe2ae5 419-420
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_031688ee083d81::t_1bf3bc01c32790 33
+  s_031688ee083d81::t_164694c2bbd07d 885-957
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "02ae825b676b0c6515093cfbf70f77e7a07e0453",
+  "prompts": {},
+  "sessions": {
+    "s_031688ee083d81": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "bbaee6b68fa14d2dbac8fe4c0a73fd77",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

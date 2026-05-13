@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_apply_mcp_server_permission.md
+  s_3425d648b3278b::t_ded7497a3d6680 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "a978954f81fa49e2249542e4f521c8e11a2c46d0",
+  "prompts": {},
+  "sessions": {
+    "s_3425d648b3278b": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "874e9efb59a24260832e06487c2810f6",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

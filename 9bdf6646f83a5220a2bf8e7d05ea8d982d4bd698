@@ -1,0 +1,24 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_4c2a9685303493::t_e963c88c6fe368 597,600
+  s_4c2a9685303493::t_1aa762a7f029d1 587-589,594-596,598
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_4c2a9685303493::t_8af0960eb33c59 609,621,630-631
+src/dashboard/apigateway/apigateway/apis/v2/mcp_server.py
+  s_4c2a9685303493::t_5f7ce1660babd9 58,70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "9bdf6646f83a5220a2bf8e7d05ea8d982d4bd698",
+  "prompts": {},
+  "sessions": {
+    "s_4c2a9685303493": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "b55ec0ac030b42f995364a9283ee82a5",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

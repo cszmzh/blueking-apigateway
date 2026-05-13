@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apis/v2/sync/views.py
+  s_238d6e4474ee6a::t_88a6b89245fe2f 118-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "529361e2b63948690a135bb1855c4c26911af2c2",
+  "prompts": {},
+  "sessions": {
+    "s_238d6e4474ee6a": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "d52f5d88669f40b9981c63dec0c2897d",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_4c2a9685303493::t_ed9d916aba152c 1338-1408
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_4c2a9685303493::t_43d0a4d0ab0007 970-1075
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "c155255ddf3f160a2cc2ff4a51ccf48b1f19abd5",
+  "prompts": {},
+  "sessions": {
+    "s_4c2a9685303493": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "b55ec0ac030b42f995364a9283ee82a5",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

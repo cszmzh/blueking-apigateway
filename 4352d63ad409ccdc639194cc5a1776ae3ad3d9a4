@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/apis/v2/mcp_server.py
+  s_591195469e178b::t_abb236795d1163 59,63,68
+  s_591195469e178b::t_172f34118bd18d 37-38,40-45,47-53,71-73,94-99,101-121,134-139,141-167,172-201
+  s_591195469e178b::t_406fed1936447d 19,39,46,56
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_list_mcp_server.md
+  s_591195469e178b::t_bc6b761fb8715e 82
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_591195469e178b::t_29b8e6a8d09d9e 25
+  s_591195469e178b::t_65ac9e50201f50 367
+  s_4c2a9685303493::t_0fb944a0b3f604 366
+  s_591195469e178b::t_643638b814fffa 364,370
+  s_4c2a9685303493::t_ff3082c920e495 360
+  s_591195469e178b::t_8290ad33ef278a 596
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_retrieve_mcp_server.md
+  s_591195469e178b::t_d01c275e006513 107
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permission_apply_records.md
+  s_591195469e178b::t_d73fc79e2204c9 82-84
+  s_591195469e178b::t_0f65b9a6a5f765 33-35
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permissions.md
+  s_591195469e178b::t_0325fe2b694ba6 51-53
+  s_591195469e178b::t_0dcdca8ccc9b2e 90-92
+  s_591195469e178b::t_3260b45bbd38f6 29-31
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_list_user_mcp_server.md
+  s_591195469e178b::t_2254ed8f2f008f 84
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_591195469e178b::t_e5ab90acc09fd5 485-487
+  s_4c2a9685303493::t_fa225fe9d4cdd4 826-828
+  s_591195469e178b::t_421442bb2eadab 678,682,694-695,706-709,711-715
+  s_4c2a9685303493::t_0d6de380cff95b 613-614,616-624,628,642-646
+  s_591195469e178b::t_528bf6085b9b4f 745-747,755,769-770,777-784
+  s_4c2a9685303493::t_6fb7fa104e7821 514-516,533,546-550
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_app_permissions.md
+  s_591195469e178b::t_45a9c8f50e35e1 69-71
+  s_591195469e178b::t_999b06a086721a 27-29
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server.md
+  s_591195469e178b::t_c0bd362b53649c 95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "4352d63ad409ccdc639194cc5a1776ae3ad3d9a4",
+  "prompts": {}
+}

@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apis/v2/mcp_server.py
+  s_bd62da61aa9cb4::t_590faece8350b3 38-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "e4ab5724303fce44655abde77c2307a571fc6be5",
+  "prompts": {},
+  "sessions": {
+    "s_bd62da61aa9cb4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "9e4fe73960e24301ade6f1c40b243140",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

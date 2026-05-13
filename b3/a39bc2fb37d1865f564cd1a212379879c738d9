@@ -1,0 +1,34 @@
+src/dashboard/apigateway/apigateway/tests/biz/resource_doc/exporter/test_generators.py
+  s_3ec33e5a2d0fa1::t_a02c364b9eca96 45,76-77,80,84
+  s_3ec33e5a2d0fa1::t_4c852964d7229d 18-19,21,23,25-26,42-44,46-75,78-79,81-83,85-109
+src/dashboard/apigateway/apigateway/tests/apis/web/resource_version/test_views.py
+  s_3ec33e5a2d0fa1::t_5fb6ace0b39cf7 573-576,578-589,591-610,612-616,618-629,631-658,660-673,675-676
+  s_3ec33e5a2d0fa1::t_aed38bbd5985ea 577,590,611,617,630,659,674
+src/dashboard/apigateway/apigateway/apis/web/resource_version/serializers.py
+  s_3ec33e5a2d0fa1::t_7cef4e188d1383 23
+  s_3ec33e5a2d0fa1::t_c34c3f284f2d1b 246
+  s_3ec33e5a2d0fa1::t_72c27088bad32d 244
+src/dashboard/apigateway/apigateway/apis/web/resource_version/views.py
+  s_3ec33e5a2d0fa1::t_6930cc852b56fe 404-405
+  s_3ec33e5a2d0fa1::t_6230b46deed26a 20-21,40-42,45
+  s_3ec33e5a2d0fa1::t_41346099800a5d 401,403,406-411,418,421-434
+  s_3ec33e5a2d0fa1::t_5d92b71a622d92 34
+src/dashboard/apigateway/apigateway/biz/resource_doc/exporter/generators.py
+  s_3ec33e5a2d0fa1::t_c72e4325237fe1 19,21,23,57-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "b3a39bc2fb37d1865f564cd1a212379879c738d9",
+  "prompts": {},
+  "sessions": {
+    "s_3ec33e5a2d0fa1": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "df62e47df19a41ccb69c760f78d25939",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/resource_version/test_views.py
+  s_2cbbaac31ab922::t_6139ada7098ebc 658
+  s_2cbbaac31ab922::t_2adfc47430c33e 673
+src/dashboard/apigateway/apigateway/apis/web/resource_version/urls.py
+  s_2cbbaac31ab922::t_0d0c1c26f00e8d 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "074150dca73786cf8c180d41e3fb4668bd8d9af2",
+  "prompts": {},
+  "sessions": {
+    "s_2cbbaac31ab922": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "ac17e3674fae4e51bdc32ac41176f154",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

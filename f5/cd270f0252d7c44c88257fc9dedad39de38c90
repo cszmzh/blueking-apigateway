@@ -1,0 +1,37 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_bd62da61aa9cb4::t_c771a0a0e384a6 610
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_bd62da61aa9cb4::t_a02a4d91c90955 27
+  s_bd62da61aa9cb4::t_841f5af8e551d2 951-981
+  s_bd62da61aa9cb4::t_4decb64d8a9f02 999
+  s_bd62da61aa9cb4::t_0d045f9ee0538b 887-950,982-998,1000-1078
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_bd62da61aa9cb4::t_5ab0a2907f5cfc 60
+  s_bd62da61aa9cb4::t_081e1a8b188ff2 464,467
+  s_bd62da61aa9cb4::t_568aef51457b4f 36
+  s_bd62da61aa9cb4::t_9dcfcdded69e19 429-443,445-447,449-463,465-466,468-490,492-493,495-497
+  s_bd62da61aa9cb4::t_2d3e8a426587c1 444,448
+src/dashboard/apigateway/apigateway/apis/v2/open/serializers.py
+  s_bd62da61aa9cb4::t_20cef5983e8a83 546
+  s_bd62da61aa9cb4::t_7e0592fbc38931 237
+src/dashboard/apigateway/apigateway/apis/v2/mcp_server.py
+  s_bd62da61aa9cb4::t_558ed550efa624 166-167,176,178-192
+  s_bd62da61aa9cb4::t_c588aff90f783f 94-96
+  s_bd62da61aa9cb4::t_b3259a6829f0a1 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "f5cd270f0252d7c44c88257fc9dedad39de38c90",
+  "prompts": {},
+  "sessions": {
+    "s_bd62da61aa9cb4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "9e4fe73960e24301ade6f1c40b243140",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/biz/resource_doc/exporter/generators.py
+  s_2cbbaac31ab922::t_bf238d61692554 18
+  s_2cbbaac31ab922::t_028ba813e1b553 27-28
+  s_2cbbaac31ab922::t_322bcaa099b2f5 105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "3009f15d79868dc0faac287db64b700a35539417",
+  "prompts": {},
+  "sessions": {
+    "s_2cbbaac31ab922": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "ac17e3674fae4e51bdc32ac41176f154",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

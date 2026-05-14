@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/apis/web/resource_version/urls.py
+  s_3ec33e5a2d0fa1::t_5bbb82399e7444 26,40-43
+src/dashboard/apigateway/apigateway/tests/apis/web/resource_version/test_views.py
+  s_3ec33e5a2d0fa1::t_a644329727321f 635-673
+src/dashboard/apigateway/apigateway/apis/web/resource_version/views.py
+  s_3ec33e5a2d0fa1::t_a1ab5e571c0fb5 412-444
+  s_3ec33e5a2d0fa1::t_4018efe6cc5b80 20-21,39-41,44
+src/dashboard/apigateway/apigateway/apis/web/resource_version/serializers.py
+  s_3ec33e5a2d0fa1::t_ea4f1a2f96d233 23
+  s_3ec33e5a2d0fa1::t_1315077f3264b0 260-270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "123d611231cd457cfd1231ca5aef139db84400fb",
+  "prompts": {},
+  "sessions": {
+    "s_3ec33e5a2d0fa1": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "df62e47df19a41ccb69c760f78d25939",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

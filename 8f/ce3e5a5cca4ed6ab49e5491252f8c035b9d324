@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_bd62da61aa9cb4::t_a05490ac476d2e 678,682,701-715
+  s_bd62da61aa9cb4::t_8c92c9c0bb2618 485-487,511-516,533,545-552
+  s_bd62da61aa9cb4::t_b28fedb45b246c 609-624,628,641-648
+  s_bd62da61aa9cb4::t_81837be5270927 743-745,753,772-783
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_bd62da61aa9cb4::t_c4732697c40c5e 375-400
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_bd62da61aa9cb4::t_84336fa818c50a 364,370
+  s_bd62da61aa9cb4::t_72c31251cc9ce7 360-361
+  s_bd62da61aa9cb4::t_ce1832db235298 366-367,371-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "8fce3e5a5cca4ed6ab49e5491252f8c035b9d324",
+  "prompts": {},
+  "sessions": {
+    "s_bd62da61aa9cb4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "9e4fe73960e24301ade6f1c40b243140",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

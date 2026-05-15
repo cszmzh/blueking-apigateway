@@ -1,0 +1,36 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_app_permissions.md
+  s_bd62da61aa9cb4::t_16ade6a384341a 26-27,29-34,39-41
+  s_bd62da61aa9cb4::t_fc8e04d5d718df 72-73,75,80-86
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server.md
+  s_bd62da61aa9cb4::t_b6f4cbb39f8ce6 34,38-41
+  s_bd62da61aa9cb4::t_9aaf596f2e0629 96,101
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permission_apply_records.md
+  s_bd62da61aa9cb4::t_94454debd1f5cd 52-53
+  s_bd62da61aa9cb4::t_3e32f35ca1919c 32-33,35-40
+  s_bd62da61aa9cb4::t_1aeb37dce3aa2e 104
+  s_bd62da61aa9cb4::t_d1595f88a8376e 84-85,87
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_list_mcp_server.md
+  s_bd62da61aa9cb4::t_2a4ecbed2a33d1 35-38
+  s_bd62da61aa9cb4::t_01428f35b16a80 85,87
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_retrieve_mcp_server.md
+  s_bd62da61aa9cb4::t_4244d299033aeb 107
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permissions.md
+  s_bd62da61aa9cb4::t_e1843ee2670b60 28-29,31-36,39,41-43,52-53,55-57,62-64
+  s_bd62da61aa9cb4::t_1e01f922976bad 95-96,98,103-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "7efafec971004ef51697879cb3a5a859200c5636",
+  "prompts": {},
+  "sessions": {
+    "s_bd62da61aa9cb4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "9e4fe73960e24301ade6f1c40b243140",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/biz/constants.py
+  s_975908327bd33d::t_7d8883077636b2 27
+  s_975908327bd33d::t_16025474709ccf 26
+src/dashboard/apigateway/apigateway/data/apidocs/zh/apply_permissions.md
+  s_975908327bd33d::t_13b77b53b9c58d 6
+  s_975908327bd33d::t_843fb7ef9f6fec 63
+  s_975908327bd33d::t_39c8e1ada58333 23-24
+  s_975908327bd33d::t_d3b0d523c87aa0 31,36,38-47
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_975908327bd33d::t_715368d09baa88 2726,2751-2752
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "355d4535a8ca400ce813957d909447306e483e45",
+  "prompts": {},
+  "sessions": {
+    "s_975908327bd33d": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "f8f89708773845e8b9beda3a5a684636",
+        "model": "hy3-preview-agent-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

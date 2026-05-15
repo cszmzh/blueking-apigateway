@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/biz/constants.py
+  s_975908327bd33d::t_0f2b82dfa2e646 25-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "fd1955ba67637d24e1fe4abda6b5ff0986ac5ba0",
+  "prompts": {},
+  "sessions": {
+    "s_975908327bd33d": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "f8f89708773845e8b9beda3a5a684636",
+        "model": "hy3-preview-agent-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_apply_gateway_permission.md
+  s_975908327bd33d::t_e40f1290d04bd5 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "6092e44599a9e3cca8ea3331c03bb0566d62e8d8",
+  "prompts": {},
+  "sessions": {
+    "s_975908327bd33d": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "f8f89708773845e8b9beda3a5a684636",
+        "model": "hy3-preview-agent-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

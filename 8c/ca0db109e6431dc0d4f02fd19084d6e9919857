@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_51f9762c283bc4::t_e61ace0b98719e 4043-4100
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_monitor_views.py
+  s_51f9762c283bc4::t_50b3fc6a274977 23,25-45,65,96,111,126,143,163
+  s_51f9762c283bc4::t_f0c0d6607d31ae 1-22,24,46-64,66-95,97-110,112-125,127-142,144-162,164-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "8cca0db109e6431dc0d4f02fd19084d6e9919857",
+  "prompts": {},
+  "sessions": {
+    "s_51f9762c283bc4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "72fdcedf36804ddea496c729078f33a8",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

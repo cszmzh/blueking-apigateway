@@ -1,0 +1,29 @@
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_monitor_views.py
+  s_51f9762c283bc4::t_7cdc21c8203f15 154
+  s_51f9762c283bc4::t_c7b8893705a137 87
+  s_51f9762c283bc4::t_85c49968ea6f35 102
+  s_51f9762c283bc4::t_9ab455aaf1bf5d 117
+  s_51f9762c283bc4::t_f062d35b69d7a6 56
+  s_51f9762c283bc4::t_822fe07f711934 73
+  s_51f9762c283bc4::t_7e9b19222fef95 134
+src/dashboard/apigateway/apigateway/apis/v2/inner/monitor_views.py
+  s_51f9762c283bc4::t_9667a95067a8fa 37
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_51f9762c283bc4::t_e3e0affd4b1b3b 735-741
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "5a56817fd4577eaf610214a9aa24d86407b0beed",
+  "prompts": {},
+  "sessions": {
+    "s_51f9762c283bc4": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "72fdcedf36804ddea496c729078f33a8",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

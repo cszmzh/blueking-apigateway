@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apis/web/resource_version/serializers.py
+  s_0935414582f137::t_25da86c8d97118 265
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "dfc1fdb595599653bf77741b2eaf9dc420ac028c",
+  "prompts": {},
+  "sessions": {
+    "s_0935414582f137": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "fb7a30f5ca1f47e0858d0ad73d5574a2",
+        "model": "glm-5.1-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

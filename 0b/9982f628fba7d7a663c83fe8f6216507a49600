@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/constants.py
+  s_42370d142ec331::t_85477d3263d348 19-20
+  s_42370d142ec331::t_e722a78beaa6c1 50-61
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_42370d142ec331::t_4de1e48052e043 831-832
+  s_42370d142ec331::t_ad7d91c32f8a16 788
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_42370d142ec331::t_cea00bf7b2e394 1439-1498
+  s_42370d142ec331::t_bdbfdcde4b39b5 27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "0b9982f628fba7d7a663c83fe8f6216507a49600",
+  "prompts": {},
+  "sessions": {
+    "s_42370d142ec331": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "71bd9a2dcd9a40ca9543e432338b3f84",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

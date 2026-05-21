@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_4f326faf02fbd0::t_28bb98d8a043c3 4238
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "cdaa0ef4d272ca1e1394d2b3c4d00e881968e905",
+  "prompts": {},
+  "sessions": {
+    "s_4f326faf02fbd0": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "4fa24c39de664f5ca62c91d35ad2736a",
+        "model": "hy3-preview-agent-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

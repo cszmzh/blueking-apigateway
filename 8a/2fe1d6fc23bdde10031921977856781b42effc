@@ -1,0 +1,35 @@
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/stage/views.py
+  s_ddc15468886011::t_fae06638f2d632 23
+  s_ddc15468886011::t_54b24969f53eac 39
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/mixins.py
+  s_ddc15468886011::t_ecaa38cf7274b8 25
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/resource/views.py
+  s_ddc15468886011::t_24c3163180a710 23
+  s_ddc15468886011::t_8e925a6a88cae8 40
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/gateway_sdk/views.py
+  s_ddc15468886011::t_aeab3775b5d566 49
+  s_ddc15468886011::t_a3d5338b252d8c 26
+  s_ddc15468886011::t_6a251662660f86 72
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/gateway/views.py
+  s_ddc15468886011::t_7b240e23c4df32 25
+  s_ddc15468886011::t_7249acdf661e3c 101
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/resource/doc/views.py
+  s_ddc15468886011::t_e04962ebb2e2d4 23
+  s_ddc15468886011::t_d23244d22e6579 43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "8a2fe1d6fc23bdde10031921977856781b42effc",
+  "prompts": {},
+  "sessions": {
+    "s_ddc15468886011": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "dce97f5daf644d5bbb6e17995f869484",
+        "model": "hy3-preview-agent-ioa"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

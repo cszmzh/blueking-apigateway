@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/biz/access_log/constants.py
+  s_7a23d57758fea2::t_059cc1035609a8 55-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "da9482fc3c8e509fe468ca5f2c811f780fc6e7f9",
+  "prompts": {},
+  "sessions": {
+    "s_7a23d57758fea2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5e19-6ced-7ef1-bcb5-49ae4da8b83b",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

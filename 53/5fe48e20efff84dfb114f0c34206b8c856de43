@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/tests/biz/sdk/distributors/test_pypi.py
+  s_8cd6a4da4809b1::t_8aa26ee948f843 20,107-108,122-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "535fe48e20efff84dfb114f0c34206b8c856de43",
+  "prompts": {},
+  "sessions": {
+    "s_8cd6a4da4809b1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5f0e4a77-bd54-475a-a9c5-f5138017a007",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+test/cases/dashboard/01-open-api/01-v2-sync/05-create-resource-version.bru
+  s_afb8ba71d86f06::t_aa0ae7b6c39c1a 18-23,26
+test/cases/dashboard/01-open-api/02-v2-open/05-gateway-resource-detail.bru
+  s_afb8ba71d86f06::t_fe2a9a45a2be9f 54-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "395d85eeaa84cdc9a979fb04c868216017780eb2",
+  "prompts": {},
+  "sessions": {
+    "s_afb8ba71d86f06": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "f399b83a823a43de8e322d6c5c3f8508",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

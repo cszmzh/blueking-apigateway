@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/biz/permission/__init__.py
+  s_c8aab30bcfc254::t_4555b17f8f73fc 42-44,46
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_permission.py
+  s_c8aab30bcfc254::t_90c6d91eae985d 31
+  s_c8aab30bcfc254::t_afddceb35c1695 88-108
+src/dashboard/apigateway/apigateway/biz/permission/display.py
+  s_c8aab30bcfc254::t_e2ffad81a1de15 204-217,219-220
+  s_c8aab30bcfc254::t_c64b3f65bd7d51 1-34,36-71,97-203,218,221-348
+  s_c8aab30bcfc254::t_d525ff7acd0fce 72-96
+  s_c8aab30bcfc254::t_cdd15e4fa364e0 35
+src/dashboard/apigateway/apigateway/apis/open/permission/views.py
+  s_c8aab30bcfc254::t_06cf663c0da8bf 269-273
+src/dashboard/apigateway/apigateway/biz/permission/permission.py
+  s_c8aab30bcfc254::t_b359900866c063 106-110
+  s_c8aab30bcfc254::t_becaca554fec3d 19-20,41
+  s_c8aab30bcfc254::t_644f247133cbb0 101-105,111-203
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_c8aab30bcfc254::t_1993183596f88a 350-354
+  s_c8aab30bcfc254::t_08c854a6042ca9 378-384
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_c8aab30bcfc254::t_77bf82a3e766cb 564-565
+  s_c8aab30bcfc254::t_ee8e1ac6868fee 203-208,210,215-218,222,227-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b2d2497c3e6d8cc84fdf4b821b245d6ae9f5ba77",
+  "prompts": {},
+  "sessions": {
+    "s_c8aab30bcfc254": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "4ca37c7a7fc0408a8f366e2e6b6ee3ed",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_serializers.py
+  s_823fdfcdde39d0::t_a391254f85f6b8 21
+  s_823fdfcdde39d0::t_611c26c79c5880 48-68
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_823fdfcdde39d0::t_97ce5638a4b133 19
+  s_823fdfcdde39d0::t_323338a489fb12 35
+  s_823fdfcdde39d0::t_cab9fbca52fea3 440
+  s_823fdfcdde39d0::t_b560d8a9e3a3bd 477
+  s_823fdfcdde39d0::t_d51875a89d32a2 478-479
+  s_823fdfcdde39d0::t_5ab5f33a6b3375 480-481
+  s_823fdfcdde39d0::t_1471a0613dac14 517
+  s_823fdfcdde39d0::t_d5b27afc45d741 518-519
+  s_823fdfcdde39d0::t_915f76b863a16e 520-521
+src/dashboard/apigateway/apigateway/biz/stage/sync.py
+  s_823fdfcdde39d0::t_fda149776940a9 1-20,22-31,97,99-100,128
+  s_823fdfcdde39d0::t_9b27c68dbfa9fe 21
+  s_823fdfcdde39d0::t_885757978ad2fc 32-33,35-48,50,52-53,55-57,59-60,62-69,71-75,77-83,85-96,98,101-118,122-127,129-135
+  s_b594ffe64e0e78::t_2b12568413127d 76
+  s_823fdfcdde39d0::t_710830b9b47efc 119,121
+src/dashboard/apigateway/apigateway/apis/open/stage/serializers.py
+  s_823fdfcdde39d0::t_45516c20433f70 27
+  s_823fdfcdde39d0::t_a91aa9525de2fa 48
+  s_823fdfcdde39d0::t_80efe81237cac1 353
+  s_823fdfcdde39d0::t_21f6e73fe997cd 414
+  s_823fdfcdde39d0::t_f403516ac9661a 415-416
+  s_823fdfcdde39d0::t_c6b7cf918afef1 417-418
+  s_823fdfcdde39d0::t_8d1bce6810d5ff 485
+  s_823fdfcdde39d0::t_b67bdedd30f1f4 486-487
+  s_823fdfcdde39d0::t_142f44b9b6e817 488-489
+src/dashboard/apigateway/apigateway/tests/apis/open/stage/test_serializers.py
+  s_823fdfcdde39d0::t_db1bf42423e263 70-92
+src/dashboard/apigateway/apigateway/tests/biz/stage/test_stage.py
+  s_823fdfcdde39d0::t_c26cde8cd4ab36 22,24
+  s_823fdfcdde39d0::t_2dd21b9ce8b39d 25
+  s_823fdfcdde39d0::t_287920b1a9ef9a 55-56,59,68-71
+  s_b594ffe64e0e78::t_305a6e4932e170 57,60-65
+  s_823fdfcdde39d0::t_0e4502d25bd068 72-73,76-92,95-114,116-129,131-148,150-154,156-161
+  s_823fdfcdde39d0::t_fb0f9a2c1c9935 115
+  s_823fdfcdde39d0::t_39cdb9d8a863f4 130
+  s_823fdfcdde39d0::t_93a7ed164ee57f 149
+  s_823fdfcdde39d0::t_4364c71cea78f7 155
+src/dashboard/apigateway/apigateway/biz/stage/__init__.py
+  s_823fdfcdde39d0::t_3eb006f1df0819 20,27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f47a8a71e4be6149cd5b410eae15084481f3c4b5",
+  "prompts": {},
+  "sessions": {
+    "s_823fdfcdde39d0": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "c185cb0e25444703b1787d7b9258a6cf",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_b594ffe64e0e78": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "1397458f5e3345dda7b68a13ec0b3482",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

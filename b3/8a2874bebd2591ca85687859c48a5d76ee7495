@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/biz/stage/sync.py
+  s_b594ffe64e0e78::t_2b12568413127d 76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "b38a2874bebd2591ca85687859c48a5d76ee7495",
+  "prompts": {},
+  "sessions": {
+    "s_b594ffe64e0e78": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "1397458f5e3345dda7b68a13ec0b3482",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

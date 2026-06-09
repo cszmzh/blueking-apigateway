@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_c8aab30bcfc254::t_44437e3d8f136d 221-243
+src/dashboard/apigateway/apigateway/biz/permission/display.py
+  s_c8aab30bcfc254::t_36644fdda88a83 124
+  s_c8aab30bcfc254::t_d552bc2eebb4b7 156-157
+  s_c8aab30bcfc254::t_15aa1523bf0392 178,181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "c7c5251f251f34593484bbb42a7c108d5c64b90d",
+  "prompts": {},
+  "sessions": {
+    "s_c8aab30bcfc254": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "4ca37c7a7fc0408a8f366e2e6b6ee3ed",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

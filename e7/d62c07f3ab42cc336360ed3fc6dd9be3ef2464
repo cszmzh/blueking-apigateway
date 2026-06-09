@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_c8aab30bcfc254::t_800172dfc34b90 575-576,579,583
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e7d62c07f3ab42cc336360ed3fc6dd9be3ef2464",
+  "prompts": {},
+  "sessions": {
+    "s_c8aab30bcfc254": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "4ca37c7a7fc0408a8f366e2e6b6ee3ed",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

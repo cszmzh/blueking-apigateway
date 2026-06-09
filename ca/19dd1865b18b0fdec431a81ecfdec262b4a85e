@@ -1,0 +1,63 @@
+src/dashboard/apigateway/apigateway/biz/stage/sync.py
+  s_823fdfcdde39d0::t_885757978ad2fc 32-97,99,102-119,121,123-128,130-136
+  s_823fdfcdde39d0::t_fda149776940a9 1-20,22-31,98,100-101,129
+  s_823fdfcdde39d0::t_710830b9b47efc 120,122
+  s_823fdfcdde39d0::t_9b27c68dbfa9fe 21
+src/dashboard/apigateway/apigateway/biz/stage/__init__.py
+  s_823fdfcdde39d0::t_3eb006f1df0819 20,27
+src/dashboard/apigateway/apigateway/apis/open/stage/serializers.py
+  s_823fdfcdde39d0::t_c6b7cf918afef1 417-418
+  s_823fdfcdde39d0::t_b67bdedd30f1f4 486-487
+  s_823fdfcdde39d0::t_e2dbc7dce2c4c9 450
+  s_823fdfcdde39d0::t_45516c20433f70 27
+  s_823fdfcdde39d0::t_21f6e73fe997cd 414
+  s_823fdfcdde39d0::t_f403516ac9661a 415-416
+  s_823fdfcdde39d0::t_8d1bce6810d5ff 485
+  s_823fdfcdde39d0::t_80efe81237cac1 353
+  s_823fdfcdde39d0::t_142f44b9b6e817 488-489
+  s_823fdfcdde39d0::t_407f69ba80ecbb 481
+  s_823fdfcdde39d0::t_a91aa9525de2fa 48
+  s_823fdfcdde39d0::t_9e6fd3789deb3d 375
+  s_823fdfcdde39d0::t_077ba7c3f79c43 401
+src/dashboard/apigateway/apigateway/tests/biz/stage/test_stage.py
+  s_823fdfcdde39d0::t_2dd21b9ce8b39d 25
+  s_823fdfcdde39d0::t_93a7ed164ee57f 58,91,146
+  s_823fdfcdde39d0::t_0e4502d25bd068 69-71,73-90,92-111,113-126,128-145,147-151,153-158
+  s_823fdfcdde39d0::t_fb0f9a2c1c9935 112
+  s_823fdfcdde39d0::t_c26cde8cd4ab36 22,24
+  s_823fdfcdde39d0::t_39cdb9d8a863f4 72,127
+  s_823fdfcdde39d0::t_287920b1a9ef9a 55-57,59-68
+  s_823fdfcdde39d0::t_4364c71cea78f7 152
+src/dashboard/apigateway/apigateway/tests/apis/open/stage/test_serializers.py
+  s_823fdfcdde39d0::t_db1bf42423e263 70-92
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_serializers.py
+  s_823fdfcdde39d0::t_611c26c79c5880 48-68
+  s_823fdfcdde39d0::t_a391254f85f6b8 21
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_823fdfcdde39d0::t_033c286a3d46b6 464
+  s_823fdfcdde39d0::t_b560d8a9e3a3bd 477
+  s_823fdfcdde39d0::t_915f76b863a16e 520-521
+  s_823fdfcdde39d0::t_cab9fbca52fea3 440,513
+  s_823fdfcdde39d0::t_d5b27afc45d741 518-519
+  s_823fdfcdde39d0::t_323338a489fb12 35
+  s_823fdfcdde39d0::t_d51875a89d32a2 478-479
+  s_823fdfcdde39d0::t_1471a0613dac14 517
+  s_823fdfcdde39d0::t_5ab5f33a6b3375 480-481
+  s_823fdfcdde39d0::t_97ce5638a4b133 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "ca19dd1865b18b0fdec431a81ecfdec262b4a85e",
+  "prompts": {},
+  "sessions": {
+    "s_823fdfcdde39d0": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "c185cb0e25444703b1787d7b9258a6cf",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

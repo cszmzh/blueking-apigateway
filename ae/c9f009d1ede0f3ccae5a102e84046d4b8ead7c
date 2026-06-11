@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_serializers.py
+  s_b06b4d67c79ca7::t_02a5d98776363d 669-675,678
+  s_b06b4d67c79ca7::t_e7e897dad91ca2 30,620,663-668,676-677,679-687
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_b06b4d67c79ca7::t_d2bc6596c33e66 1190,1203,3388,3406
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/serializers.py
+  s_b06b4d67c79ca7::t_0f81f28b6243a8 695,703-705,970,1006
+  s_b06b4d67c79ca7::t_7795cf36deb88e 1007-1010
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "aec9f009d1ede0f3ccae5a102e84046d4b8ead7c",
+  "prompts": {},
+  "sessions": {
+    "s_b06b4d67c79ca7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b7bf2dc0-c730-498a-99bf-a994ff2deee6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

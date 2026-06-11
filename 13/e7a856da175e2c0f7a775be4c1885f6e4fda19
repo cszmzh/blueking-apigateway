@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/test_helpers.py
+  s_358d07ead4e035::t_7644503fac98f0 69-75
+src/dashboard/apigateway/apigateway/service/alert_flow/helpers.py
+  s_358d07ead4e035::t_4bfe5da12b83a1 74-79,81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "13e7a856da175e2c0f7a775be4c1885f6e4fda19",
+  "prompts": {},
+  "sessions": {
+    "s_358d07ead4e035": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fd941691-1a2b-4855-a707-b5b2de117081",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

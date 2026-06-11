@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/biz/permission/permission.py
+  s_ad8fc5d76fd67b::t_8c8da23fcf458a 79
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_permission.py
+  s_ad8fc5d76fd67b::t_4ff23dcf873598 80-81,83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e86aef6f276ce03a78de1c4019fb571cd10d3a7b",
+  "prompts": {},
+  "sessions": {
+    "s_ad8fc5d76fd67b": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "71c034fd0f7043b7a9e3f646a49cd228",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

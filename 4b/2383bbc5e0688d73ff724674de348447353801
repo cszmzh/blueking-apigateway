@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/apps/permission/managers.py
+  s_4f8d66e6cff1dc::t_9cbc790edbb3d0 58,63-64,66-69,76,81-82,84-87
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_managers.py
+  s_4f8d66e6cff1dc::t_6f814bc21fc350 84,92,136,144
+src/dashboard/apigateway/apigateway/biz/permission/permission.py
+  s_4f8d66e6cff1dc::t_1d00f03cb5d71b 129,143,156,170
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_4f8d66e6cff1dc::t_40b35a059b7e93 214,234
+  s_4f8d66e6cff1dc::t_c745601167bb02 447-461,569-583
+  s_4f8d66e6cff1dc::t_934253ac299594 772-781
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_4f8d66e6cff1dc::t_2be58999a4f7d3 488-501,504,508,561-565
+  s_4f8d66e6cff1dc::t_e67dc133a93da7 26,136,162-167,283,315-320,370,403,405-408
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "4b2383bbc5e0688d73ff724674de348447353801",
+  "prompts": {},
+  "sessions": {
+    "s_4f8d66e6cff1dc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1b59866e-e877-4d3e-9ee1-c06bc8c1c8a9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

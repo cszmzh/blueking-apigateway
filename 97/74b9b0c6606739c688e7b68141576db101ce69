@@ -1,0 +1,19 @@
+src/dashboard-front/src/locales/cn.json
+  s_4f8d66e6cff1dc::t_12a8829b0ba754 2285-2286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "9774b9b0c6606739c688e7b68141576db101ce69",
+  "prompts": {},
+  "sessions": {
+    "s_4f8d66e6cff1dc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1b59866e-e877-4d3e-9ee1-c06bc8c1c8a9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

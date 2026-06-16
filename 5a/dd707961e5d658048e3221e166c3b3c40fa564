@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_marketplace/test_views.py
+  s_0d66ff9f42111e::t_0ecf89c4244911 1338,1340
+  s_0d66ff9f42111e::t_79be1c8bf0b3e8 1255,1284,1305,1315,1331,1360
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/serializers.py
+  s_0d66ff9f42111e::t_20f58d35c0e243 31,96-100,102
+src/dashboard/apigateway/apigateway/biz/mcp_server/permission.py
+  s_0d66ff9f42111e::t_b4b50479ca48c2 67-69
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/views.py
+  s_0d66ff9f42111e::t_86c2ce724453c0 46,130,137,141
+  s_0d66ff9f42111e::t_edb7b2a056fd60 159-166
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_0d66ff9f42111e::t_419d5a397d13d6 915
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/urls.py
+  s_0d66ff9f42111e::t_362068a4d5a8e0 59-62
+src/dashboard/apigateway/apigateway/conf/utils.py
+  s_0d66ff9f42111e::t_be6060fc372b36 243,263
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_permission.py
+  s_0d66ff9f42111e::t_bfe357d3ac43d8 29,280-304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "5add707961e5d658048e3221e166c3b3c40fa564",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_0d66ff9f42111e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "26d43903-2b3a-4575-b5db-2ef38b3ece7c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+src/dashboard-front/pnpm-lock.yaml
+  s_dc5644a07a25c2::t_f449f42137d0a5 29-31,534-538,2756,4755-4758
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "51edb8950e84ef6125cb565c006a11e1a11c6e4d",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_dc5644a07a25c2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "fb25e0b0-eef0-481d-8a4f-4ba43bf652c4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

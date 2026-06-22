@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/biz/mcp_server/audit.py
+  s_c7244debeb6e22::t_6f9c19573256df 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7d5b16fd209037d70a1180860958377b4fcdb525",
+  "prompts": {},
+  "sessions": {
+    "s_c7244debeb6e22": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3607ef8c-03ed-44d7-b9af-213546a20811",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

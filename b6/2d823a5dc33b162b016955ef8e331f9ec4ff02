@@ -1,0 +1,9 @@
+src/dashboard/apigateway/apigateway/apis/web/gateway/views.py
+  h_1cd5b46290d715 416-417,419,444-445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "b62d823a5dc33b162b016955ef8e331f9ec4ff02",
+  "prompts": {}
+}

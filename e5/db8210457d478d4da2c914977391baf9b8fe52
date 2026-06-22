@@ -1,0 +1,48 @@
+src/dashboard/apigateway/apigateway/locale/en/LC_MESSAGES/django.po
+  s_da542ce4a28203::t_cdc5d831ba3ed9 912-915,919,923
+  s_da542ce4a28203::t_71880c5ce4543b 1044-1055,1059,1063,1067
+src/dashboard/apigateway/apigateway/biz/mcp_server/audit.py
+  s_da542ce4a28203::t_28ac3f674997d0 23
+  s_da542ce4a28203::t_b49b66cef4f988 144
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_marketplace/test_views.py
+  s_da542ce4a28203::t_00d0d0bba74e77 1276
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/views.py
+  s_da542ce4a28203::t_a76b4b109d7fb5 28
+  s_da542ce4a28203::t_cc85c3a3687075 35,47,182-192
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_da542ce4a28203::t_3efcd471c403c2 34,45,69,618-628
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_da542ce4a28203::t_48847866b735b5 483,490,493,506-513,531,540,544,546-551
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_da542ce4a28203::t_4b84a16e669cac 1287,1289,1353,1355,1649,1651
+src/dashboard/apigateway/apigateway/apis/v2/open/views.py
+  s_da542ce4a28203::t_d7615d527b2d5f 37,48,68,396-406
+src/dashboard/apigateway/apigateway/biz/audit/auditor.py
+  s_da542ce4a28203::t_fc8dd599e31cec 371-401
+src/dashboard/apigateway/apigateway/biz/mcp_server/permission.py
+  s_da542ce4a28203::t_e4b8810b7a631b 105
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_da542ce4a28203::t_71d0f1af885cdb 311-312,379-380
+src/dashboard/apigateway/apigateway/apps/audit/constants.py
+  s_da542ce4a28203::t_3369821a5b03da 49,87-89
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_da542ce4a28203::t_915bf996feb5fa 805,847,962
+src/dashboard/apigateway/apigateway/tests/apis/v2/open/test_views.py
+  s_da542ce4a28203::t_2bac953cabdb13 119,126,129,140-146,164,172,176-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "e5db8210457d478d4da2c914977391baf9b8fe52",
+  "prompts": {},
+  "sessions": {
+    "s_da542ce4a28203": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e03375ce-c586-4b90-86f6-60e0bcd2f849",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

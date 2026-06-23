@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/apps/permission/models.py
+  h_1cd5b46290d715 117
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_models.py
+  s_bf68709bca53cc::t_82e4421e99fe24 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d41d27aba7a1ba676f9c0a2e278f0eccf73733d8",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_bf68709bca53cc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d373f4fa-abd6-4cb8-9f1f-15cb156b37b1",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_26a699df61bdd9::t_f49a51e0d5c4ba 174
+  s_26a699df61bdd9::t_9e1b9b60b08b04 195-209
+  s_26a699df61bdd9::t_a5c9610f2d67f7 170-171,183-184,191-193
+src/dashboard/apigateway/apigateway/apis/web/permission/serializers.py
+  s_26a699df61bdd9::t_d75377fc810566 128-148
+src/dashboard/apigateway/apigateway/apis/web/permission/urls.py
+  h_1cd5b46290d715 48
+  s_26a699df61bdd9::t_4368120a626c41 46
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_models.py
+  s_26a699df61bdd9::t_86de0ec4b0abf9 47-48,85-87
+  s_26a699df61bdd9::t_8ba8aebe44dab0 49,88
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_26a699df61bdd9::t_6d2e0ced8e2d3c 392-397
+  s_26a699df61bdd9::t_30d21e3cfbc0c3 399-400,402,405-406,409-419,421-422,425-435
+  s_26a699df61bdd9::t_013c37b76a4a46 32,403
+src/dashboard/apigateway/apigateway/apps/permission/models.py
+  s_26a699df61bdd9::t_398120020bee7f 67,115
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f270719497501a6b630ab42ab4e5fbc10af3f383",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_26a699df61bdd9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d096dcdd-d80a-4a39-aa2f-2f57c82b5719",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

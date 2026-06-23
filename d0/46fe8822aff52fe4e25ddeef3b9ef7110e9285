@@ -1,0 +1,14 @@
+src/dashboard/apigateway/apigateway/apis/v2/open/views.py
+  h_1cd5b46290d715 383,389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d046fe8822aff52fe4e25ddeef3b9ef7110e9285",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

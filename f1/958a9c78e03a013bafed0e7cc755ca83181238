@@ -1,0 +1,53 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/gateway/test_views.py
+  s_a0a650cf6fc080::t_3f2692a43b42b9 399
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_a0a650cf6fc080::t_dff476c7a4dc37 227,277
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_a0a650cf6fc080::t_9e937f4ad1ee05 189,259,267
+  s_a0a650cf6fc080::t_12a8640f0c0d86 939
+  s_a0a650cf6fc080::t_e79d6a810288cc 907
+  s_a0a650cf6fc080::t_3e5b1f7bfd60f5 903-906,908
+src/dashboard/apigateway/apigateway/biz/mcp_server/audit.py
+  s_a0a650cf6fc080::t_b9a057665fbb7b 19,68,90,100,141
+src/dashboard/apigateway/apigateway/apis/web/gateway/views.py
+  s_a0a650cf6fc080::t_0e70e00c6bf50f 420-424
+src/dashboard/apigateway/apigateway/locale/en/LC_MESSAGES/django.po
+  s_a0a650cf6fc080::t_93c4e50aa3806a 1043-1055
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  s_a0a650cf6fc080::t_209058e8da8f0b 77
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_a0a650cf6fc080::t_d4c4d571a0c793 308,313,377,382
+src/dashboard/apigateway/apigateway/apis/web/stage/views.py
+  s_a0a650cf6fc080::t_07cd18000f3130 426-431
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  h_1cd5b46290d715 603,609
+  s_a0a650cf6fc080::t_20c23989231af1 927
+src/dashboard/apigateway/apigateway/apis/v2/sync/views.py
+  s_a0a650cf6fc080::t_3c148ae539b694 630
+  s_a0a650cf6fc080::t_3e51a26b30794e 641,662
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_a0a650cf6fc080::t_407e92ee318e1d 1149
+src/dashboard/apigateway/apigateway/tests/apis/web/stage/test_views.py
+  s_a0a650cf6fc080::t_a7b95a928e4873 276
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "f1958a9c78e03a013bafed0e7cc755ca83181238",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_a0a650cf6fc080": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8b4a663e-0073-4d5a-9a03-fe6ba3b25fad",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

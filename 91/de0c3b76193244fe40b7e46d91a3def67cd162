@@ -1,0 +1,14 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/views.py
+  h_1cd5b46290d715 34,175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "91de0c3b76193244fe40b7e46d91a3def67cd162",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

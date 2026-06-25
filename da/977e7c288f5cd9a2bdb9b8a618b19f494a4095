@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/service/prometheus/dimension.py
+  s_f18c34039fadc9::t_24e1cb86dd7385 21,37,608-611,613-631,634-641,643,645,647-664,666-676
+  s_f18c34039fadc9::t_284386aeb881f7 642
+  s_f18c34039fadc9::t_ad8018e0c58f91 612,632-633,644,646,665
+src/dashboard/apigateway/apigateway/apis/web/metrics/urls.py
+  s_f18c34039fadc9::t_81870caa0738ec 21
+src/dashboard/apigateway/apigateway/tests/apis/web/metrics/test_views.py
+  s_f18c34039fadc9::t_6c610632c770d0 19,22,442-447,449-494,506,508-511,514-557,566-587
+  s_f18c34039fadc9::t_a336649a8edea1 28,448,495-505,507,512-513,558-565
+src/dashboard/apigateway/apigateway/service/prometheus/__init__.py
+  s_f18c34039fadc9::t_d67e34b30e87ba 24,79
+src/dashboard/apigateway/apigateway/apis/web/metrics/views.py
+  s_f18c34039fadc9::t_23c7bb7b696e27 335-339,350,360
+  s_f18c34039fadc9::t_9bfe89c255e817 37,50,319-334,340-349,351-359,361-400
+src/dashboard/apigateway/apigateway/apis/web/metrics/serializers.py
+  s_f18c34039fadc9::t_da7b301b95dfa6 110-112,114-123,125-129
+  s_f18c34039fadc9::t_9118280343fcfc 113,124
+src/dashboard/apigateway/apigateway/tests/apis/web/metrics/test_serializers.py
+  s_f18c34039fadc9::t_3fb883ecb17431 184-201
+  s_f18c34039fadc9::t_86e66d71e541fa 183
+  s_f18c34039fadc9::t_3e596afff45adf 152-182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "da977e7c288f5cd9a2bdb9b8a618b19f494a4095",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f18c34039fadc9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "abb6922c-c67c-4eba-89e7-a50c53c64ca9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

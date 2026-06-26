@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-definition.yaml
+  s_47c846b64bf334::t_33f04b3f88d26d 145-146
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_retrieve_gateway_api_details.md
+  s_47c846b64bf334::t_7b58a48a35935d 10-22
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_list_gateway_resources.md
+  s_47c846b64bf334::t_147dcda2144715 9-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "b2ae2fda3491ab5dd6230b72b6bcfbfb6d0482fd",
+  "prompts": {},
+  "sessions": {
+    "s_47c846b64bf334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dbead09a-3ec6-4d77-806b-08004bcc2ff3",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

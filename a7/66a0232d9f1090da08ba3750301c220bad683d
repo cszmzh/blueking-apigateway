@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/apis/web/metrics/serializers.py
+  s_f18c34039fadc9::t_2a4b89e9934a26 70,86,88-91,94
+  h_1cd5b46290d715 97-98,100-101
+src/dashboard/apigateway/apigateway/tests/apis/web/metrics/test_serializers.py
+  s_f18c34039fadc9::t_9e628c91ae6b23 131-144,168,179,194,201
+  s_f18c34039fadc9::t_482cca2f7cb5de 197
+src/dashboard/apigateway/apigateway/apis/web/metrics/views.py
+  s_f18c34039fadc9::t_e25f48e3924a3c 48,267,273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "a766a0232d9f1090da08ba3750301c220bad683d",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f18c34039fadc9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "abb6922c-c67c-4eba-89e7-a50c53c64ca9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

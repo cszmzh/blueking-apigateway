@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/service/prometheus/dimension.py
+  s_f18c34039fadc9::t_b807bc6edaec70 557,562-563,578,581-582,608
+src/dashboard/apigateway/apigateway/apis/web/metrics/views.py
+  s_f18c34039fadc9::t_b36946f4931239 254
+  s_f18c34039fadc9::t_178c989c8daa29 219-226,283-290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "39e6ae81462d9f0f57ecd64dfc8d62856fc82a15",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_f18c34039fadc9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "abb6922c-c67c-4eba-89e7-a50c53c64ca9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

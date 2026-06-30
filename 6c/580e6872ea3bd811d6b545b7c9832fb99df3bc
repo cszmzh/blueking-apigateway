@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_get_released_resources.md
+  s_47c846b64bf334::t_e6cafa15c89ffa 14-39
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_open_get_released_resource.md
+  s_47c846b64bf334::t_ce5bfc32faea55 15-44
+  s_47c846b64bf334::t_23a0d00d022a35 47-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "6c580e6872ea3bd811d6b545b7c9832fb99df3bc",
+  "prompts": {},
+  "sessions": {
+    "s_47c846b64bf334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dbead09a-3ec6-4d77-806b-08004bcc2ff3",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

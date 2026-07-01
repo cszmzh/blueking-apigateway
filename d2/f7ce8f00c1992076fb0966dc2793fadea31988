@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/apps/plugin/constants.py
+  s_8beb2239fb0c12::t_fb09c81c6bcf87 28
+src/dashboard/apigateway/apigateway/tests/service/plugin/test_checkers.py
+  s_8beb2239fb0c12::t_b0394ed6071163 354-381
+src/dashboard/apigateway/apigateway/service/plugin/checker.py
+  s_8beb2239fb0c12::t_974aa21ca9eab0 121-132,487
+src/dashboard/apigateway/apigateway/fixtures/plugins.yaml
+  s_8beb2239fb0c12::t_52a028f2a1b5a5 1408-1477
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "d2f7ce8f00c1992076fb0966dc2793fadea31988",
+  "prompts": {},
+  "sessions": {
+    "s_8beb2239fb0c12": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cf901838-8bb5-4496-a110-0cb36294888c",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

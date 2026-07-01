@@ -1,0 +1,38 @@
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_27cfadd6fdc63c::t_960e80f82c0ef4 81,986
+  s_27cfadd6fdc63c::t_fbf0465dc86625 65
+src/dashboard/apigateway/apigateway/service/mcp/mcp_server.py
+  s_27cfadd6fdc63c::t_ffffe986725bba 19,66-73
+  s_27cfadd6fdc63c::t_25da417461b05b 74-75
+src/dashboard/apigateway/apigateway/apps/mcp_server/management/__init__.py
+  s_27cfadd6fdc63c::t_610eec145bc048 1-17
+src/dashboard/apigateway/apigateway/biz/mcp_server/prompt.py
+  s_27cfadd6fdc63c::t_a328c9db6b2d03 25,34,98
+src/dashboard/apigateway/apigateway/apps/mcp_server/management/commands/fix_invalid_mcp_prompts.py
+  s_27cfadd6fdc63c::t_85a647292a030e 46-54,122
+src/dashboard/apigateway/apigateway/apps/mcp_server/management/commands/__init__.py
+  s_27cfadd6fdc63c::t_29d5670437193c 1-17
+src/dashboard/apigateway/apigateway/service/mcp/__init__.py
+  s_27cfadd6fdc63c::t_d9f00a8431444e 25,39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "09901c39df2f6214a3ee63bb5f1ade23ecd0d027",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_27cfadd6fdc63c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "52cf3872-2350-4b74-b6d4-4f840d7ad22b",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

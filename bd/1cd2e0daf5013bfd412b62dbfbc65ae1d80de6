@@ -1,0 +1,49 @@
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  s_27cfadd6fdc63c::t_1e44a26d98f7c5 24,29-30,37,39-42
+  s_27cfadd6fdc63c::t_e515eaa41b0681 31-32,35-36,38
+  s_27cfadd6fdc63c::t_25618a9a9cb4a3 33-34
+  s_27cfadd6fdc63c::t_be4560f68ac195 43-44
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_27cfadd6fdc63c::t_8736e73776d61e 395-424,601-610
+  s_27cfadd6fdc63c::t_5f02dae6b69670 611-613
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_prompt.py
+  s_27cfadd6fdc63c::t_f582da5cd366a3 167-196
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_27cfadd6fdc63c::t_1cfbd3e0a4e919 81,975,1047-1048
+  s_27cfadd6fdc63c::t_b499895ddb59c4 986-987
+src/dashboard/apigateway/apigateway/common/validators.py
+  s_27cfadd6fdc63c::t_79be8b716cdf3c 18,21
+  s_27cfadd6fdc63c::t_cbf1e068baf1c4 1-17,19-20,22-28
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_27cfadd6fdc63c::t_7b437f9b80505e 156-169
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/management/commands/test_fix_invalid_mcp_prompts.py
+  s_27cfadd6fdc63c::t_1db9f7cc6338ca 32-48
+src/dashboard/apigateway/apigateway/apps/mcp_server/management/commands/fix_invalid_mcp_prompts.py
+  s_27cfadd6fdc63c::t_261d54aee0982e 27,114
+  s_27cfadd6fdc63c::t_0f4d3d3496c675 50,96
+src/dashboard/apigateway/apigateway/biz/mcp_server/prompt.py
+  s_27cfadd6fdc63c::t_2d88fecbc3759e 24
+  s_27cfadd6fdc63c::t_9b4995114e0e75 30-33,36-39,41,84-86
+  s_27cfadd6fdc63c::t_14493be3e25130 34-35,98-99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "bd1cd2e0daf5013bfd412b62dbfbc65ae1d80de6",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_27cfadd6fdc63c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "52cf3872-2350-4b74-b6d4-4f840d7ad22b",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

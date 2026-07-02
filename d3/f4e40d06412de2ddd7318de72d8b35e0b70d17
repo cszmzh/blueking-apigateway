@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/fixtures/plugins.yaml
+  s_8beb2239fb0c12::t_1ebe4049296d3d 1471
+src/operator/pkg/utils/schema/3.13/schema.json
+  s_8beb2239fb0c12::t_35986b98d50246 3333-3382
+src/dashboard/apigateway/apigateway/service/plugin/checker.py
+  s_8beb2239fb0c12::t_5434961a66fd17 127-130,132-135
+  s_8beb2239fb0c12::t_ea3d7e5ff162e7 131
+src/operator/pkg/utils/schema/3.16/schema.json
+  s_8beb2239fb0c12::t_6c4316e562a289 5504-5551
+  s_8beb2239fb0c12::t_e26f807a9eab7e 5502-5503
+src/dashboard/apigateway/apigateway/tests/service/plugin/test_checkers.py
+  s_8beb2239fb0c12::t_c5b1135548253d 370-372
+  s_8beb2239fb0c12::t_c0032ce868adeb 368-369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "d3f4e40d06412de2ddd7318de72d8b35e0b70d17",
+  "prompts": {},
+  "sessions": {
+    "s_8beb2239fb0c12": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cf901838-8bb5-4496-a110-0cb36294888c",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

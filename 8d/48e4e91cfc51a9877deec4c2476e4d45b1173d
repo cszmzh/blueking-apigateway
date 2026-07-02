@@ -1,0 +1,50 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_3383c5f6ec8ca8::t_bf7e4e0c1475d0 31,753-802
+  s_3383c5f6ec8ca8::t_542de4264c914c 803-849
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_3383c5f6ec8ca8::t_9f2246873ba311 22,43-44,48,65,73,479-536,540-580
+  s_3383c5f6ec8ca8::t_b6e5608980e0a5 67,581-661
+  s_3383c5f6ec8ca8::t_27c8cb2b0bf369 19,537-539
+  s_3383c5f6ec8ca8::t_77db57831dde54 662-663
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_app_alarm_records.md
+  s_3383c5f6ec8ca8::t_f9736321869587 1-62
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_3383c5f6ec8ca8::t_4b1102315b186a 1373-1426
+  s_3383c5f6ec8ca8::t_f4b1a63fdba7f2 19,38-39,42,1311-1370
+  s_3383c5f6ec8ca8::t_8be50a449ae9d5 1371-1372
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_app_request_logs.md
+  s_3383c5f6ec8ca8::t_14760114490fb2 1-77
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_3383c5f6ec8ca8::t_40a3f014333e85 4209-4330
+  s_3383c5f6ec8ca8::t_16e5e59cef4f77 4331-4494
+src/dashboard/apigateway/apigateway/apis/v2/inner/urls.py
+  s_3383c5f6ec8ca8::t_2689ba4270248e 36-41
+  s_3383c5f6ec8ca8::t_2685ac7813f036 42-47
+src/dashboard/apigateway/apigateway/apps/monitor/tasks.py
+  s_3383c5f6ec8ca8::t_f2ef48744dc372 88
+src/dashboard/apigateway/apigateway/service/alert_flow/handlers/app_request.py
+  s_3383c5f6ec8ca8::t_51181b3a77142c 55-59,68-74
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/handlers/test_app_request.py
+  s_3383c5f6ec8ca8::t_b0e8e21d82887e 94-123
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "8d48e4e91cfc51a9877deec4c2476e4d45b1173d",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3383c5f6ec8ca8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "13998864-c6d5-4864-b5ec-ad85fab66f40",
+        "model": "composer-2.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

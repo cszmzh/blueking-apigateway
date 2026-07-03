@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_1090f62c1187c3::t_0a90d78890dd62 4209,4351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a56c2ec544fd537487f226505566d3180fe023fc",
+  "prompts": {},
+  "sessions": {
+    "s_1090f62c1187c3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e5e6a620-2f1e-4f07-82f0-16e0261a00ba",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

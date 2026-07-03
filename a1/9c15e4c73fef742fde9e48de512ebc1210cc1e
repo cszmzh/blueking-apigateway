@@ -1,0 +1,33 @@
+src/dashboard/apigateway/apigateway/apps/monitor/migrations/0011_alarmrecord_alarm_type.py
+  s_ba4f3c4b46c387::t_a24a1416a83d71 3-4,8-44,70-75,83-87
+  s_ba4f3c4b46c387::t_ed9665b3b8a2a2 88-89
+src/dashboard/apigateway/apigateway/service/alert_flow/handlers/base.py
+  s_ba4f3c4b46c387::t_7510c324696b3f 59,72-80
+  s_ba4f3c4b46c387::t_434787bb961826 81
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_ba4f3c4b46c387::t_77b974b9ccc75d 537,546-548,568-571
+  s_ba4f3c4b46c387::t_8240463732f91d 572-573
+src/dashboard/apigateway/apigateway/apps/monitor/models.py
+  s_ba4f3c4b46c387::t_85e7e4c74a9af6 144,169
+  s_ba4f3c4b46c387::t_d0f29aace6b59d 170-171
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_ba4f3c4b46c387::t_f293c3c470164e 1328,1346,1364,1413,1430,1471,1488
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/handlers/test_base.py
+  s_ba4f3c4b46c387::t_02b0d531a9b3cd 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a19c15e4c73fef742fde9e48de512ebc1210cc1e",
+  "prompts": {},
+  "sessions": {
+    "s_ba4f3c4b46c387": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "88854a0f-48be-42a4-95fa-0e5eea99c8e1",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

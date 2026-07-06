@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/apps/monitor/models.py
+  s_878f26a2aa1518::t_23dd1a0b48e521 168
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_878f26a2aa1518::t_2958fef8c7af64 537,546
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_878f26a2aa1518::t_60f6f081aa6432 772-773,821-822
+src/dashboard/apigateway/apigateway/apps/monitor/migrations/0011_alarmrecord_alarm_type.py
+  s_878f26a2aa1518::t_173b17bd7dc73e 79-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a66c21949cfb69e80898dd5d9fec4d97593a3b1a",
+  "prompts": {},
+  "sessions": {
+    "s_878f26a2aa1518": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "318fca11-8bb7-4c26-8807-ed753eed4651",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

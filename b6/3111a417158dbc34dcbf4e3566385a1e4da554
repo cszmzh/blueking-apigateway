@@ -1,0 +1,45 @@
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_4fbd2a10c3b2fc::t_18c1e0f17d81e8 380-400
+  s_4fbd2a10c3b2fc::t_d7bea21556b6e0 379
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/gateway/views.py
+  s_4a90564f3c6124::t_c10a1fbe620656 26
+  s_4fbd2a10c3b2fc::t_aedbd6003be4aa 94
+  s_4a90564f3c6124::t_6208edbf5a2c1e 70-72,76-86,93,95,99
+  s_4a90564f3c6124::t_8e01f9b2d8f223 74-75
+src/dashboard/apigateway/apigateway/tests/apis/web/docs/gateway/gateway/test_views.py
+  s_4a90564f3c6124::t_541a545de417f2 41-44,81
+  s_4a90564f3c6124::t_702db19fffd717 23-25,45-80
+  s_4a90564f3c6124::t_3db1390a2e106c 82
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/gateway/serializers.py
+  s_4a90564f3c6124::t_7ea66eed24866a 59-60,62
+  s_4fbd2a10c3b2fc::t_c27a34a1f943cd 61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b63111a417158dbc34dcbf4e3566385a1e4da554",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4a90564f3c6124": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "80959d10-d4ba-4849-9cd1-918fe4ac0cea",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_4fbd2a10c3b2fc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e7b040b2-1379-43d8-a407-9a20290f8503",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apps/monitor/tasks.py
+  s_89bbf78c4b6b54::t_cdc2496bcac3f5 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "4fa6a97fdea32b7ade40aa2b91a310a8bd839495",
+  "prompts": {},
+  "sessions": {
+    "s_89bbf78c4b6b54": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6572dc41-8d30-4ecc-85fb-2a30e6665aec",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

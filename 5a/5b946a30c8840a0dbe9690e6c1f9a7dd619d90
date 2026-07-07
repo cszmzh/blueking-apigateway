@@ -1,0 +1,33 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_app_alarm_records.md
+  s_89bbf78c4b6b54::t_aa3a41b2234944 17-18
+  s_89bbf78c4b6b54::t_53a00ccbd8091b 15-16
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_89bbf78c4b6b54::t_51537d89b80259 773-774,790
+  s_89bbf78c4b6b54::t_4b79a2f5b42a10 775-776
+  s_89bbf78c4b6b54::t_9ecf593827008b 792
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_89bbf78c4b6b54::t_f39e43b0cffb14 4258-4271
+  s_89bbf78c4b6b54::t_299d788fe06fbd 4248,4254
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_89bbf78c4b6b54::t_52b4709a073a18 567,571-575,577
+  s_89bbf78c4b6b54::t_3fc102a24dfc37 521,523
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_89bbf78c4b6b54::t_720cb27c0d7467 1435-1471,1477-1485
+  s_89bbf78c4b6b54::t_ddef940e0937f9 1312-1318,1357,1374-1383,1425,1472-1476
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "5a5b946a30c8840a0dbe9690e6c1f9a7dd619d90",
+  "prompts": {},
+  "sessions": {
+    "s_89bbf78c4b6b54": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6572dc41-8d30-4ecc-85fb-2a30e6665aec",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

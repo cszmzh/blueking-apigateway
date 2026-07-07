@@ -1,0 +1,78 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_1d30b1bb3c229a::t_dfbf9cb1b7a720 849-850,852
+  s_1d30b1bb3c229a::t_45a95660f462e0 57,846-848,851,853-865
+  s_1090f62c1187c3::t_78d8ea6c8b7b0c 801-803
+  s_1090f62c1187c3::t_96dde2a0470443 829-830
+  s_1d30b1bb3c229a::t_e920d14e0dbf30 757-767,794-795,845,866
+  s_1d30b1bb3c229a::t_bc09398349a555 832-839
+  s_1d30b1bb3c229a::t_52b401d52076aa 58
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_1090f62c1187c3::t_7ed9c03b5ab439 23
+  s_1090f62c1187c3::t_560d9855a6cf4b 1453-1457,1510,1523-1537
+  s_1090f62c1187c3::t_4f98d4d269de10 1327,1344,1361,1419,1435,1475,1491
+  s_1090f62c1187c3::t_a8dde60f1a52d6 39,1328,1345,1358-1360,1362-1373,1420,1436,1476,1492
+  s_1d30b1bb3c229a::t_354deada7b61ba 1541-1547,1579,1597-1619
+  s_1090f62c1187c3::t_1b6e0f317879a4 1557
+  s_1d30b1bb3c229a::t_a381fa118f0576 1621-1626
+  s_1d30b1bb3c229a::t_db8e4ca5bd5b15 1378-1379,1396-1397,1406,1452,1508,1578,1596
+  s_1090f62c1187c3::t_e4da563b196877 1538
+  s_1d30b1bb3c229a::t_56c0c703c8fb2d 1620
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_app_alarm_records.md
+  s_1d30b1bb3c229a::t_8a61bcca7764c7 7-12
+  s_1090f62c1187c3::t_2adc7ad5a0799c 19
+src/dashboard/apigateway/apigateway/apis/v2/inner/urls.py
+  s_1d30b1bb3c229a::t_ff182f58ddd5f1 36,38,42,44
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/handlers/test_base.py
+  s_1090f62c1187c3::t_02678fec489bc0 35,37
+  s_1090f62c1187c3::t_b33f58aed299e9 36
+src/dashboard/apigateway/apigateway/service/alert_flow/handlers/base.py
+  s_1090f62c1187c3::t_8a95c33cdaa5b4 59
+  s_1090f62c1187c3::t_163416759b8863 58
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_1090f62c1187c3::t_fbfd382c0b7578 43,503
+  s_1090f62c1187c3::t_32ef7bda7005a0 625,649,675
+  s_1090f62c1187c3::t_d7501347e0b6ff 502
+  s_1d30b1bb3c229a::t_f3f39d27222ff9 647
+  s_1d30b1bb3c229a::t_6955daec1a8c32 67,659-660
+  s_1d30b1bb3c229a::t_897ee675cde8a3 494-497,640-643
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-definition.yaml
+  s_1090f62c1187c3::t_176cfda4e018af 99-101
+src/dashboard/apigateway/apigateway/apps/monitor/models.py
+  s_1090f62c1187c3::t_8da3993e1937c8 145,166-168
+  s_1090f62c1187c3::t_e3bd3113b7f010 146
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_app_request_logs.md
+  s_1d30b1bb3c229a::t_83ab878eb8c6d5 21-22
+  s_1d30b1bb3c229a::t_eb8961a721db67 7-12
+  s_1d30b1bb3c229a::t_d7ab60f78fea8b 24
+src/dashboard/apigateway/apigateway/apps/monitor/migrations/0011_alarmrecord_alarm_type.py
+  s_1090f62c1187c3::t_c15bef378bd7f1 14-18,29-35
+  s_1090f62c1187c3::t_bbb80b343133ad 1-13,19-28,36-38
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_1d30b1bb3c229a::t_d8678fbbccca6b 4209,4216-4217,4221,4342,4351,4358-4359,4363,4501
+  s_1d30b1bb3c229a::t_34a3920de5d374 4391,4394,4397,4400
+  s_1d30b1bb3c229a::t_f3411384828c0c 4414-4415
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "99a68186df9ecf7c8b050847df235371b5469d09",
+  "prompts": {},
+  "sessions": {
+    "s_1090f62c1187c3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e5e6a620-2f1e-4f07-82f0-16e0261a00ba",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_1d30b1bb3c229a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8042a6ae-7301-4e31-80db-d9b7175d0258",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

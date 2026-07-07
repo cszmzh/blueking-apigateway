@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/apis/v2/open/serializers.py
+  s_06baafb4a24eba::t_c20dfe450cf66f 404-408
+src/dashboard/apigateway/apigateway/tests/apis/v2/open/test_views.py
+  s_06baafb4a24eba::t_712441be0bb3f3 159-196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "882adda2f6256e399e2177059e0b98fa79991591",
+  "prompts": {},
+  "sessions": {
+    "s_06baafb4a24eba": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7becf465-a71a-4d01-9050-45ff075807aa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

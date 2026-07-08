@@ -1,0 +1,24 @@
+src/dashboard/apigateway/apigateway/fixtures/plugins.yaml
+  s_5cda4e66e17c31::t_acd063daaf4d19 1480
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bab16221522bb6b5b50235054c254cecda3b531b",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_5cda4e66e17c31": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5be02ead-0604-4cce-a674-d903ef66120e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

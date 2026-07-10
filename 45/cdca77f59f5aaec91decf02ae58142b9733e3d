@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_16f6e704461840::t_418431a00b1482 47-48,70-83,100,117
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_16f6e704461840::t_56ab62d38491cd 19,28,36,491,515-518,521-532
+src/dashboard/apigateway/apigateway/components/bkuser.py
+  s_16f6e704461840::t_26e285093bcf80 86
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_get_gateway.md
+  s_16f6e704461840::t_12157f7ddc2fff 25,54
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_gateways.md
+  s_16f6e704461840::t_0da7d92a828f91 19,49
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_16f6e704461840::t_cdfeefecbbf443 52-53,2283-2284
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_16f6e704461840::t_a22d88fd686249 22,88-140,1663,1665-1668,1671-1679
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_16f6e704461840::t_30e8b52094c59a 194-245
+src/dashboard/apigateway/apigateway/tests/components/test_bkuser.py
+  s_16f6e704461840::t_130549973de574 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "45cdca77f59f5aaec91decf02ae58142b9733e3d",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_16f6e704461840": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "683ec513-1f1e-4804-bffd-fe1d3d4fccf9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

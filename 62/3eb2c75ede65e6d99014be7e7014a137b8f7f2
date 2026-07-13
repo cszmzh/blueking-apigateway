@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/serializers.py
+  s_9ea26966c21376::t_62cf29cf9be9ac 1043-1044
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_permission.py
+  s_9ea26966c21376::t_120ea67ba51435 157-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "623eb2c75ede65e6d99014be7e7014a137b8f7f2",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_9ea26966c21376": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9c57d127-32cd-4c49-bfb1-b652cd2b7b50",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_marketplace/test_views.py
+  s_37735a394a357f::t_ea937d81f838ca 1374
+src/dashboard/apigateway/apigateway/common/exception_handler.py
+  s_37735a394a357f::t_594cc2b55e0831 46
+src/dashboard/apigateway/apigateway/common/error_codes.py
+  s_37735a394a357f::t_e238bd9f21b1d4 118
+src/dashboard/apigateway/apigateway/biz/mcp_server/permission.py
+  s_37735a394a357f::t_3b7f87deb65a56 84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "497194103c70a9cc2b0264295e84e0fb8e1af580",
+  "prompts": {},
+  "sessions": {
+    "s_37735a394a357f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "297d568f-cfcc-4983-a898-427bade60dac",
+        "model": "composer-2.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/serializers.py
+  s_1215d37629f864::t_d3d47b12b7a2b7 1025-1035,1039-1048
+  s_1215d37629f864::t_19005f1d9e9c1b 1050-1051
+  s_1215d37629f864::t_d922da90142dce 1049
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_1215d37629f864::t_30a0194223ed64 1339
+  s_1215d37629f864::t_e3838d2335937f 1337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "bf0fea3f0663b5d3bba317f7274821b172c7e6ed",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1215d37629f864": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "da707e96-65f9-4777-8143-cd2208bf1415",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

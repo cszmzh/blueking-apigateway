@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/common/error_codes.py
+  s_37735a394a357f::t_e8bf6c10f51a9d 118
+src/dashboard/apigateway/apigateway/biz/mcp_server/permission.py
+  s_37735a394a357f::t_fbd50b88c15833 84
+src/dashboard/apigateway/apigateway/apis/web/mcp_marketplace/views.py
+  s_37735a394a357f::t_11605dfa5fb8fb 131-134
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_marketplace/test_views.py
+  s_37735a394a357f::t_5d4aa039997c6c 1372-1374
+src/dashboard/apigateway/apigateway/common/exception_handler.py
+  s_37735a394a357f::t_18e79eaa7e4afd 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "95cbfb8f0014013e950bd0dad2d958d9ab8afa88",
+  "prompts": {},
+  "sessions": {
+    "s_37735a394a357f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "297d568f-cfcc-4983-a898-427bade60dac",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_retrieve_mcp_server_permission_apply_record.md
+  s_7f16f6881e5990::t_e5365782ec8ba8 83
+  s_7f16f6881e5990::t_1aeefcab4a6b32 35-36
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_7f16f6881e5990::t_9a46cc18c3d121 405-407
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_app_permissions.md
+  s_7f16f6881e5990::t_9ae9ba29fbf7d8 33-34
+  s_7f16f6881e5990::t_0549b4b3c422c2 76
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permissions.md
+  s_7f16f6881e5990::t_9ef9030714bf33 100
+  s_7f16f6881e5990::t_22ab2956314608 35,57-58
+  s_7f16f6881e5990::t_afd4092d00e644 34
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permission_apply_records.md
+  s_7f16f6881e5990::t_7f042b8379f14a 88
+  s_7f16f6881e5990::t_ad9cb5688b5c8f 38-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "7b70caee8aa16eda17b1c8afe75052e5d6e8d276",
+  "prompts": {},
+  "sessions": {
+    "s_7f16f6881e5990": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "759c73271a904e03b1720e02633d5abf",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

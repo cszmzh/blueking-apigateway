@@ -1,0 +1,68 @@
+src/dashboard/apigateway/apigateway/controller/publisher/publish.py
+  s_154c754e05c9f3::t_1ca78afacda51c 24,26
+  s_154c754e05c9f3::t_f4657f84316721 79
+  s_9ea26966c21376::t_0fc0159a63364a 19,23,48-54,78,146,206
+  s_154c754e05c9f3::t_ae3839f5e32e51 147
+  s_154c754e05c9f3::t_97c4c4b5a0505a 207
+src/dashboard/apigateway/apigateway/controller/distributor/etcd.py
+  s_154c754e05c9f3::t_1a4e0a647a8240 37-52
+  s_154c754e05c9f3::t_8c81355e6368eb 76-78,149-150
+  s_154c754e05c9f3::t_2ab7be7f2ad673 151
+src/dashboard/apigateway/apigateway/controller/distributor/base.py
+  s_154c754e05c9f3::t_dafff19c612b73 24-27
+  s_154c754e05c9f3::t_9fce0f2e9f36a9 23
+src/dashboard/apigateway/apigateway/controller/distributor/connection.py
+  s_9ea26966c21376::t_5e20d00f156a90 19,25-27,29-30,40
+  s_154c754e05c9f3::t_2a4897ad753df1 1-18,20-24,28,31-39,41-51
+src/dashboard/apigateway/apigateway/biz/release/gateway_releaser.py
+  s_9ea26966c21376::t_b0849fe0c72456 175-176,193,195
+  s_9ea26966c21376::t_bd19523cfcd2a6 194
+  s_9ea26966c21376::t_2283cc2b04ec20 196-198
+  s_154c754e05c9f3::t_80a7119b1f6351 91-93
+  s_154c754e05c9f3::t_a33cb9afc1b126 31
+  s_9ea26966c21376::t_36b4fe56f43097 173
+  s_9ea26966c21376::t_462ff87530d9d8 174
+  s_9ea26966c21376::t_30102d31e37604 199
+src/dashboard/apigateway/apigateway/tests/controller/distributor/test_base.py
+  s_154c754e05c9f3::t_e8eb5875af1d72 58-60
+src/dashboard/apigateway/apigateway/tests/controller/distributor/test_etcd.py
+  s_154c754e05c9f3::t_1d108ec96a779b 64-94
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_releaser.py
+  s_154c754e05c9f3::t_6937b18fb6869d 89-92
+src/dashboard/apigateway/apigateway/tests/controller/publisher/test_publish.py
+  s_154c754e05c9f3::t_678ad0426880b0 24
+  s_154c754e05c9f3::t_04514d6c929009 488-494
+  s_154c754e05c9f3::t_f410aa861501f2 117-142
+  s_154c754e05c9f3::t_ce2343bf128981 41-47,283-288
+  s_154c754e05c9f3::t_aec022c12aa6f1 116
+  s_154c754e05c9f3::t_dcc1183ddc02ae 289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "e995c9ede01b21258a512e8df088a2dbd3be5cd0",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_154c754e05c9f3": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "46192d3938ba4e2baf7e0cb949a7de26",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_9ea26966c21376": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9c57d127-32cd-4c49-bfb1-b652cd2b7b50",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

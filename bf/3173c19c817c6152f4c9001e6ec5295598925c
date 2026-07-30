@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_22042ca498b66c::t_5cb4488775c95f 448-450,452-453,572-577
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "bf3173c19c817c6152f4c9001e6ec5295598925c",
+  "prompts": {},
+  "sessions": {
+    "s_22042ca498b66c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "95b5aab0-4b33-4e58-abe9-1461f1f8d3cf",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

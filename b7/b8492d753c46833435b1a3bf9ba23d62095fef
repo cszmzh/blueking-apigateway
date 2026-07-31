@@ -1,0 +1,60 @@
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/system_bk-apigateway.json
+  s_d8d0404967583a::t_3bcfa532ba3991 567
+  s_f5cf9000018db5::t_284fb9743c76c9 1443,3417
+  s_d8d0404967583a::t_2e0f2156190f61 1375,1943,3349,3917
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_d8d0404967583a::t_348b2bae3f9b63 133,153-158,163
+  s_d8d0404967583a::t_2f22487f96eead 126
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_d8d0404967583a::t_3a07c662262835 360-369,374,386-413,415-424
+  s_d8d0404967583a::t_8f642ad18d5e2c 316-332
+  s_d8d0404967583a::t_bd788015d152d3 58,78-105,273-279,372-373,383-385,414,457,470
+  s_d8d0404967583a::t_f5b1aa65ca3dce 333-339,341-342,344-345
+  s_f5cf9000018db5::t_b80e5ee37bfbc5 340,343
+  s_d8d0404967583a::t_ebd90cb185b583 281-298
+  s_d8d0404967583a::t_7360047809a991 280
+src/dashboard/apigateway/apigateway/utils/string.py
+  s_d8d0404967583a::t_7d864769ac717a 43-44,46-49
+  s_d8d0404967583a::t_4035184f44c62c 45
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_d8d0404967583a::t_64f47e0820fccc 30,123,136,179
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_d8d0404967583a::t_5edffd9beedc80 95-96,98-103,105-115,117-122,124-128,130
+  s_d8d0404967583a::t_94c72b5466927a 20-25,97,104,116,123
+  s_d8d0404967583a::t_2c37c55f77800d 129
+  s_d8d0404967583a::t_1fddcf7b4223e1 131
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/commands/register_to_itsm.py
+  s_d8d0404967583a::t_a38a076d3a0e9e 23,29-30,69-70,112,127-131,138-140,144,156,161-165,171,190-193,201,203,216,230,232,239,243,246,251
+  s_d8d0404967583a::t_85e7b3e8001934 220-221,224,227
+  s_d8d0404967583a::t_4febc0c8ada518 134-136,194,207-213,247
+  s_d8d0404967583a::t_46dfdefb81bd34 123,292,314
+  s_d8d0404967583a::t_9fdb8bdd249c83 146-147,149-153,234,236,244-245,248-250,252-253
+  s_f5cf9000018db5::t_0c23b6d0920358 218,222,225
+  s_f5cf9000018db5::t_b8a3d15db44b97 419-422
+  s_d8d0404967583a::t_9209b2ba4f3e39 80,115-118,148
+  s_d8d0404967583a::t_9e34b5493eff48 337,354,357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "b7b8492d753c46833435b1a3bf9ba23d62095fef",
+  "prompts": {},
+  "sessions": {
+    "s_d8d0404967583a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "aba4ff3d-ca7b-4bff-a5d9-a930539db725",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_f5cf9000018db5": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "d9463960e8274e14bb8b7eb1a5ac7105",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

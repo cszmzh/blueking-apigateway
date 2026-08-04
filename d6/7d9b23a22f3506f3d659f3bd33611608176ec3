@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/handlers/test_base.py
+  s_35dc6db7b6eb7f::t_bd832117f146e3 42-49
+  s_35dc6db7b6eb7f::t_e51bec6539669c 41
+src/dashboard/apigateway/apigateway/service/alert_flow/handlers/base.py
+  s_35dc6db7b6eb7f::t_6e8f92803a9acc 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "d67d9b23a22f3506f3d659f3bd33611608176ec3",
+  "prompts": {},
+  "sessions": {
+    "s_35dc6db7b6eb7f": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "a5811d7faf7e488699482127f6ea36c5",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

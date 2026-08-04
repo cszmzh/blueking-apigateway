@@ -1,0 +1,16 @@
+src/dashboard/apigateway/apigateway/service/alert_flow/handlers/base.py
+  h_1cd5b46290d715 58
+src/dashboard/apigateway/apigateway/tests/service/alert_flow/handlers/test_base.py
+  h_1cd5b46290d715 41-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "afde29ecb4372c28333fd6502f2cdaa5cc545c58",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

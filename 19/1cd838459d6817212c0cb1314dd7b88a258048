@@ -1,0 +1,31 @@
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/system_bk-apigateway.json
+  s_f5cf9000018db5::t_49803d523f3f28 3-4,8-9,14-15
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_f5cf9000018db5::t_06b442566d9716 478-496
+  s_f5cf9000018db5::t_1c2d60403a6cd3 321-352,357
+  s_f5cf9000018db5::t_de5bdb35d38437 400
+  s_f5cf9000018db5::t_8b44b2cff4e412 413,422,427-430,432,435,441,444
+  s_f5cf9000018db5::t_4f9b5d1b53d2bc 307,309-310,312
+  s_f5cf9000018db5::t_c97c844aa356b3 316-317,354
+  s_f5cf9000018db5::t_b9e8ae3cc56e70 410
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/commands/register_to_itsm.py
+  s_f5cf9000018db5::t_e40b53ff5a0063 134-136,142,144-145,148-150
+  s_f5cf9000018db5::t_9fc8058bac60ac 189,197-205
+  s_f5cf9000018db5::t_9c7877ca35ee13 206
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "191cd838459d6817212c0cb1314dd7b88a258048",
+  "prompts": {},
+  "sessions": {
+    "s_f5cf9000018db5": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "d9463960e8274e14bb8b7eb1a5ac7105",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

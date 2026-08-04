@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_52eb48949d45f0::t_a0b505a853851a 332,337-342
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.20",
+  "base_commit_sha": "76fa784cb7f947fd2537bdec25791dbb346f5578",
+  "prompts": {},
+  "sessions": {
+    "s_52eb48949d45f0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c51e70e4-137e-46fb-9d66-12488624e06c",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

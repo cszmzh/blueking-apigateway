@@ -1,0 +1,14 @@
+src/dashboard/apigateway/apigateway/conf/utils.py
+  h_1cd5b46290d715 425-426
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "c0de64c8442cc1774810fd7c09e85fbb3a79b871",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+src/dashboard/apigateway/apigateway/service/resource_version/openapi_export.py
+  s_af9b923381b1be::t_b3836a50671cb9 198-205
+  h_1cd5b46290d715 197
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.1_schema.json
+  s_af9b923381b1be::t_83c0248a6fa7bb 577-581,583-604,606-607
+  s_af9b923381b1be::t_3c8bd4e13781d8 605
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.0_schema.json
+  s_af9b923381b1be::t_97c68d5769009e 550
+  s_af9b923381b1be::t_dfbe4e810c130a 522-526,528-549,551-552
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_2.0_schema.json
+  s_af9b923381b1be::t_1661053095ac65 509
+  s_af9b923381b1be::t_91b9697b651123 481-485,487-508,510-511
+src/dashboard/apigateway/apigateway/tests/apis/web/resource/test_views.py
+  s_af9b923381b1be::t_ab6be596592f1b 1205,1239
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/parsers.py
+  s_af9b923381b1be::t_94dad37b4f12dc 171
+  s_af9b923381b1be::t_4287772305a9d6 172
+src/dashboard/apigateway/apigateway/apis/web/resource/views.py
+  s_af9b923381b1be::t_2b8c37db7da800 85,90
+  s_af9b923381b1be::t_0b93407b10bb44 46,89
+  s_af9b923381b1be::t_3d21db9929bbce 86-88
+  h_1cd5b46290d715 537,569
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "229ac2441f231d4f45a1f867d8fa0728d1422f91",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_af9b923381b1be": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "27239857-cf56-40f3-8896-a3ebe947bd15",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

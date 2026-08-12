@@ -1,0 +1,36 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_sync_resources.md
+  s_4106e6bcf2b1c3::t_f4b29d6b1997df 21,23,25-67
+src/dashboard/apigateway/apigateway/data/apidocs/zh/sync_resources.md
+  s_4106e6bcf2b1c3::t_805207f89fee58 22-68
+src/dashboard/apigateway/apigateway/biz/openapi/openapi.py
+  s_9d2aab5703e89a::t_4597a170784a12 171-172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "663e505bb2ccf2e2a573f610b9321b24561f1676",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4106e6bcf2b1c3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "94462f93-da62-47b7-a2b0-8cb46b949a01",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_9d2aab5703e89a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b3382002-9dc3-4445-8300-c0ed8b2dce70",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

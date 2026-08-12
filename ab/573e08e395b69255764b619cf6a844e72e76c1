@@ -1,0 +1,53 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/resource/test_views.py
+  s_1b9dce6fc3588d::t_b6e8420adbc151 32,1218,1222-1225,1252
+  s_1b9dce6fc3588d::t_d60ce751854d65 1256
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.1_schema.json
+  s_1b9dce6fc3588d::t_f16297a9ce53e0 521,529,546-549,551-572,574-580,582
+  s_1b9dce6fc3588d::t_aeac2eace3aca8 427-433,436-437,439-449,451-474,476
+src/dashboard/apigateway/apigateway/tests/biz/resource_doc/impoter/test_parsers.py
+  s_1b9dce6fc3588d::t_2cc3ac5be95f62 167-193
+  s_1b9dce6fc3588d::t_c462654ae78dad 24,194
+src/dashboard/apigateway/apigateway/apis/web/resource/views.py
+  s_5b23ec261b39e3::t_219a074087afe6 46
+  s_1b9dce6fc3588d::t_12f9554ededfc9 531-532,561-562
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.0_schema.json
+  s_1b9dce6fc3588d::t_27768e0420f626 372-378,381-382,384-394,396-419,421
+  s_1b9dce6fc3588d::t_1982b943701b57 466,474,491-494,496-517,519-525,527
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_2.0_schema.json
+  s_1b9dce6fc3588d::t_4a8db495a0d92a 425,433,450-453,455-476,478-484,486
+  s_1b9dce6fc3588d::t_41b8ddf4de744a 331-337,340-341,343-353,355-378,380
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/parsers.py
+  s_1b9dce6fc3588d::t_155423a718e57a 20,167,169,171-172
+  s_1b9dce6fc3588d::t_3ef0c653abacf4 173-174
+  s_1b9dce6fc3588d::t_7cd91d585ec501 168
+  s_1b9dce6fc3588d::t_df2b0707500fc6 175-181,183-184,186-191,193,197,199,201,218-231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ab573e08e395b69255764b619cf6a844e72e76c1",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1b9dce6fc3588d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "35e4f918-6515-4b6a-812c-763796099eaa",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_5b23ec261b39e3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c6474944-462e-4d7f-9bf7-ee9b868cac66",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/parsers.py
+  s_181abaaeb0411a::t_cff509a9cd6bd1 177
+  s_181abaaeb0411a::t_0421ae6a9eb613 174
+  s_181abaaeb0411a::t_c68a8a7eccb1b1 24,172-173,175-176,178-181
+src/dashboard/apigateway/apigateway/data/apidocs/zh/sync_resources.md
+  s_181abaaeb0411a::t_bd6a173f26c8eb 22-49
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_181abaaeb0411a::t_585fdcf0ba076c 192-303
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_sync_resources.md
+  s_181abaaeb0411a::t_73bfc0076591e0 21-48
+src/dashboard/apigateway/apigateway/tests/apis/web/resource_version/test_views.py
+  s_181abaaeb0411a::t_9101528d6a052e 77-79
+src/dashboard/apigateway/apigateway/tests/apis/web/resource/test_views.py
+  s_181abaaeb0411a::t_4a8e69f9ca5bd4 1232
+  s_181abaaeb0411a::t_eb291816645a44 1201-1204,1206-1213
+  s_181abaaeb0411a::t_79e5b7ebef10eb 1205,1239
+  s_181abaaeb0411a::t_a45318b8849e54 1241-1242
+src/dashboard/apigateway/apigateway/service/resource_version/openapi_export.py
+  s_181abaaeb0411a::t_dc65b2e8245243 143-144
+src/dashboard/apigateway/apigateway/biz/openapi/parser.py
+  s_181abaaeb0411a::t_f836b633740dd3 60
+  s_181abaaeb0411a::t_a77ab32d397d41 58-59
+  s_181abaaeb0411a::t_3e8433238648a6 61-64
+src/dashboard/apigateway/apigateway/apis/web/resource/serializers.py
+  s_181abaaeb0411a::t_e97aef8e59f7a7 849
+  s_181abaaeb0411a::t_58e903617d39c9 722
+  s_181abaaeb0411a::t_b465f309cfaddd 721,723-726
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_2.0_schema.json
+  s_181abaaeb0411a::t_921181beaff100 457,459-465,467-468,470-478,480-485,487-488,491
+src/dashboard/apigateway/apigateway/biz/openapi/openapi.py
+  s_181abaaeb0411a::t_4e860c58c0cf1a 164,167-172,179
+  s_181abaaeb0411a::t_a60644c8baed06 91-113,144
+  s_181abaaeb0411a::t_a1b0637006aa54 165-166
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.0_schema.json
+  s_181abaaeb0411a::t_c1cdfcb296aeee 498,500-506,508-509,511-519,521-526,528-529,532
+src/dashboard/apigateway/apigateway/biz/openapi/schemas/openapi_3.1_schema.json
+  s_181abaaeb0411a::t_ee5bcb94a96b6e 553,555-561,563-564,566-574,576-581,583-584,587
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "fa20415f4473fb0faaeaa5056ae847601ab8d779",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_181abaaeb0411a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9ee055a7-eb40-4272-bbaa-0ea2783bd209",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

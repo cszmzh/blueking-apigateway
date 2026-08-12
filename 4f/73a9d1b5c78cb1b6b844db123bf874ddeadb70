@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/components/bkauth.py
+  s_035843dc584151::t_7d867dee136bcc 85
+  s_035843dc584151::t_64bdf1ae549186 54-59,61-64
+  s_035843dc584151::t_949f088c0e1976 51-53,66,68-69
+  s_035843dc584151::t_60b37bdd410a61 33-36,65,67
+  s_035843dc584151::t_01cc6428c29634 60
+  s_035843dc584151::t_4eb301b6d8f588 70-71
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_tasks.py
+  s_035843dc584151::t_5b8e7d16761775 420-445
+src/dashboard/apigateway/apigateway/tests/components/test_bkpaas.py
+  s_035843dc584151::t_b000c00d3c87c6 23
+  s_035843dc584151::t_020161cacc1066 103-105,107-110,128-130
+  s_035843dc584151::t_995d5ebfb334c2 24-29
+  s_035843dc584151::t_637f1e839e9e9a 106
+  s_035843dc584151::t_9898ea811db1bb 111-127
+src/dashboard/apigateway/apigateway/components/bkpaas.py
+  s_035843dc584151::t_8e43ae8b3e6711 179-180,182-183
+  s_035843dc584151::t_e0fa8bd3824682 181
+src/dashboard/apigateway/apigateway/tests/components/test_bkauth.py
+  s_035843dc584151::t_905b7edc25d20d 61,76
+  s_035843dc584151::t_4f07ba0bfb0124 36,52-59,66-67,69-70
+  s_035843dc584151::t_41c858b92c9126 49
+  s_035843dc584151::t_71c7b9335fe2c4 43-44
+  s_035843dc584151::t_5ca87d95a0bf16 45
+  s_035843dc584151::t_b9210c81d39ade 22,25
+  s_035843dc584151::t_43cfeb87076574 1-21,23-24,26-35,37-42,46-48,50-51,60,62-65,68,71-75,77-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "4f73a9d1b5c78cb1b6b844db123bf874ddeadb70",
+  "prompts": {},
+  "sessions": {
+    "s_035843dc584151": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "f03ae03aee344f29be4d1a9d91977651",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}

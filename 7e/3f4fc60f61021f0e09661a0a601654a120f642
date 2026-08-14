@@ -1,0 +1,25 @@
+src/core-api/config.yaml.tpl
+  s_20e89f72f6d4c8::t_bd21c310039a39 43
+src/mcp-proxy/config.yaml.tpl
+  s_20e89f72f6d4c8::t_08304b04cdc8d6 49,54
+src/core-api/pkg/logging/writer.go
+  s_20e89f72f6d4c8::t_add2e0b8cdf6f4 71
+src/mcp-proxy/pkg/infra/logging/writer.go
+  s_20e89f72f6d4c8::t_2d2e22ebd65760 70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "7e3f4fc60f61021f0e09661a0a601654a120f642",
+  "prompts": {},
+  "sessions": {
+    "s_20e89f72f6d4c8": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "c344af6268b64905a30ffaea196461ec",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

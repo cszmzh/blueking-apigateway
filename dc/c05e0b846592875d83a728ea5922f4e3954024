@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_4a9c8f7fd82e3f::t_240234f252a7b9 453
+  s_4a9c8f7fd82e3f::t_cc2cefed2ad961 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "dcc05e0b846592875d83a728ea5922f4e3954024",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4a9c8f7fd82e3f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bd355f14-da9d-4e77-be95-7d1c8e28c363",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

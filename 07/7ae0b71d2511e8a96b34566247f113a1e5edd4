@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_4a9c8f7fd82e3f::t_de37bc9d4ae746 32
+  s_4a9c8f7fd82e3f::t_40f5c6c13e7d06 447-448,450-451,454-455,462-463
+  s_4a9c8f7fd82e3f::t_6d55ab5a62be11 453,456-461,464-468
+  s_4a9c8f7fd82e3f::t_4ab8ac263c31ee 449,452
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  s_4a9c8f7fd82e3f::t_b507bab88ee141 379-381,447,488,512,517-519,521
+  s_4a9c8f7fd82e3f::t_e82537f6af30b2 480,485,489,494
+  s_4a9c8f7fd82e3f::t_7c378ae711ab11 38
+  s_4a9c8f7fd82e3f::t_a94b33eecbf781 382-446,448-479,481-484,486-487,490-493,495-511,513-516
+  s_4a9c8f7fd82e3f::t_4cab04f518e51d 35
+  s_4a9c8f7fd82e3f::t_3247146d0d5c88 19,25-30,44
+  s_4a9c8f7fd82e3f::t_4f751f0bfc0277 22
+  s_4a9c8f7fd82e3f::t_6d5239d1cbfcf4 520
+src/dashboard/apigateway/apigateway/conf/celery_conf.py
+  h_1cd5b46290d715 88
+  s_4a9c8f7fd82e3f::t_a79ba444326590 86-87,89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "077ae0b71d2511e8a96b34566247f113a1e5edd4",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4a9c8f7fd82e3f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bd355f14-da9d-4e77-be95-7d1c8e28c363",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

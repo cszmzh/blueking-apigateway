@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/constants.py
+  s_4a9c8f7fd82e3f::t_e58d4cebfc4034 31-33
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_4a9c8f7fd82e3f::t_40f5c6c13e7d06 449-469
+  s_4a9c8f7fd82e3f::t_35c215c8b0ddd1 31,36
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  s_4a9c8f7fd82e3f::t_b507bab88ee141 375-414
+  s_4a9c8f7fd82e3f::t_4f751f0bfc0277 21
+  s_4a9c8f7fd82e3f::t_7c378ae711ab11 34
+  s_4a9c8f7fd82e3f::t_4cab04f518e51d 24,30,33
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_official_category.py
+  s_4a9c8f7fd82e3f::t_8d6163ec198fc5 1-179
+src/dashboard/apigateway/apigateway/biz/mcp_server/__init__.py
+  s_4a9c8f7fd82e3f::t_f7c0e5497af3b8 20,29-30
+src/dashboard/apigateway/apigateway/biz/mcp_server/official_category.py
+  s_4a9c8f7fd82e3f::t_aecd4df5691bde 1-59,73-94,96-139
+  s_4a9c8f7fd82e3f::t_b2f680dca87f89 60-72
+  s_4a9c8f7fd82e3f::t_cb245148eb3acb 95
+src/dashboard/apigateway/apigateway/conf/celery_conf.py
+  s_4a9c8f7fd82e3f::t_a79ba444326590 86-87,89
+  h_1cd5b46290d715 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "41cead125e879b74bc65f1f25c7aa20ccd8c20e6",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4a9c8f7fd82e3f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bd355f14-da9d-4e77-be95-7d1c8e28c363",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}

@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_bac7a0ff01d38e::t_88167314e8e5ac 165,167,170-171,183,198-199,201-208
+  s_bac7a0ff01d38e::t_09e8cb3defee4e 184
+  s_bac7a0ff01d38e::t_e836e2d79a449a 162
+  s_bac7a0ff01d38e::t_792ae11e158f5d 200
+  s_bac7a0ff01d38e::t_80bb9f083269f3 34-36
+  s_bac7a0ff01d38e::t_8709abc8a10320 153-161,163-164,166,168-169
+  s_bac7a0ff01d38e::t_602bfe5d52ac31 37
+  s_bac7a0ff01d38e::t_9672b3deef988c 209
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_bac7a0ff01d38e::t_852d3ff710e8d9 68-78,81-84,86-91,94,106,108-111,115-117,119-123
+  s_bac7a0ff01d38e::t_34668fcfdbd3a8 64-67,85,92-93,103-105,107,118
+  s_bac7a0ff01d38e::t_b8ef19674d2e2a 79-80,95-102,112-114
+  s_bac7a0ff01d38e::t_bd3ad5037036fd 23,32
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_bac7a0ff01d38e::t_1b881ae9636a50 306-333
+  s_bac7a0ff01d38e::t_7150daaf0f4a90 305
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8a956059923181e620a5792cb8915d51182460ee",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_bac7a0ff01d38e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "050a01f5-bba2-4bb5-bb1d-86a1ad7fcfc2",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

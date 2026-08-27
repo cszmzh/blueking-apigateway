@@ -1,0 +1,21 @@
+test/cases/dashboard/01-open-api/01-v2-sync/12-generate-sdk.bru
+  s_a5370394d4badf::t_7679f20a431228 1-29
+test/cases/dashboard/01-open-api/02-v2-open/05-gateway-resource-detail.bru
+  s_a5370394d4badf::t_34dc4cbf7ce05b 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "378a32e300629816ce0f138ce92e4a73bb58c5a3",
+  "prompts": {},
+  "sessions": {
+    "s_a5370394d4badf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1639bab0-3851-461c-ba69-687ffe30a840",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": null
+    }
+  }
+}

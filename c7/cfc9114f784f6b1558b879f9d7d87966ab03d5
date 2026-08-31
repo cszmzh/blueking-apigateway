@@ -1,0 +1,44 @@
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_8ba869bd41d0f4::t_ecb8b6b81e3e72 108
+src/dashboard/apigateway/apigateway/tests/apps/rbac/__init__.py
+  s_8ba869bd41d0f4::t_be06a42c1a1334 1
+src/dashboard/apigateway/apigateway/apps/rbac/apps.py
+  s_8ba869bd41d0f4::t_e1fc8c87c61207 5-6
+  s_8ba869bd41d0f4::t_48a51e9f9f63bb 2-4
+src/dashboard/apigateway/apigateway/apps/rbac/migrations/0001_initial.py
+  s_8ba869bd41d0f4::t_e3c244aa65e6e3 1,8-10,17,19-27,30-31
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_constants.py
+  s_8ba869bd41d0f4::t_64c290726e052a 1-9
+src/dashboard/apigateway/apigateway/apps/rbac/constants.py
+  s_8ba869bd41d0f4::t_a2b630a7b8450c 1-7
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_models.py
+  s_8ba869bd41d0f4::t_12570d0a33cd60 1-50
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_migrations.py
+  s_8ba869bd41d0f4::t_4e1c0ce1188f9a 12-15,118-122,141-142,159-161,168,173,176,189-190,194,215
+src/dashboard/apigateway/apigateway/apps/rbac/migrations/0002_backfill_gateway_members.py
+  s_8ba869bd41d0f4::t_8b153b59b41995 59,137
+src/dashboard/apigateway/apigateway/apps/rbac/models.py
+  s_8ba869bd41d0f4::t_993f7588241401 3-25
+  s_8ba869bd41d0f4::t_241f075462f72a 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "c7cfc9114f784f6b1558b879f9d7d87966ab03d5",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_8ba869bd41d0f4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ba44d2b5-34c5-476a-9388-bfcafbb28015",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

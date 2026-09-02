@@ -1,0 +1,32 @@
+test/cases/dashboard/01-open-api/02-v2-open/04-gateway-resources-list.bru
+  s_a5370394d4badf::t_c43d5e11723c3e 25
+  s_a5370394d4badf::t_5bf45d0553f7c6 26-29
+test/cases/dashboard/01-open-api/02-v2-open/05-gateway-resource-detail.bru
+  s_207b928772c495::t_c61576c3f8984e 34-35,37-38
+  s_207b928772c495::t_460550ada31ad4 32-33
+  s_207b928772c495::t_eca31358365dfc 17-31,36,39-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "a86844bd77eca0ca626a5d96197c2f0180a75e3c",
+  "prompts": {},
+  "sessions": {
+    "s_207b928772c495": {
+      "agent_id": {
+        "tool": "codebuddy-ide",
+        "id": "d4bc41b9a1fb4bfd87811829631af741",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_a5370394d4badf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1639bab0-3851-461c-ba69-687ffe30a840",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": null
+    }
+  }
+}

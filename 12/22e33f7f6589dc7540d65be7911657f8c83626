@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_a96083409235a5::t_d9537981efa1d9 74,570,573-575
+  s_a96083409235a5::t_82a74902c336b0 576
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/system_bk-apigateway.json
+  s_a96083409235a5::t_4140824a9ee127 344,346,350,355,357,361,396,399,401,407,410,412
+  s_a96083409235a5::t_24d48338ec3866 3272,3275,3277,3283,3286,3288
+  s_a96083409235a5::t_75d7c9da9d0beb 1255,1258,1260,1266,1269,1271
+  s_a96083409235a5::t_669da02663a587 1888,1890,1894,1899,1901,1905
+  s_a96083409235a5::t_9c09f88ae0f943 3905,3907,3911,3916,3918,3922
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_a96083409235a5::t_c76ea61a026266 185-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "1222e33f7f6589dc7540d65be7911657f8c83626",
+  "prompts": {},
+  "sessions": {
+    "s_a96083409235a5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "67e0641c-d898-4cc6-8935-60ba2d5803f0",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_a96083409235a5::t_2d9d1ed3aba859 74,570,574
+src/dashboard/apigateway/apigateway/apps/bk_itsm/management/system_bk-apigateway.json
+  s_a96083409235a5::t_b9984d8ab7a3d9 399,401,407,410,412
+  s_a96083409235a5::t_862ff10b15e52a 1258,1260,3272,3286
+  s_a96083409235a5::t_628d5e5fa06e0f 396,1905
+  s_a96083409235a5::t_92068493436108 1888,1890,1894,1899,1901
+  s_a96083409235a5::t_19bc72dd4320d0 3905,3907,3911,3916,3918,3922
+  s_a96083409235a5::t_1dc40a5735a334 344,346,350,355,357,361
+  s_a96083409235a5::t_ed85201816af4f 3275,3277,3283,3288
+  s_a96083409235a5::t_30b506bb28f769 1255,1266,1269
+  s_a96083409235a5::t_e799a6d78318cf 1271
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_a96083409235a5::t_133fbe4d903060 185-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "6ed3e4d9421acb1102bb7aa0284b8912d729fc0b",
+  "prompts": {},
+  "sessions": {
+    "s_a96083409235a5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "67e0641c-d898-4cc6-8935-60ba2d5803f0",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

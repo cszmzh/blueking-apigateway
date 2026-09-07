@@ -1,0 +1,77 @@
+src/dashboard/apigateway/apigateway/apis/web/gateway_member/__init__.py
+  s_bfd895a54c48ab::t_9929a595401e70 1-17
+src/dashboard/apigateway/apigateway/tests/apis/web/gateway_member/test_views.py
+  s_bfd895a54c48ab::t_1975d91a4898bd 139
+  s_bfd895a54c48ab::t_b3c3a445257779 72
+  s_bfd895a54c48ab::t_48fb66cd6aaaa1 1-17
+  s_bfd895a54c48ab::t_3de467db4517f3 54
+src/dashboard/apigateway/apigateway/apis/web/gateway_member/urls.py
+  s_bfd895a54c48ab::t_898ead5728faa8 1-17
+src/dashboard/apigateway/apigateway/apis/web/gateway_member/views.py
+  s_bfd895a54c48ab::t_f66f9d30ad31bf 78
+  s_bfd895a54c48ab::t_9fda2916cc8934 24
+  s_bfd895a54c48ab::t_95e66b890ceb3a 27-32
+  s_bfd895a54c48ab::t_c341cbdc2555fe 1-17
+  s_bfd895a54c48ab::t_19f9a342a5a35e 133
+src/dashboard/apigateway/apigateway/biz/gateway/__init__.py
+  s_bfd895a54c48ab::t_d0993230e54b5e 23
+  s_bfd895a54c48ab::t_472f24ffaad4d2 44
+src/dashboard/apigateway/apigateway/tests/apis/web/gateway_member/__init__.py
+  s_bfd895a54c48ab::t_23a6821719ea22 1-17
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_managers.py
+  s_bfd895a54c48ab::t_6a8607d766884a 177,223,249
+  s_bfd895a54c48ab::t_830868471f73c6 187-188
+  s_bfd895a54c48ab::t_129aa274b8d44e 1-17
+  s_bfd895a54c48ab::t_cd984b48d36cc0 27
+  s_bfd895a54c48ab::t_e15465d94b4ba7 210
+  s_bfd895a54c48ab::t_03d9c1012837b8 26
+  s_bfd895a54c48ab::t_5b796adbdeedc1 227
+  s_bfd895a54c48ab::t_6d63255a140ccc 262
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_members.py
+  s_bfd895a54c48ab::t_8770d1eebf6e12 95
+  s_bfd895a54c48ab::t_640a4bab51ccf9 135-151
+  s_bfd895a54c48ab::t_ef0ce971f18025 25
+  s_bfd895a54c48ab::t_09da2989d913e5 20,33
+  s_bfd895a54c48ab::t_a6c88b2359fdce 166
+  s_bfd895a54c48ab::t_18e4526d3fdf15 114
+  s_bfd895a54c48ab::t_e883d927608916 128
+  s_bfd895a54c48ab::t_90dc1a8b31e1f6 1-17
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_bfd895a54c48ab::t_3100cc7fe6d4be 38,170
+  s_bfd895a54c48ab::t_19615266e4219c 180-181,186-187,197-199,211,216,223
+  s_bfd895a54c48ab::t_c58ae4e7cfc6c2 1-17
+  s_bfd895a54c48ab::t_ef7b5a1607927a 220,233
+  s_bfd895a54c48ab::t_38181f066186a2 22
+  s_bfd895a54c48ab::t_cc5034c8540df5 27,30
+  s_bfd895a54c48ab::t_198f2e6b747868 202
+  s_bfd895a54c48ab::t_3af2ce7c3b98eb 214,219,231-232,238-241,243-250
+  s_bfd895a54c48ab::t_b9f9f14fab8bc3 242
+  s_bfd895a54c48ab::t_886b7a31cbf415 39-42
+  s_bfd895a54c48ab::t_3847872935403a 251-253
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_bfd895a54c48ab::t_8f75c02084553b 125-130
+  s_bfd895a54c48ab::t_67a67bd070eff7 141
+  s_bfd895a54c48ab::t_777ee80c271f62 1-17
+  s_bfd895a54c48ab::t_0d21914302fe39 121
+  s_bfd895a54c48ab::t_c5d54a1fe854e7 90-97,101,105-109,132
+  s_bfd895a54c48ab::t_01dac73ce03bd6 27,38-44
+  s_bfd895a54c48ab::t_0aa6971af9eefe 45-46
+src/dashboard/apigateway/apigateway/apis/web/gateway_member/serializers.py
+  s_bfd895a54c48ab::t_d6bc35ea05b5b9 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "0e4770f802985e2227e7c06a119fb46e33b8e6c3",
+  "prompts": {},
+  "sessions": {
+    "s_bfd895a54c48ab": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c241f9f3-332e-4ad5-8520-80df743a31cc",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

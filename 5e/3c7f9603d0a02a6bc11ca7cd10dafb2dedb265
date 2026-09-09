@@ -1,0 +1,53 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_server_log/views.py
+  s_223f959a326334::t_475a416c7f264d 195
+  s_223f959a326334::t_10338ec998aa1e 252
+  s_223f959a326334::t_4a0a5762c6f5b4 220
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server_log/test_chain_query.py
+  s_223f959a326334::t_d8d94b8a68cc05 27,39,43-45,49,53,61
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/chain_query.py
+  s_223f959a326334::t_453deba84326c9 18
+  s_223f959a326334::t_5ce431e8419bc2 30,41,45,49,55,64,69,78,95,103,107,115
+src/dashboard/apigateway/apigateway/apis/web/gateway_user_permission/views.py
+  s_223f959a326334::t_1d34c9afb20c7c 24,27,32,36
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/chain_search.py
+  s_223f959a326334::t_85f393a23957b6 295
+  s_223f959a326334::t_8526c3f88eb8b3 292
+src/dashboard/apigateway/apigateway/tests/apis/web/test_gateway_action_declarations.py
+  s_223f959a326334::t_f573dc42d5a54c 38
+src/dashboard/apigateway/apigateway/apis/web/access_log/views.py
+  s_223f959a326334::t_0927deb601c4b8 242
+  s_223f959a326334::t_4ce76b6310c7ba 296
+src/dashboard/apigateway/apigateway/apis/web/gateway_user_permission/serializers.py
+  s_223f959a326334::t_821e9c5a891f97 23,32
+src/dashboard/apigateway/apigateway/tests/apis/web/gateway_user_permission/test_views.py
+  s_223f959a326334::t_5c644fbf564a23 35
+  s_223f959a326334::t_f7d1e8bb94791e 75
+  s_223f959a326334::t_0d4190d90e4f57 49,67,83
+  s_223f959a326334::t_2da15d3cc4a918 58
+src/dashboard/apigateway/apigateway/biz/access_log/log.py
+  s_223f959a326334::t_6507a7ec897803 44,48
+  s_223f959a326334::t_7f2414fe55cbff 19
+src/dashboard/apigateway/apigateway/apis/web/gateway_user_permission/urls.py
+  s_223f959a326334::t_f76a3c05234566 20
+  s_223f959a326334::t_dfe350c501ef0d 23
+src/dashboard/apigateway/apigateway/tests/apis/web/access_log/test_views.py
+  s_223f959a326334::t_edf7c5d110df0b 147
+  s_223f959a326334::t_aadcfc0ac49050 166-181
+  s_223f959a326334::t_4372dd2e559a59 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "5e3c7f9603d0a02a6bc11ca7cd10dafb2dedb265",
+  "prompts": {},
+  "sessions": {
+    "s_223f959a326334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1a949ce4-b519-44a7-8778-700c87e7f10a",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

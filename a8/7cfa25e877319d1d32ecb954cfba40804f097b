@@ -1,0 +1,24 @@
+src/dashboard/apigateway/apigateway/urls.py
+  s_223f959a326334::t_1e666dfc91e2b3 72
+src/dashboard/apigateway/apigateway/tests/apis/web/test_gateway_action_declarations.py
+  s_223f959a326334::t_468542236a508f 23
+  s_223f959a326334::t_a95dc3055260b7 38
+src/dashboard/apigateway/apigateway/apis/web/gateway_user/serializers.py
+  s_223f959a326334::t_9e45bf73567df6 32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "a87cfa25e877319d1d32ecb954cfba40804f097b",
+  "prompts": {},
+  "sessions": {
+    "s_223f959a326334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1a949ce4-b519-44a7-8778-700c87e7f10a",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

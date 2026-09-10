@@ -1,0 +1,76 @@
+src/dashboard/apigateway/apigateway/apis/web/mcp_server_metrics/views.py
+  s_223f959a326334::t_708e5d31b67160 104-105
+  s_223f959a326334::t_7814d8cf8a65a8 54-55
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_223f959a326334::t_434a63058974cc 45-48
+src/dashboard/apigateway/apigateway/apis/web/gateway_user_permission/serializers.py
+  s_223f959a326334::t_4cd0e1c6e32bf7 24
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/es_query.py
+  s_223f959a326334::t_2d74dc0e42631c 42
+  s_223f959a326334::t_fe16009274f531 19
+  s_223f959a326334::t_9d760443efa6ff 93,160
+  s_223f959a326334::t_a37998a435ebf4 38-41,43-44,51
+  s_223f959a326334::t_32ccb9f5d0f8d2 62
+  s_223f959a326334::t_df96216b4606e7 139
+src/dashboard/apigateway/apigateway/apis/web/gateway/urls.py
+  s_223f959a326334::t_3f6c50e6d0a4f6 27
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/check_gateway_rbac_data.py
+  s_223f959a326334::t_c78a959218e0a9 56-60
+  s_223f959a326334::t_156e727b7b70a8 20
+  s_223f959a326334::t_bd5a902c41ceb4 71,73-74
+  s_223f959a326334::t_76c6ee34cf9bf7 30-37
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_223f959a326334::t_6fc4bd78ceb602 66
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/log_search.py
+  s_223f959a326334::t_7be026cc5af20a 30
+  s_223f959a326334::t_531a887885158c 114
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server_log/test_chain_query.py
+  s_223f959a326334::t_c3773dec627cd0 25
+  s_223f959a326334::t_92c11560d9c690 59
+  s_223f959a326334::t_494717bc52f127 89-114
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/chain_search.py
+  s_223f959a326334::t_7623abe4e953d1 294-300,307
+  s_223f959a326334::t_b8819d9670a29d 144,234
+  s_223f959a326334::t_1db1a01b114772 52
+src/dashboard/apigateway/apigateway/tests/apis/web/test_gateway_action_declarations.py
+  s_223f959a326334::t_1eb4efcb9d8af9 19,23,32-33,39,84-212,228-235,238-241,243-249
+  s_223f959a326334::t_f13d3b6ecdbcbb 236-237
+  s_223f959a326334::t_690713f1f266f7 242
+src/dashboard/apigateway/apigateway/apis/permissions.py
+  s_223f959a326334::t_05de7d219b70e9 1-2,12-13,21,38-47
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/chain_query.py
+  s_223f959a326334::t_49894d36aba3df 30
+  s_223f959a326334::t_c664a3629dc30c 71
+  s_223f959a326334::t_630ebecc395c79 56
+  s_223f959a326334::t_be878467822468 18
+  s_223f959a326334::t_197eb4d326b7c9 64,79,105,118
+  s_223f959a326334::t_15ec7975bbe75a 40
+  s_223f959a326334::t_0f782b9e26cbf7 111
+  s_223f959a326334::t_4b7587cf384ca0 98
+src/dashboard/apigateway/apigateway/apis/web/gateway/views.py
+  s_223f959a326334::t_2d90752131e780 117
+  s_223f959a326334::t_8fd24b897a925c 81-86
+src/dashboard/apigateway/apigateway/biz/mcp_server_log/utils.py
+  s_223f959a326334::t_064c00e029dbdb 66-68
+src/dashboard/apigateway/apigateway/tests/apis/test_permissions.py
+  s_223f959a326334::t_538871ce3ef570 89-91
+  s_223f959a326334::t_9b32b36d560f23 7
+  s_223f959a326334::t_7026090bf4e989 101
+  s_223f959a326334::t_d804731878d6fe 115,125-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "ae9211e7a93ac47a9dbd1555624c6c7675eb0ab4",
+  "prompts": {},
+  "sessions": {
+    "s_223f959a326334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1a949ce4-b519-44a7-8778-700c87e7f10a",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

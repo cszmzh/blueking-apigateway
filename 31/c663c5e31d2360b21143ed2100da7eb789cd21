@@ -1,0 +1,30 @@
+src/dashboard/bin/on_migrate
+  s_df51418160cb66::t_205290e99c55f1 27
+src/dashboard/pyproject.toml
+  s_df51418160cb66::t_1d982e754c6bec 308,465
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_df51418160cb66::t_a714d46da4d684 159,162,166,181,185,196,200,204,208,211,215,219,227,232,244,248,252,258,262,265,267,273,278,284,294,305,315,324,334,338,343,348,351,356,359,362,366,372,375,380,385,389,394
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_auth_to_iam.py
+  s_df51418160cb66::t_c2a3447c0c2fae 189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "31c663c5e31d2360b21143ed2100da7eb789cd21",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_df51418160cb66": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b6517a37-1f99-4480-8cec-28aae38f081e",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

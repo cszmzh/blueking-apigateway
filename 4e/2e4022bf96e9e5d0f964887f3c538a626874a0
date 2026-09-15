@@ -1,0 +1,172 @@
+src/dashboard/apigateway/apigateway/apps/rbac/constants.py
+  s_4798a26715ff69::t_9483ee3aaf83bd 31-33
+  s_4798a26715ff69::t_4e68f8482769d8 34-36
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_4798a26715ff69::t_59122b82ab3e46 423
+src/dashboard/pyproject.toml
+  s_4798a26715ff69::t_1de16cdcc8e32a 321,453
+  s_4798a26715ff69::t_03c4f134b4b5dd 403-404
+  s_4798a26715ff69::t_7970324073b157 307-308,466-467
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_4798a26715ff69::t_521b10ba5c124a 46-48
+  s_4798a26715ff69::t_10efbb3839e53e 283
+  s_4798a26715ff69::t_04a472f1f3569e 80,87-88,94,117,124
+  s_4798a26715ff69::t_8ce590a5931a09 81-83
+  s_4798a26715ff69::t_fa69f16c22e943 105-107
+  s_4798a26715ff69::t_e00500f60ba2dd 39-44
+  s_4798a26715ff69::t_c53b79c9ac4715 184-186
+  s_4798a26715ff69::t_6f2566c44446ca 148-149,204,249-250,253,272
+  s_4798a26715ff69::t_4fe9937abdeb98 314-317
+  s_4798a26715ff69::t_850c8f60dde00b 325
+  s_4798a26715ff69::t_de84bfcc7e3041 68,75
+  s_4798a26715ff69::t_fcd8df8ed1a636 121
+  s_4798a26715ff69::t_05a463e8ca7524 329-359
+  s_4798a26715ff69::t_7cf14316e3cd90 134,137
+  s_4798a26715ff69::t_6e2b7bc9d9b2de 22
+  s_4798a26715ff69::t_1e5c232682490b 169
+  s_4798a26715ff69::t_4bc51f83405abc 122
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_4798a26715ff69::t_881af260b2cf2f 37-41
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_constants.py
+  s_4798a26715ff69::t_157a71906a11d9 32-35
+  s_4798a26715ff69::t_2f280c76ee68d5 3,37-40
+  s_4798a26715ff69::t_aa355c6e1d492a 8
+  s_4798a26715ff69::t_3f9e342fc639d2 2
+  s_4798a26715ff69::t_9354e155c4eb13 36
+src/dashboard/apigateway/apigateway/biz/iam/sync.py
+  s_4798a26715ff69::t_5b5d6d6f63569d 32,277,279
+  s_4798a26715ff69::t_39248953858f73 38
+  s_4798a26715ff69::t_fbdcff3a5ef3f9 29,39-47
+  s_4798a26715ff69::t_50d287f1af13b5 186-190,192-193
+  s_4798a26715ff69::t_9afef2febff842 278,280
+src/dashboard/apigateway/apigateway/biz/iam/__init__.py
+  s_4798a26715ff69::t_b5df5e831aa957 1-62
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_auth_to_iam.py
+  s_4798a26715ff69::t_238f7c74704ff4 29
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_4798a26715ff69::t_c85e0c936089df 555
+  s_4798a26715ff69::t_bda541287c7f5a 551,553
+src/dashboard/apigateway/apigateway/biz/iam/model.py
+  s_4798a26715ff69::t_2fd183819c239f 21,38,99,110-112,118,139,159,163,185,189,209,239,241
+  s_4798a26715ff69::t_f515d61a0f4cdd 35
+  s_4798a26715ff69::t_87bd403222caa5 37
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_authorization.py
+  s_4798a26715ff69::t_5d31f3e8c9d53b 23
+  s_4798a26715ff69::t_59122b82ab3e46 55-146
+src/dashboard/apigateway/apigateway/apps/rbac/migrations/0002_backfill_gateway_members.py
+  s_4798a26715ff69::t_56c9c74056d18b 8
+src/dashboard/apigateway/apigateway/apps/rbac/apps.py
+  s_4798a26715ff69::t_f0430aadf2be62 1-17
+  s_4798a26715ff69::t_f131f80f18a24e 20,26-27,29-41
+  s_4798a26715ff69::t_6c36ec54b660e7 19
+  s_4798a26715ff69::t_2d2787aad484ad 28
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_4798a26715ff69::t_c490111bd85174 32
+  s_4798a26715ff69::t_3ad2353c8964f2 30,33,57,67,117
+src/dashboard/apigateway/apigateway/tests/biz/iam/__init__.py
+  s_4798a26715ff69::t_1c3351169f6993 1-17
+src/dashboard/apigateway/apigateway/biz/iam/auth.py
+  s_4798a26715ff69::t_a339442b2e8a1b 28
+  s_4798a26715ff69::t_88b13150510a9c 30
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_4798a26715ff69::t_2042a99bd37878 33,109-130
+  s_4798a26715ff69::t_23d8537d56959c 37-38
+  s_4798a26715ff69::t_050e2aa54101be 23
+  s_4798a26715ff69::t_b2543b2f1733ac 46
+src/dashboard/apigateway/apigateway/components/utils.py
+  s_4798a26715ff69::t_2bb2dc958ece64 22,37-38,117,179
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_4798a26715ff69::t_155aab37fdb837 35
+  s_4798a26715ff69::t_59122b82ab3e46 44-211
+  s_4798a26715ff69::t_cd4ebe5ed5be0e 24
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_4798a26715ff69::t_cbf0fc52a2a2d3 29
+src/dashboard/apigateway/apigateway/tests/apis/test_permissions.py
+  s_4798a26715ff69::t_1cbf216c75b966 206
+  s_4798a26715ff69::t_e92934201fdc20 186,197
+  s_4798a26715ff69::t_49f81ac43ce7f1 226,237
+  s_4798a26715ff69::t_f32aa1a03d9589 10
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_apps.py
+  s_4798a26715ff69::t_e0a6d5d353060b 1-21,23-38,40-43
+  s_4798a26715ff69::t_1d2d66df63d15b 22,39
+src/dashboard/apigateway/apigateway/biz/iam/constants.py
+  s_4798a26715ff69::t_2ae4476e87cf42 1-19,22-33
+  s_4798a26715ff69::t_7f227b0d21dfd6 20-21
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_model_to_iam.py
+  s_4798a26715ff69::t_7c51bbab525d9d 23
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_model.py
+  s_4798a26715ff69::t_59122b82ab3e46 40
+  s_4798a26715ff69::t_b6a9ef4af62802 24,26
+  s_4798a26715ff69::t_1189471443fd07 25
+  s_4798a26715ff69::t_d69641c7c98b21 63-66,70,81-84,113,224,227,229-230
+  s_4798a26715ff69::t_753d19714083ca 43
+src/dashboard/apigateway/apigateway/apis/permissions.py
+  s_4798a26715ff69::t_94a61e1012dd1b 11
+  s_4798a26715ff69::t_1d5804591a2ad9 45,48
+  s_4798a26715ff69::t_3e581d03be83ed 10
+  s_4798a26715ff69::t_b92815a60c02be 47
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_auth.py
+  s_4798a26715ff69::t_b6e36a0a2c5a91 20
+  s_4798a26715ff69::t_59122b82ab3e46 46
+  s_4798a26715ff69::t_b95b738d58095b 44
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_4798a26715ff69::t_13d372838d2671 44-45
+  s_4798a26715ff69::t_83636a8b3dd5de 120-133,145-146,148-153,164-165,167-172,191-192,194-199,212-213,215-221,229-234
+  s_4798a26715ff69::t_6823f236fa9aad 33
+  s_4798a26715ff69::t_b8945f28d418aa 24
+  s_4798a26715ff69::t_1b632b33e86bf3 38-40
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_4798a26715ff69::t_23d96198704fbc 30
+  s_4798a26715ff69::t_59122b82ab3e46 296,299-300,317,320
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_4798a26715ff69::t_564152e1e0dcf4 30-31
+  s_4798a26715ff69::t_1ab6cdff34837a 427
+  s_4798a26715ff69::t_5fef7a0cd5ed2e 19
+  s_4798a26715ff69::t_e1475fd07f510b 32-33
+  s_4798a26715ff69::t_1025edd6936f21 153-155,158-160
+  s_4798a26715ff69::t_438f4539e1531d 190-191,203,217,224
+  s_4798a26715ff69::t_5df4114e3d51a6 277
+  s_4798a26715ff69::t_281e817e8b7bb6 173
+  s_4798a26715ff69::t_fbd133119c59a9 307
+  s_4798a26715ff69::t_7f7d1e5d3ee07e 357
+  s_4798a26715ff69::t_7ce5207dd0b57d 229-234
+  s_4798a26715ff69::t_ddd33ea9a26721 1,25-26,164,168,176,186,202,206,216,219,223,226,238-243,248-253,258-263,268-274,278-284,288-294,298-304,308-309,311-314,318-323,328-329,331-334,336,338-344,348-349,351-353,358-363,367,372-377,382,387-392,398-405,415-422,432-438
+  s_4798a26715ff69::t_3aff438104e1c3 163,167,181-184,187-189,192-194,196-199
+  s_4798a26715ff69::t_83c1e494655909 23
+  s_4798a26715ff69::t_0f085443db7fc5 244,254,264,324,354,364
+  s_4798a26715ff69::t_78b59f977a6805 378,406,423
+  s_4798a26715ff69::t_6eb4d0ca826587 431,439-443
+  s_4798a26715ff69::t_59db662d17021b 371
+  s_4798a26715ff69::t_d7b9b1daa68c56 210
+  s_4798a26715ff69::t_a194a9d4cc9f93 172,177-179
+  s_4798a26715ff69::t_e55799fd754ba9 337
+  s_4798a26715ff69::t_34d0c338df1600 195
+  s_4798a26715ff69::t_01188335e27e94 185
+  s_4798a26715ff69::t_aed20fbe55af3c 393,409,426
+  s_4798a26715ff69::t_e055bad2dae913 397
+  s_4798a26715ff69::t_554931c916a562 410
+  s_4798a26715ff69::t_4feed0b391b00a 34,211-213
+  s_4798a26715ff69::t_1d37a52d483b6b 414
+  s_4798a26715ff69::t_20314a3ce60aa3 200-201,214-215,227-228,305,356
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e2e4022bf96e9e5d0f964887f3c538a626874a0",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_4798a26715ff69": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ba027c01-b892-4930-9106-04d7e2ee764a",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

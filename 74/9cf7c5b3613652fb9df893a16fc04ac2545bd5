@@ -1,0 +1,37 @@
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_ab19f013a7c805::t_48ccf269fd8402 251,285,319
+  s_ab19f013a7c805::t_f8417638b1de9e 243,277,311
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_authorization.py
+  s_ab19f013a7c805::t_672d103a9ba8c0 156-157,159,162-163
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_ab19f013a7c805::t_158a08772b466d 557
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_model_to_iam.py
+  s_ab19f013a7c805::t_91fef036a3fb09 53
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_ab19f013a7c805::t_cc6bdcacd5f5ab 513
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_ab19f013a7c805::t_5a14326e17ed21 288
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_ab19f013a7c805::t_f50fc1ebb6fcb4 48,50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "749cf7c5b3613652fb9df893a16fc04ac2545bd5",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_ab19f013a7c805": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4e886e2c-09cf-4c1a-9987-9c80f1a52874",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

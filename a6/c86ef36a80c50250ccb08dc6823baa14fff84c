@@ -1,0 +1,38 @@
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_adff57009407f7::t_19c6881c899ea3 394-406,409,413-417,422-424,426-427,432,437-445
+  s_adff57009407f7::t_60210bcc43be76 425,428,446-449,451
+  s_adff57009407f7::t_242314b24c9066 407-408,410-412,418-419,421,429-431,433-436,452-466,468-500
+  s_adff57009407f7::t_dd8fe969148123 450,467
+  s_adff57009407f7::t_89b8f155172db9 516-520
+  s_adff57009407f7::t_d85029ce082b0d 501-515,521-530
+  s_adff57009407f7::t_3952fb0d0904be 420
+src/dashboard/pyproject.toml
+  s_adff57009407f7::t_f4fbdfb3c23ff5 314-315,475-476
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/add_global_gateway_administrators.py
+  s_adff57009407f7::t_d4cf9d0587850e 77,94
+  s_adff57009407f7::t_19c6881c899ea3 1-23,29,33-47,49-60,63-72,74,81-83,86-90,102-107,112-124,133-136,138-140
+  s_adff57009407f7::t_9d27fb13c496cb 24-28,30-32,73,75-76,78-80,84-85,91-93,95-101,108-111,137
+  s_adff57009407f7::t_f032c85a232060 61-62,141-142
+  s_adff57009407f7::t_213f4647877cf4 48,125-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "a6c86ef36a80c50250ccb08dc6823baa14fff84c",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_adff57009407f7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7f4d66ba-eb7f-4900-b046-19663dc39fdf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

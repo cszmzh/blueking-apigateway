@@ -1,0 +1,101 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/constants.py
+  s_1bc4d72561e522::t_eac532325229b3 51
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_1bc4d72561e522::t_d69dc53d1db740 1001
+src/dashboard/apigateway/apigateway/apps/permission/migrations/0014_add_revoked_apply_status.py
+  s_1bc4d72561e522::t_8eef74ffbd8268 1-33
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_1bc4d72561e522::t_02633fe10c4137 31,289-311
+  s_1bc4d72561e522::t_710099daf671f1 312-313
+src/dashboard/apigateway/apigateway/apps/mcp_server/migrations/0016_add_revoked_apply_status.py
+  s_1bc4d72561e522::t_ef27e758996daa 1-23
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_1bc4d72561e522::t_4c55b3fd6f68b4 1423-1430
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_1bc4d72561e522::t_2905743d36fd5f 298-327
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_1bc4d72561e522::t_b231d0d2514503 421,508
+  s_1bc4d72561e522::t_d39daf61b47581 417,439-457,518-537
+  s_1bc4d72561e522::t_e2c92761c7cb35 418-420,422-438,504-507,509-517,538-542
+  s_1bc4d72561e522::t_0557bd106b2962 543-544
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_1bc4d72561e522::t_365410a043314e 1816-1836
+  s_1bc4d72561e522::t_8398ce48d07930 29,1342,1344-1366,1370-1377,1382,1390-1428,1454-1467,1527-1533,1676,1678-1686,1690-1697,1707-1730
+  s_1bc4d72561e522::t_34986736cd4c6a 1677,1687-1689,1700-1706
+  s_1bc4d72561e522::t_fdd1646f7ffa80 2063-2084
+  s_1bc4d72561e522::t_d998ba1489b8d8 1213-1217,1233
+  s_1bc4d72561e522::t_87151d6ab91f6b 1476,1493-1495,1506-1513
+  s_1bc4d72561e522::t_2522f8e1576477 1590-1610
+  s_1bc4d72561e522::t_cd933248970b08 1343,1367-1369,1383-1389
+  s_1bc4d72561e522::t_ea02c41e48375c 25
+  s_1bc4d72561e522::t_31fa1296ad27eb 1734,1744-1746,1756-1763
+  s_1bc4d72561e522::t_7007c749783214 33,1429-1451
+  s_1bc4d72561e522::t_c7cec90c07aff4 1378-1381,1452-1453,1468-1475,1477-1492,1496-1505,1514-1526
+  s_1bc4d72561e522::t_207283e403499a 1698-1699,1731-1733,1735-1743,1747-1755,1764-1783
+  s_1bc4d72561e522::t_e785bb0cdaa36d 1784-1785
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_1bc4d72561e522::t_f253fecbd1af16 804
+  s_1bc4d72561e522::t_c8ae7f9be682b8 730-734
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_1bc4d72561e522::t_7bb3be29790669 29,172-186
+  s_1bc4d72561e522::t_39b7138c44d999 187
+src/dashboard/apigateway/apigateway/apps/permission/constants.py
+  s_1bc4d72561e522::t_82fde3364352ce 29
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_1bc4d72561e522::t_bf557d6f553422 37,637-667
+  s_1bc4d72561e522::t_5582455fe29124 668
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_1bc4d72561e522::t_a73bed70c5968e 79-97
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/urls.py
+  s_1bc4d72561e522::t_9b9e24c64e5058 27,30,41-45,56-60
+  s_1bc4d72561e522::t_cc4f1a2b23b3f3 29,32,40,46-49,61-65
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  s_1bc4d72561e522::t_00e83e890f574d 174-176,182-184
+  s_1bc4d72561e522::t_64f8b7d686ffdf 229-230
+  s_1bc4d72561e522::t_03dfd050709e8b 200-201
+  s_1bc4d72561e522::t_196aba7ee95e7d 170-171
+  s_1bc4d72561e522::t_dd72c3896baecf 29,49,51-52,57-60,69-70,81-83,137,144-148,160-167,169,172,199,206-207,218-226,228,231,260,272-277
+  s_1bc4d72561e522::t_3761db547fa503 21,23,33,36,38,40,48,128-135,140,159,177-178,189-197,202,236,247
+  s_1bc4d72561e522::t_9db8283121533a 50,53-56,61-68,71-80
+  s_1bc4d72561e522::t_83a6a87175f1ff 211-213
+  s_1bc4d72561e522::t_66182bdda4b8d7 25,30,41
+  s_1bc4d72561e522::t_497d00d559f881 233-235,240-242
+  s_1bc4d72561e522::t_34b279aef4b802 142-143
+  s_1bc4d72561e522::t_685fdb414c908e 88-90,98-100,110-112,120-122
+  s_1bc4d72561e522::t_c08f2912d30e50 84-87,91-97,101-109,113-119,123-127,141,149-151,155-158,173,179-181,185-188,203,208-210,214-217,232,237-239,243-246
+  s_1bc4d72561e522::t_60c9995c06764e 204-205
+  s_1bc4d72561e522::t_3973d5b5e9d0c5 152-154
+  s_1bc4d72561e522::t_90536c8b8f65b0 138-139
+  s_1bc4d72561e522::t_99e9b8ae2ce2e2 136
+  s_1bc4d72561e522::t_1b978df7666916 168
+  s_1bc4d72561e522::t_a532018f6e2976 198
+  s_1bc4d72561e522::t_5ca7b7618efa67 227
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_1bc4d72561e522::t_b4ae6175d5392c 747
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_1bc4d72561e522::t_4f98a8f10f1667 29
+  s_1bc4d72561e522::t_195290b5cd3d63 577,580-582,584
+  s_1bc4d72561e522::t_b1fcd88c93f946 583
+  s_1bc4d72561e522::t_fbcb6ec4e1b800 585,741-765
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "94019799021a424e2782b662f75bf322b50e6186",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_1bc4d72561e522": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "07b852f5-b701-4c2d-96a9-bc58a5ef1dd8",
+        "model": "grok-4.6"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

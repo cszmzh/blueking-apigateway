@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_fc3057734fc1f4::t_c5b6d52dff69c5 36-43
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_fc3057734fc1f4::t_0d18cf9d3496a2 59,427,430-432,516,519-521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7f394a0fe603af3eabd485c205e4015ea23f2143",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_fc3057734fc1f4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cc7941cc-bbd1-42ae-ad8c-3bc09c27f646",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

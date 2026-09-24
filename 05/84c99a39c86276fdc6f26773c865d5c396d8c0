@@ -1,0 +1,24 @@
+src/dashboard/pyproject.toml
+  s_b9628d0e9a6e78::t_0dbe3e14124b41 74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0584c99a39c86276fdc6f26773c865d5c396d8c0",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b9628d0e9a6e78": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0f8a2e9a-0634-4075-8ba2-05ca7d264818",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

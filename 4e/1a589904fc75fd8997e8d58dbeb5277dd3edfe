@@ -1,0 +1,112 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/migrations/0016_add_canceled_apply_status.py
+  s_c01192be390454::t_66c9cddebee05c 18
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_c01192be390454::t_fa550156878b42 420,427,441,447,507,514,528,534
+  s_c01192be390454::t_674cea8191ca37 426,430,513,517
+src/dashboard/apigateway/apigateway/apps/permission/migrations/0014_add_canceled_apply_status.py
+  s_c01192be390454::t_8b3eec0432d579 8
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_c01192be390454::t_6fb4a369b02bd3 7974-7975,7977-8020,8022-8048,8050-8066
+  s_c01192be390454::t_007a1d70728c3d 7011-7012,7014-7057,7059-7085,7087-7103
+  s_c01192be390454::t_c10371ed38f356 7013,7058,7086,7712,7785,7976,8021,8049
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_cancel_resource_permission_apply_record.md
+  s_c01192be390454::t_2862e54b681191 1-2,4-21
+  s_c01192be390454::t_8aadfc93d8ccc9 3,22
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_c01192be390454::t_f2d73ae0e600fb 1342-1343,1373,1391,1400-1401,1406,1411,1413,1424,1431,1441,1447,1456,1467,1476,1590,1594,1676-1677,1693,1708,1719-1720,1725,1730,1734,1816,1820,2063,2067
+  s_c01192be390454::t_08f45015b157f5 1389,1513,1706,1763
+  s_c01192be390454::t_62b35de69900a1 1216,1380-1381,1483,1490,1597,1609,1699,1741,1825,2072
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_c01192be390454::t_bd364c76e39cfe 79,90
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_c01192be390454::t_5b8419053fa1db 404-411
+src/dashboard/apigateway/apigateway/apis/v2/inner/urls.py
+  s_c01192be390454::t_b7d2ccd7d55a42 152-157,215-219
+  s_c01192be390454::t_4752b14a86345e 220
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_c01192be390454::t_4ce6b811b90b10 1077-1078
+  s_c01192be390454::t_b503ccbe950614 59,723-725,727-731,767-783,785-805,1328-1330,1332-1336,1407-1423,1425-1445
+  s_c01192be390454::t_41f2fa2dff8975 1045-1051
+  s_c01192be390454::t_2abc235a8d9421 726
+  s_c01192be390454::t_65d43202fc1a94 784
+  s_c01192be390454::t_939eebc45bf4fa 806
+  s_c01192be390454::t_8eef64bc616d5f 1331
+  s_c01192be390454::t_62098f70125136 1424
+  s_c01192be390454::t_94f6d7f896cbb7 1446
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_delete_mcp_server_permission_apply_record.md
+  s_c01192be390454::t_69bd2d9d13f243 1-2,4-22
+  s_c01192be390454::t_9dce08714c7d04 3
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_c01192be390454::t_36e798248bda3f 732,804
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_c01192be390454::t_5747553a957199 51-52
+  s_c01192be390454::t_53de674900d655 3024,3117
+  s_c01192be390454::t_646d52736f2923 663
+  s_c01192be390454::t_76cb9e16b47d7b 639
+  s_c01192be390454::t_0d6e9bce065710 3008-3023,3025-3069,3077-3078,3080-3101,3109-3110,3112-3116,3118-3129,3188
+  s_c01192be390454::t_ab89ecbd70b98a 19,649-655
+  s_c01192be390454::t_727736fdec0cec 640
+  s_c01192be390454::t_76422c246cfc15 645
+  s_c01192be390454::t_d0572ab1462436 656,3130-3187
+  s_c01192be390454::t_1822e93953529a 3070-3076,3079,3102-3108,3111
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_resource_permission_apply_records.md
+  s_c01192be390454::t_ed371344627445 16,64
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_c01192be390454::t_d64cf7f39be063 172
+  s_c01192be390454::t_acb3a288dbd1f3 173
+  s_c01192be390454::t_56261df29bb13d 178,183
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_delete_resource_permission_apply_record.md
+  s_c01192be390454::t_9207cf902eddbe 3
+  s_c01192be390454::t_ef838e96b8262a 1-2,4-22
+src/dashboard/apigateway/apigateway/apps/permission/constants.py
+  s_c01192be390454::t_f577fdcf8c581f 29
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  s_c01192be390454::t_07c936d110acd1 59-72,80-81,107-121,132,188-198,200-204,213-214,218,237-247,249-254,265,284-294,296-300,307,311,330-340,342-347,357,378,393
+  s_c01192be390454::t_8a6a5779cfb8a3 186,199,206,224,235,248,255,271,282,295,302,317,328,341,348,363
+  s_c01192be390454::t_64e7f313d466a5 180,210,276,306
+  s_c01192be390454::t_4d233194efa282 73-79,122-131
+  s_c01192be390454::t_accb09a5dcad3c 133
+src/dashboard/apigateway/apigateway/apps/mcp_server/constants.py
+  s_c01192be390454::t_df79a6510524aa 51
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_c01192be390454::t_151bb1bcb1369b 3023
+  s_c01192be390454::t_3f15cd0e92cdc4 1426
+  s_c01192be390454::t_b4f24d8fc56c6b 1429
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_c01192be390454::t_6be126d4380d74 747
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/urls.py
+  s_c01192be390454::t_6d7acbf6aeb305 27,30,46-48,62-64
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permissions.md
+  s_c01192be390454::t_e7810fa0d454b3 110
+  s_c01192be390454::t_8657653be11329 111
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_c01192be390454::t_e601e0c6c9c08e 583,752
+  s_c01192be390454::t_dee80a23091ab2 741
+  s_c01192be390454::t_2ef03ed37bc556 584,754
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_mcp_server_permission_apply_records.md
+  s_c01192be390454::t_3e5d15f2263ee3 15,101
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_cancel_mcp_server_permission_apply_record.md
+  s_c01192be390454::t_b035900491b36d 1-2,4-21
+  s_c01192be390454::t_5ded9ef3db1178 3,22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4e1a589904fc75fd8997e8d58dbeb5277dd3edfe",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_c01192be390454": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ae1cf1d2-a0ab-4a62-92f8-89faf556c0cc",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

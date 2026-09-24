@@ -1,0 +1,197 @@
+src/dashboard/apigateway/apigateway/tests/apis/test_permissions.py
+  s_3d2e3bc5bbb27e::t_284f1ab89e5c09 241-242
+  s_3d2e3bc5bbb27e::t_5b6f7a0cda5058 243-245
+.github/workflows/dashboard.yml
+  s_3d2e3bc5bbb27e::t_9ad857c47b71c0 31
+src/dashboard-front/src/assets/bk_icon_font/demo.html
+  s_3d2e3bc5bbb27e::t_61feb77e87c818 120-123,444-447,1129-1134,1615-1620
+src/dashboard-front/src/assets/bk_icon_font/fonts/iconcool.svg
+  s_3d2e3bc5bbb27e::t_fcc6ccdffe70e9 32-34,275-277,773
+src/dashboard-front/src/assets/bk_icon_font/iconcool.js
+  s_3d2e3bc5bbb27e::t_d37ced0d7ac2e2 2
+src/dashboard-front/src/assets/bk_icon_font/iconcool.json
+  s_3d2e3bc5bbb27e::t_09d3ad2b1bdf0b 1
+src/dashboard-front/src/assets/bk_icon_font/style.css
+  s_3d2e3bc5bbb27e::t_3bde6043cbd8e4 26-28,269-271,768
+src/dashboard-front/src/components/ag-mcp-card/Index.vue
+  s_3d2e3bc5bbb27e::t_757b1fcf49ff30 62-72,252,264,268,305-309,319,336,350-353,359,363-367,369,415-416,423
+src/dashboard-front/src/components/ag-table/Index.vue
+  s_3d2e3bc5bbb27e::t_323a47f20916d8 29-30,33,44,267-272,312,543-551,556,562-563,567-571,575-578,580-583,625-626,630-631,1046,1069-1084
+src/dashboard-front/src/components/plugin-manage/CustomTable.vue
+  s_3d2e3bc5bbb27e::t_31c5246496c908 2-19,21-32,45-53,66-70,76,90-91,97-98
+src/dashboard-front/src/hooks/use-gateway-releasing-status.ts
+  s_3d2e3bc5bbb27e::t_0c920379125fa3 1-134
+src/dashboard-front/src/hooks/use-gateway-role.ts
+  s_3d2e3bc5bbb27e::t_ddcbc774aeb54a 20-22,25-26,29-30,32-35,37,40,45-46
+src/dashboard-front/src/hooks/use-max-table-limit.ts
+  s_3d2e3bc5bbb27e::t_56ccf511b26c70 21,106-123,149-150,152
+src/dashboard-front/src/hooks/use-table-setting.tsx
+  s_3d2e3bc5bbb27e::t_b7512e50334555 23-24,27-44,50,54,63-80,82-85,111-117,119-120,124-129,140
+src/dashboard-front/src/layout/my-gateway/Index.vue
+  s_3d2e3bc5bbb27e::t_be50b60f6a8f26 190-191,205,208,218-219,231-233,512-515,530,563-607,612,614,617-626,632,646,648,654-656,659-681,752-777,779,791
+src/dashboard-front/src/locales/cn.json
+  s_3d2e3bc5bbb27e::t_add4bca6772889 2424,2746-2748
+src/dashboard-front/src/locales/en.json
+  s_3d2e3bc5bbb27e::t_a7f050eae3f18b 83,715,989,1063,1177,1256-1265,2313,2423-2424,2458,2746-2748
+src/dashboard-front/src/main.ts
+  s_3d2e3bc5bbb27e::t_4ba58b7b6cdb71 71-86
+src/dashboard-front/src/router/gateway-role-guard.ts
+  s_3d2e3bc5bbb27e::t_85675cb1f9eccc 20,22,24-30,33-34,37-43,52-61,65-67,69-96,98-105,108-119
+src/dashboard-front/src/router/index.ts
+  s_3d2e3bc5bbb27e::t_6e7a2145d00644 115-124,135-146
+src/dashboard-front/src/services/source/basic.ts
+  s_3d2e3bc5bbb27e::t_77daf573d50c32 120
+src/dashboard-front/src/services/source/mcp-market.ts
+  s_3d2e3bc5bbb27e::t_ebbbd97f10b155 25,178
+src/dashboard-front/src/services/source/mcp-server.ts
+  s_3d2e3bc5bbb27e::t_13af14a0be7d08 73,79
+src/dashboard-front/src/services/source/me.ts
+  s_3d2e3bc5bbb27e::t_6259f1e790b256 1-24
+src/dashboard-front/src/services/types/responses/gateways.ts
+  s_3d2e3bc5bbb27e::t_08b562abbcd74d 384,389,516-517
+src/dashboard-front/src/stores/index.ts
+  s_3d2e3bc5bbb27e::t_c5b013e2b6efc9 23
+src/dashboard-front/src/stores/useEnv.ts
+  s_3d2e3bc5bbb27e::t_124aa605a76bf2 74-75
+src/dashboard-front/src/stores/useGateway.ts
+  s_3d2e3bc5bbb27e::t_73ae747e610d1f 24-45,78-83,87-110,112-118,120,123-128
+src/dashboard-front/src/stores/useGatewayRole.ts
+  s_3d2e3bc5bbb27e::t_eba208af504fa9 1-147
+src/dashboard-front/src/utils/gateway-access-error.ts
+  s_3d2e3bc5bbb27e::t_3b296917c10deb 1-59
+src/dashboard-front/src/utils/gateway-permission.ts
+  s_3d2e3bc5bbb27e::t_2b1c57bdd5c567 1-37
+src/dashboard-front/src/views/GatewayLoadError.vue
+  s_3d2e3bc5bbb27e::t_89b0497fc5c029 1-54
+src/dashboard-front/src/views/basic-info/Index.vue
+  s_3d2e3bc5bbb27e::t_231832e2d6c383 731,736,781,786-788,804,825-830,905-907,938-959,962-968,972-973,976,1015,1018-1020,1050,1064,1072,1104,1125,1140-1152,1173,1225,1240,1249
+src/dashboard-front/src/views/mcp-market/Details.vue
+  s_3d2e3bc5bbb27e::t_127a385dfd454c 57,87-97,111-135,137-140,143,145,147,151,154-173,176-182,184-185,188,191-193,196-203,205-220,270,293,343,345-347,354,357,362-363,369,373-379,381,421-423,425,427-428,437,449-453,460-461,464-466,471-474,519,524,527-528,532,539-552,555,557-558,561-562,567,576-578,588,593,606,611
+src/dashboard-front/src/views/mcp-market/components/ApplyPermissionDialog.vue
+  s_3d2e3bc5bbb27e::t_328ed4e7839933 1-229
+src/dashboard-front/src/views/mcp-server/components/CreateSlider.vue
+  s_3d2e3bc5bbb27e::t_73202ca3c0814d 81-96,507,541,684,1192,2118-2121
+src/dashboard-front/src/views/mcp-server/components/OAuthSwitcher.vue
+  s_3d2e3bc5bbb27e::t_954027e317e2ec 34-38
+src/dashboard-front/src/views/mcp-server/components/ServerCardTable.vue
+  s_3d2e3bc5bbb27e::t_757ef958b83cfa 123-124,130,318-323,360-379
+src/dashboard-front/src/views/mcp-server/components/ServerTools.vue
+  s_3d2e3bc5bbb27e::t_3edae512cbd2fb 964-975
+src/dashboard-front/src/views/mcp-server/detail/Index.vue
+  s_3d2e3bc5bbb27e::t_3f661df2b46fad 23-75,78-81,83-90,92-117,120-122,126,132,138-139,144,154,160-172,176,181,191,195,198,205,376-386,590,593,595,597-600,602-605,609-622,625-628,631-634,638-639,641,643-646,653,657,659-673
+src/dashboard-front/src/views/member-management/Index.vue
+  s_3d2e3bc5bbb27e::t_a10f79841b78a6 92,104,112,262-265,273-284,286-290,292,310-312,332-336,338-339
+src/dashboard-front/src/views/operate-data/access-log/Detail.vue
+  s_3d2e3bc5bbb27e::t_07c4be0683b048 44,59-67,102-103,105-106,181-187
+src/dashboard-front/src/views/resource-management/components/BaseInfo.vue
+  s_3d2e3bc5bbb27e::t_87d6f229cadd6d 164-173,225,243,330-331,434-437
+src/dashboard-front/src/views/resource-management/settings/Index.vue
+  s_3d2e3bc5bbb27e::t_38bf85545f6b69 706-713,860-879
+src/dashboard-front/src/views/resource-management/settings/import/Index.vue
+  s_3d2e3bc5bbb27e::t_1f039b7f0e6b9d 381,442,482,1920-1921
+src/dashboard-front/src/views/resource-management/settings/import/components/TableResToAction.vue
+  s_3d2e3bc5bbb27e::t_01ac2f59e83b51 20-26,35,45-46,98-269
+src/dashboard-front/src/views/resource-management/settings/import/components/TableResToUncheck.vue
+  s_3d2e3bc5bbb27e::t_b4420019a9a3f9 20-26,28,33-34,66-231
+src/dashboard-front/src/views/stage-management/overview/detail-mode/components/ResourceInfo.vue
+  s_3d2e3bc5bbb27e::t_da0acd946674e1 296,300-321
+src/dashboard/Dockerfile
+  s_3d2e3bc5bbb27e::t_20454ed41fe42b 26
+src/dashboard/Makefile
+  s_3d2e3bc5bbb27e::t_b5f2dfd344471b 6
+src/dashboard/apigateway/apigateway/apis/v2/inner/helpers.py
+  s_3d2e3bc5bbb27e::t_83b8034c64265e 1,19-29
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_3d2e3bc5bbb27e::t_b0a1c5f6d29d46 65-66,412,431,467-469,519
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_3d2e3bc5bbb27e::t_dd51d6ed0d09ca 91,607
+src/dashboard/apigateway/apigateway/apis/web/access_log/serializers.py
+  s_3d2e3bc5bbb27e::t_253b27cfc5e447 86
+src/dashboard/apigateway/apigateway/apis/web/access_log/views.py
+  s_3d2e3bc5bbb27e::t_f40ab9e08a60b9 58-80,265,282
+src/dashboard/apigateway/apigateway/apis/web/backend/views.py
+  s_3d2e3bc5bbb27e::t_2eb43f117169d0 26,76-77
+src/dashboard/apigateway/apigateway/apis/web/gateway/views.py
+  s_3d2e3bc5bbb27e::t_663d2602768840 514-515
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_3d2e3bc5bbb27e::t_0ab844742cc457 122-123
+src/dashboard/apigateway/apigateway/apis/web/monitor/views.py
+  s_3d2e3bc5bbb27e::t_c69d557fd781fb 61-62
+src/dashboard/apigateway/apigateway/apis/web/resource/serializers.py
+  s_3d2e3bc5bbb27e::t_2104513c48320b 43,982-1037
+src/dashboard/apigateway/apigateway/apis/web/resource/urls.py
+  s_3d2e3bc5bbb27e::t_ed75bec450fd41 30-31,37-38
+src/dashboard/apigateway/apigateway/apis/web/resource/views.py
+  s_3d2e3bc5bbb27e::t_7f026d55598d8a 27,38,43,74-76,110-111,747-809
+src/dashboard/apigateway/apigateway/apis/web/stage/views.py
+  s_3d2e3bc5bbb27e::t_bb9f15c101439e 27,90-91
+src/dashboard/apigateway/apigateway/apps/data_plane/managers.py
+  s_3d2e3bc5bbb27e::t_ac546d21c2cafb 18
+src/dashboard/apigateway/apigateway/biz/openapi/schema.py
+  s_3d2e3bc5bbb27e::t_4ec6c6b20e4634 65
+src/dashboard/apigateway/apigateway/biz/permission/permission.py
+  s_3d2e3bc5bbb27e::t_9fecd3761c24d2 101
+src/dashboard/apigateway/apigateway/biz/resource/__init__.py
+  s_3d2e3bc5bbb27e::t_347d4bf4577341 20,37
+src/dashboard/apigateway/apigateway/biz/resource/path_conflicts.py
+  s_3d2e3bc5bbb27e::t_8f7a18b5faf4c3 1-274
+src/dashboard/apigateway/apigateway/biz/sdk/helper.py
+  s_3d2e3bc5bbb27e::t_b818b95aaff60d 21
+src/dashboard/apigateway/apigateway/conf/.env.tpl
+  s_3d2e3bc5bbb27e::t_dbca687e4f17f8 6
+src/dashboard/apigateway/apigateway/conf/utils.py
+  s_3d2e3bc5bbb27e::t_0dc0ba8391f86a 216-217,347-350
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_apply_gateway_resource_permission.md
+  s_3d2e3bc5bbb27e::t_0d09b41acd5a33 44,62
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_resource_permission_apply_records.md
+  s_3d2e3bc5bbb27e::t_cb9e58ad00ceba 41,71
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_retrieve_resource_permission_apply_record.md
+  s_3d2e3bc5bbb27e::t_ea37ff05774324 42,77
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_3d2e3bc5bbb27e::t_620ff43b33ef90 6735-6737,6939-6941
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_3d2e3bc5bbb27e::t_4950e05c04681d 2963-3020
+src/dashboard/apigateway/apigateway/tests/apis/web/access_log/test_views.py
+  s_3d2e3bc5bbb27e::t_a1aa702fe65472 126,145,149-183
+src/dashboard/apigateway/apigateway/tests/apis/web/resource/test_path_conflicts.py
+  s_3d2e3bc5bbb27e::t_42798210255fd0 1-167
+src/dashboard/apigateway/apigateway/tests/apis/web/setting/test_views.py
+  s_3d2e3bc5bbb27e::t_4b204885d9438e 20,23,52-73
+src/dashboard/apigateway/apigateway/tests/apis/web/test_gateway_action_declarations.py
+  s_3d2e3bc5bbb27e::t_dd43a45394c255 39
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_permission.py
+  s_3d2e3bc5bbb27e::t_2940bacc0d9e84 62
+src/dashboard/apigateway/apigateway/tests/biz/resource/test_path_conflicts.py
+  s_3d2e3bc5bbb27e::t_6c5659aa149cf0 1-227
+src/dashboard/apigateway/apigateway/tests/components/test_component.py
+  s_3d2e3bc5bbb27e::t_4ddcb4f3f73297 19,22-25,27-28,30-31,33,35-36
+src/dashboard/apigateway/apigateway/tests/conf/test_utils.py
+  s_3d2e3bc5bbb27e::t_58eb88aad98fc1 94-106
+src/dashboard/apigateway/apigateway/tests/utils/test_curlify.py
+  s_3d2e3bc5bbb27e::t_19322d33cdd882 18-19,26-28,31,39-43,45,50,56
+src/dashboard/pyproject.toml
+  s_3d2e3bc5bbb27e::t_4998f22019c1a3 8-9,13,17-18,21,26,29-30,33-35,37-38,41-42,51,53-62,66,68,70-71,73-74,76,79,88,93-94,97-100,103-108,110-114,155,234-235,255-257
+src/dashboard/uv.lock
+  s_3d2e3bc5bbb27e::t_2218e5aeea9fa8 19,21,23,28,33,35,45,156,161-162,164,166,168-170,175,178,185,187-188,190-191,195-205,207,211-213,216,220,223-225,232,235-239,241,243,245,249,251-257,259,296,298,300,305-363,368,370,372,377,379,381,386,392,394,399,401,403,408,411,413,415,417-422,470,475,479,483,485,487,514,516,518,543,545,547,552,557-582,587,589,591,596,598,600-610,615-672,677,679,681,744-778,792,797-837,842,847-850,863,865,867,872,879,881,946,951,953,983,988,990,1007,1012,1014,1094,1096,1098,1103,1105,1107,1112,1117,1119,1124,1130,1132,1137,1139,1141,1155,1163,1165-1173,1178,1183,1185,1190-1212,1217-1250,1276,1278,1280,1293-1294,1298,1300,1302,1306-1307,1310-1312,1314-1318,1320-1325,1327,1332,1335,1337,1339,1344,1346,1348,1353,1355,1357,1362,1370,1372,1377,1382,1384,1398,1400,1402,1407,1421,1423,1452,1454,1456,1461,1466,1468,1473,1478,1480,1506-1537,1569,1572,1577,1579,1584,1589,1591,1596,1606,1608,1628,1630,1632-1637,1642-1676,1681,1686,1688,1693,1698,1700,1705-1731,1735,1740,1742,1756,1758,1760,1765,1774,1776-1789,1803-1832,1837,1839,1841,1855,1859,1865,1867,1872,1877-1879,1882,1884,1889,1896-1897,1899,1901,1906,1911,1913,1918,1924,1926,1931,1936,1938,1943,1954,1956,1961,1972,1974,1979,1987,1989,1994,2001,2003,2008,2016,2018,2023,2032,2034,2039,2046,2048,2053,2061,2063,2068,2076,2078,2083,2091,2093,2098,2103,2105,2110,2117,2119,2124,2130,2132,2137,2139,2141,2146,2148,2150,2155,2157,2159,2164,2166,2168,2223,2225,2227,2250,2252,2254,2259,2267,2269,2274,2283,2285,2290,2292,2294,2299,2304,2306,2357,2359,2361,2365-2366,2368,2370,2384,2386,2388,2412,2420,2422,2427,2432-2477,2482,2484,2486,2491,2493,2495,2525,2530,2532,2553,2556,2559,2561,2580,2585,2587,2630,2632,2634,2651,2656-2665,2667,2681,2683,2685,2777,2779,2781,2786,2792,2794,2826,2833,2835,2886-2918,2932-2952,2957,2963,2965,2970,2972,2974,3006,3008,3010,3015,3017,3019,3078,3092,3094,3098-3099,3101,3103,3107-3108,3110,3112,3117,3130,3132,3137,3139,3141,3146,3151,3153,3158,3160,3162,3167,3169,3171,3189,3191,3193,3198,3200,3202,3220,3225,3227,3232,3234,3236,3262,3264,3266,3271,3276,3278,3292,3294,3296,3310,3318,3320,3343,3345,3347,3373-3399,3404,3406,3408,3413,3415,3417,3422-3438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "64a9434879802bd9bc54c5fbf470266c695d860f",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_3d2e3bc5bbb27e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d84dcf30-3dce-49bf-8660-58f978e0c29b",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

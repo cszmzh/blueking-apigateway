@@ -1,0 +1,48 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_delete_resource_permission_apply_record.md
+  s_fc3057734fc1f4::t_91145bf6524024 18
+src/dashboard/apigateway/apigateway/apis/v2/inner/urls.py
+  s_6aab65dc135ae8::t_00b8fcd361c5ac 147,211
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_fc3057734fc1f4::t_5fa9527d5e96cd 23,427,447,450,514,534,537
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_fc3057734fc1f4::t_90618931eb0db7 406-410
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_cancel_resource_permission_apply_record.md
+  s_fc3057734fc1f4::t_044e9d641bcf70 18
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_delete_mcp_server_permission_apply_record.md
+  s_fc3057734fc1f4::t_2418c43dbdd7d0 18
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_cancel_mcp_server_permission_apply_record.md
+  s_fc3057734fc1f4::t_a94c0e20927f20 18
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_fc3057734fc1f4::t_05f6f068f5a46a 61-84
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_fc3057734fc1f4::t_90c38de5b5347f 7034-7035,7084-7085,7999-8000,8049-8050
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b1f5427df3b6425af4fb265646b3ee417b4b7b4c",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6aab65dc135ae8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9857e224-e2f8-42bc-99cc-9e6a8fe2a33c",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_fc3057734fc1f4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "cc7941cc-bbd1-42ae-ad8c-3bc09c27f646",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_77090988a34e18::t_acb616194a4f40 289,297
+  s_77090988a34e18::t_27898ceb2e4197 29
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_77090988a34e18::t_ade313eac26589 732,1337
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_77090988a34e18::t_35adedc248e060 1742-1770
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_77090988a34e18::t_091c4bc45bc789 1402
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_77090988a34e18::t_7ffb0ff483a05b 699-733
+  s_77090988a34e18::t_22c916d9744369 649,657
+src/dashboard/apigateway/apigateway/apis/v2/inner/urls.py
+  s_77090988a34e18::t_8c7049a89c9aed 149,212
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_77090988a34e18::t_040ff57ebf845e 29,174
+  s_77090988a34e18::t_9353a129521a6e 176
+  s_77090988a34e18::t_b4e68c63fbc368 180
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_77090988a34e18::t_f4db98b337bb36 88,92
+src/dashboard/apigateway/apigateway/apps/mcp_server/migrations/0016_add_canceled_apply_status.py
+  s_77090988a34e18::t_b83795bf461e1a 1-18
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/views.py
+  s_77090988a34e18::t_5ccb329031cfe4 971-978
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_77090988a34e18::t_64fb72fe2024b6 1382-1383,1702-1703,1735-1737
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_77090988a34e18::t_ecbe2ccbbdcbd4 298
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  s_77090988a34e18::t_d9fe80acf5bf01 42,214-218,313-315
+src/dashboard/apigateway/apigateway/apps/permission/migrations/0014_add_canceled_apply_status.py
+  s_77090988a34e18::t_8d28b5346894b7 1-18
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_77090988a34e18::t_32892b8d5c7277 873
+  s_77090988a34e18::t_4873feeecba981 872,874
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1db0cc7f1533766bcc05e6b2753d82a3b8ef3aed",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_77090988a34e18": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9000eeb7-d0bf-4337-a213-64cfa3c227d5",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/add_global_gateway_administrators.py
+  s_4fc728736fe68e::t_85a306da9a029b 45-47,63,67,128-133,135,139-141,154,156,159-165
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_4fc728736fe68e::t_df65d4c7caf21b 436,445,453-476,480-488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e7afa6b12edf056d7929f8051fc36fec400b35df",
+  "prompts": {},
+  "sessions": {
+    "s_4fc728736fe68e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d788b3aa-e363-4bdc-adb0-61857bc570ce",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

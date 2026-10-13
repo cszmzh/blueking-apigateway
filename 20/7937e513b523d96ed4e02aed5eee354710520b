@@ -1,0 +1,33 @@
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_manager.py
+  s_8731d543b8c334::t_a9b6c9849e08bb 586
+  s_8731d543b8c334::t_ee8b80751cd234 613
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_8731d543b8c334::t_b60f47154ccf34 94,98,101,103-105
+  s_8731d543b8c334::t_906a64d39839a2 123-125
+  s_8731d543b8c334::t_96a58b493ede80 28-33
+  s_8731d543b8c334::t_47cf0c9d33a192 45-48
+  s_8731d543b8c334::t_5ff3b13bdb8078 70,73
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_8731d543b8c334::t_5e23707e3773e5 1188
+  s_8731d543b8c334::t_80c3709ff63980 1567
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_managers.py
+  s_8731d543b8c334::t_49a83234b348e3 122,130,134
+  s_8731d543b8c334::t_22d6e098ec16ad 77-79
+  s_8731d543b8c334::t_cc1a0c9a8f3aba 53,61,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "207937e513b523d96ed4e02aed5eee354710520b",
+  "prompts": {},
+  "sessions": {
+    "s_8731d543b8c334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "41cd6278-46ae-4761-9812-96a6438b24b1",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

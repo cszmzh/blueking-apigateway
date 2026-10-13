@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/biz/permission/manager.py
+  s_23ed88921cb913::t_f9e865a31a3cf3 333,348-350,443,461-463
+src/dashboard/apigateway/apigateway/apis/web/permission/views.py
+  s_23ed88921cb913::t_85d062cbba5ba8 730-733
+src/dashboard/apigateway/apigateway/tests/apis/web/permission/test_views.py
+  s_23ed88921cb913::t_85d062cbba5ba8 643
+  s_23ed88921cb913::t_30a269aac7092d 586-596,644-655,658,662,716-719
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_23ed88921cb913::t_a7eb41dd159af5 1222-1223,1241,1243-1251,1253-1258,1270,1276
+  s_23ed88921cb913::t_530d5d43a38b4a 819-832
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_manager.py
+  s_23ed88921cb913::t_83451b994ec5c4 153-154,174-175,369-370,392-393,447-448
+  s_23ed88921cb913::t_4852cc3e9a3183 271-281,528-548
+  s_23ed88921cb913::t_c82e7930b059c1 549
+src/dashboard/apigateway/apigateway/tests/biz/bk_itsm/test_bk_itsm.py
+  s_23ed88921cb913::t_fea003dc7ba18d 164-167,177-217
+  s_23ed88921cb913::t_36e99308c015e5 218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a784c7c6e1a3f9919de228d18c0e9cc59f8524e4",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_23ed88921cb913": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a5d2e056-b953-4b72-9766-e017cf7d183e",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

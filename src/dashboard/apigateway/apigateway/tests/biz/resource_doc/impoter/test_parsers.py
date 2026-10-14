@@ -15,6 +15,10 @@
 # We undertake not to change the open source license (MIT license) applicable
 # to the current version of the project delivered to anyone in the future.
 #
+import tarfile
+import zipfile
+from io import BytesIO
+
 import pytest
 
 from apigateway.apps.support.constants import DocLanguageEnum
@@ -22,6 +26,24 @@ from apigateway.biz.resource_doc import NoResourceDocError
 from apigateway.biz.resource_doc.importer import ArchiveDoc, ArchiveParser, BaseParser, OpenAPIParser
 from apigateway.core.models import Resource
 from apigateway.utils.yaml import yaml_loads
+
+
+def _make_archive_file(archive_type: str, files: dict[str, str]) -> BytesIO:
+    archive_file = BytesIO()
+    if archive_type == "zip":
+        with zipfile.ZipFile(archive_file, mode="w") as zip_file:
+            for filename, content in files.items():
+                zip_file.writestr(filename, content)
+    else:
+        with tarfile.open(fileobj=archive_file, mode="w:gz") as tgz_file:
+            for filename, content in files.items():
+                content_bytes = content.encode()
+                tar_info = tarfile.TarInfo(filename)
+                tar_info.size = len(content_bytes)
+                tgz_file.addfile(tar_info, BytesIO(content_bytes))
+
+    archive_file.seek(0)
+    return archive_file
 
 
 class TestBaseParser:
@@ -126,6 +148,8 @@ class TestArchiveParser:
             "docs/en/get_user.md": "",
             "en/user/get_user.md": "",
             "docs/en/user/get_user.md": "",
+            "docs/zh/en/get_user.md": "",
+            "docs/en/zh/get_user.md": "",
             "other/docs/en/get_user.md": "",
             "other/docs/en/user/get_user.md": "",
         }
@@ -135,6 +159,8 @@ class TestArchiveParser:
             "docs/en/get_user.md": "",
             "en/user/get_user.md": "",
             "docs/en/user/get_user.md": "",
+            "docs/zh/en/get_user.md": "",
+            "docs/en/zh/get_user.md": "",
         }
 
     @pytest.mark.parametrize(
@@ -145,9 +171,11 @@ class TestArchiveParser:
             ("en/get_user.md", "en"),
             ("zz/get_user.md", None),
             ("docs/zh/get_user.md", "zh"),
-            ("other/docs/zh/get_user.md", "zh"),
+            ("other/docs/zh/get_user.md", None),
             ("zh/user/get_user.md", "zh"),
             ("docs/zh/user/get_user.md", "zh"),
+            ("docs/zh/en/get_user.md", "zh"),
+            ("docs/en/zh/get_user.md", "en"),
         ],
     )
     def test_extract_language(self, filename, expected):
@@ -170,6 +198,32 @@ class TestArchiveParser:
     def test_extract_resource_name(self, filename, expected):
         result = ArchiveParser(1)._extract_resource_name(filename)
         assert result == expected
+
+    @pytest.mark.parametrize("archive_type", ["zip", "tgz"])
+    def test_parse_archive_with_categorized_docs(self, archive_type, mocker):
+        archive_file = _make_archive_file(
+            archive_type,
+            {
+                "zh/get_user.md": "zh root",
+                "docs/en/create_user.md": "en root",
+                "zh/account/delete_user.md": "zh category",
+                "docs/zh/_common.md.j2": "zh common",
+                "docs/zh/en/update_user.md.j2": "{% include '_common.md.j2' %}",
+                "docs/en/zh/list_user.md": "en category",
+            },
+        )
+        parser = ArchiveParser(1)
+        mocker.patch.object(parser, "_enrich_docs")
+
+        docs = {doc.resource_name: doc for doc in parser.parse(archive_file)}
+
+        assert docs["get_user"].language == DocLanguageEnum.ZH
+        assert docs["get_user"].content == "zh root"
+        assert docs["create_user"].language == DocLanguageEnum.EN
+        assert docs["delete_user"].language == DocLanguageEnum.ZH
+        assert docs["update_user"].language == DocLanguageEnum.ZH
+        assert docs["update_user"].content == "zh common"
+        assert docs["list_user"].language == DocLanguageEnum.EN
 
 
 class TestSwagger:

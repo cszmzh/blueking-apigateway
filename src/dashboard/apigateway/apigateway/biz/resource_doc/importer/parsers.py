@@ -129,18 +129,22 @@ class ArchiveParser(BaseParser):
 
         :param filename: 形如：en/get_user.md, docs/en/get_users.md, docs/en/user/get_users.md
         """
-        parts = filename.rsplit("/", 3)
-        if len(parts) < 2:
+        parts = filename.split("/")
+        if len(parts) not in [2, 3, 4]:
             return None
 
         available_languages = DocLanguageEnum.get_values()
+        if len(parts) == 4:
+            language = parts[1]
+            return language if language in available_languages else None
+
         # 优先兼容原有的「语言/资源文档」目录结构
         language = parts[-2]
         if language in available_languages:
             return language
 
         # 支持在语言目录下增加一层分类目录
-        if len(parts) >= 3:
+        if len(parts) == 3:
             language = parts[-3]
             if language in available_languages:
                 return language

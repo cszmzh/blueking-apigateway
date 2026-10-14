@@ -1,0 +1,57 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_46b9311d3015f6::t_9e0fdaf27aa496 1200
+  s_46b9311d3015f6::t_d37a0672820ad7 1643
+src/dashboard-front/src/components/plugin-manage/Index.vue
+  s_46b9311d3015f6::t_c1c90d9a5ee723 34,36,64,66,90,100,449,454,458,543-546,674,695
+src/dashboard-front/src/layout/mcp-market/Index.vue
+  s_46b9311d3015f6::t_7727bb299455bb 333,336,342,344,453-458,469-475,477-497,511-512,553,600,605
+src/dashboard-front/src/locales/cn.json
+  s_46b9311d3015f6::t_2f0fbb1eccaff8 2403
+src/dashboard-front/src/locales/en.json
+  s_46b9311d3015f6::t_37aa579976b862 2403
+src/dashboard-front/src/views/mcp-server/components/ServerTools.vue
+  s_46b9311d3015f6::t_e0b580e97a81dc 31-45,47-52,54-67,69-82,84-96,98-120,324,393,397,422-424
+src/dashboard-front/src/views/mcp-server/detail/Index.vue
+  s_46b9311d3015f6::t_34c1e9f2a47618 570-574,583
+src/dashboard-front/src/views/operate-data/dashboard/components/LineChart.vue
+  s_46b9311d3015f6::t_4126c5b7d28c21 205-206,405,492-494,497-500,598-599,602-605
+src/dashboard/apigateway/apigateway/apis/web/docs/gateway/resource/doc/serializers.py
+  s_46b9311d3015f6::t_44b2ca8fbbfc46 32-35
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_46b9311d3015f6::t_c45ada79968061 28-33,45-48,70-76,79,100,104,107,109-111,129-131
+src/dashboard/apigateway/apigateway/biz/released_resource_doc/generators.py
+  s_46b9311d3015f6::t_40a7c8a75c1f01 59-61,64-68
+src/dashboard/apigateway/apigateway/conf/celery_conf.py
+  s_46b9311d3015f6::t_ae36fe723a427f 55-57
+src/dashboard/apigateway/apigateway/tests/apis/web/docs/gateway/resource/doc/test_views.py
+  s_46b9311d3015f6::t_954d4ac07020be 60-65
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_managers.py
+  s_46b9311d3015f6::t_e43e11e7afcc70 53,61,64,77-79,122,130,134
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_manager.py
+  s_46b9311d3015f6::t_34316357ea05b6 586,613
+src/dashboard/apigateway/apigateway/tests/biz/released_resource_doc/test_generators.py
+  s_46b9311d3015f6::t_e5a349ec176f7f 31,47-58,62,79-80
+src/dashboard/apigateway/apigateway/tests/conf/test_celery_conf.py
+  s_46b9311d3015f6::t_4c198e327598ea 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "16fddfd01cba9e8855de267d921e3980f667825f",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_46b9311d3015f6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4da0c1d6-a6c3-4881-aba2-1c9f9b684d41",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

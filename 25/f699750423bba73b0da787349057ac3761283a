@@ -1,0 +1,31 @@
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_46b9311d3015f6::t_185bb2cf2d97e1 82-85,88-89
+  s_46b9311d3015f6::t_b00a0805cc9bf0 226
+  s_46b9311d3015f6::t_d20c30ac1c123c 274-276,280-282,284-285,289-290,300-301,305-306,310
+  s_46b9311d3015f6::t_b4e8d89b149e4b 221-223
+  s_46b9311d3015f6::t_283b3c64fdfcff 227,233-258
+  s_46b9311d3015f6::t_2b9baf01bbb880 101-102,110-111,127-128,132-133,137-138,142-143,147-148,157-158,162-163
+  s_46b9311d3015f6::t_04ab60738b9f0b 90
+  s_46b9311d3015f6::t_eea0035745136d 311
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "25f699750423bba73b0da787349057ac3761283a",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_46b9311d3015f6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "4da0c1d6-a6c3-4881-aba2-1c9f9b684d41",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

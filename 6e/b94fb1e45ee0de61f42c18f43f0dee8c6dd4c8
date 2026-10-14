@@ -1,0 +1,20 @@
+src/dashboard/apigateway/apigateway/apps/rbac/managers.py
+  s_8731d543b8c334::t_d3a00c0409be1f 72-74
+  s_8731d543b8c334::t_6bd71494ffc453 70-71,75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6eb94fb1e45ee0de61f42c18f43f0dee8c6dd4c8",
+  "prompts": {},
+  "sessions": {
+    "s_8731d543b8c334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "41cd6278-46ae-4761-9812-96a6438b24b1",
+        "model": "gemini-3.1-pro"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

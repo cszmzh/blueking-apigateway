@@ -1,0 +1,24 @@
+src/dashboard/apigateway/apigateway/tests/biz/resource_doc/impoter/test_generators.py
+  s_00848714cc6eb6::t_5cdf0dea3e4131 84-96
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7a33fb0218bb2e4f83322da32707d56f2af01f87",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_00848714cc6eb6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6e8b2e7a-a1e8-4f2f-af0f-4769cfa1f090",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

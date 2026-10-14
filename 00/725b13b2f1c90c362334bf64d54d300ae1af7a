@@ -1,0 +1,29 @@
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/parsers.py
+  s_00848714cc6eb6::t_cef5692c299d33 86-87,130,132,136-137,139-140,142-146,148
+  s_00848714cc6eb6::t_a525aedb860bae 89-96
+src/dashboard/apigateway/apigateway/tests/biz/resource_doc/impoter/test_parsers.py
+  s_00848714cc6eb6::t_aad50d0021d0fc 77,100-105,127-128,130,136-137,149-150,166-167
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_sync_resource_doc.md
+  s_00848714cc6eb6::t_856c6f72d5b32f 7-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "00725b13b2f1c90c362334bf64d54d300ae1af7a",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_00848714cc6eb6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6e8b2e7a-a1e8-4f2f-af0f-4769cfa1f090",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_models.py
+  s_87c920b9ef8a25::t_97ef92cca20db2 1,20,23-28
+src/dashboard/apigateway/apigateway/apps/permission/migrations/0015_apppermissionrecord_applied_by_id_idx.py
+  s_87c920b9ef8a25::t_067ff0a91ca510 1-32
+src/dashboard/apigateway/apigateway/apps/permission/models.py
+  s_87c920b9ef8a25::t_eadb1c53ba825a 227-229
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "66a5a66a01cc12b9a423f9d776bb3d5b03dc8e63",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_87c920b9ef8a25": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "40c2f8dd-1fb3-4d5b-a517-0bfecd20fba4",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

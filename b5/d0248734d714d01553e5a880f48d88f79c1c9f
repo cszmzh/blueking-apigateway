@@ -1,0 +1,42 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_serializers.py
+  s_87c920b9ef8a25::t_8e23cd4f6ab6ab 26
+  s_87c920b9ef8a25::t_801fdc0e602ec5 41-43,56,74-78,80,90,100,110,114-135,138-150
+  s_87c920b9ef8a25::t_3649df53fdde95 191,193
+  s_87c920b9ef8a25::t_0b7e96f8b75e0f 313,319
+  s_87c920b9ef8a25::t_0e873cc5e3ea1d 28-29
+  s_87c920b9ef8a25::t_cbbdbefeb47a31 221,239-241,244-283
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_87c920b9ef8a25::t_32e50589d98875 124-125,127,147,153-155,193-196,198-201,203-204,207,209-212,214-215,219-223,227,229-230,232-233
+  s_87c920b9ef8a25::t_c90e2bd5aa0ae7 216-218
+  s_87c920b9ef8a25::t_a78a4c3ea1e731 258-283,292,311-312,314-315,319,324,331
+  s_87c920b9ef8a25::t_d55f68e1ce8d2c 29
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_87c920b9ef8a25::t_e5065b0b61a7d4 553,563
+  s_87c920b9ef8a25::t_8671a20db13036 53
+  s_87c920b9ef8a25::t_3e871abd1fb958 55-56
+  s_87c920b9ef8a25::t_c93577a73ecfec 299,309
+  s_87c920b9ef8a25::t_0a6008385574de 337,347
+  s_87c920b9ef8a25::t_d394a54cfb7b6f 582,592
+  s_87c920b9ef8a25::t_f07b849ce071dd 464,474
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b5d0248734d714d01553e5a880f48d88f79c1c9f",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_87c920b9ef8a25": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "40c2f8dd-1fb3-4d5b-a517-0bfecd20fba4",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

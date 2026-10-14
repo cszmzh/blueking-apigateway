@@ -1,0 +1,31 @@
+src/mcp-proxy/pkg/config/config.go
+  s_7da91a5cc52806::t_157cb794ae8431 354-356
+src/mcp-proxy/pkg/util/cryptography.go
+  s_7da91a5cc52806::t_3fb23f852e11fe 51-53
+src/mcp-proxy/pkg/config/kms_test.go
+  s_7da91a5cc52806::t_5dd46778ea479f 289-305
+  s_7da91a5cc52806::t_7a16fccb29333f 58,280
+src/mcp-proxy/pkg/util/cryptography_test.go
+  s_7da91a5cc52806::t_a729e6b8da2c83 38-41,43-44,46,68-94
+  s_7da91a5cc52806::t_2bc937bb414e43 95
+src/mcp-proxy/pkg/config/config_test.go
+  s_7da91a5cc52806::t_16593906a1fdf6 37-59,429-499
+  s_7da91a5cc52806::t_5e605d52ecd819 31-36,367,376,401,415,503,694,722,754,771,791,814,839,854,874
+  s_7da91a5cc52806::t_abeb6f641ce71d 500-501
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "044adb3691c7d766c7176f6ab4d451e9b96f3934",
+  "prompts": {},
+  "sessions": {
+    "s_7da91a5cc52806": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2879d198-3113-4c7b-9c86-ce7e8fd21bf2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

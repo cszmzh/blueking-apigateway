@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_model.py
+  s_75c9d63ccf4017::t_bbbe142e47ce47 112-121,150,171
+src/dashboard/apigateway/apigateway/biz/iam/model.py
+  s_75c9d63ccf4017::t_fe787dc154c7a2 134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fe287cf7e9ff61d9d12fb2897b7b2fef309ad513",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_75c9d63ccf4017": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6bfcaa86-8ba5-4e5b-843a-b1b3332605f6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_5dc6218c90ba13::t_c7684071762220 24
+  s_5dc6218c90ba13::t_f2656575c59b40 222-227
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_serializers.py
+  s_5dc6218c90ba13::t_9d83a069b949d0 38
+  s_5dc6218c90ba13::t_f9588db73c8fde 195-239
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d3e3e2863ff8ad68027d864654d7ab2a244260ca",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_5dc6218c90ba13": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2369832b-a554-4583-8b23-1f68e7bc5936",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

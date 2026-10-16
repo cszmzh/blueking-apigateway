@@ -1,0 +1,46 @@
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_75c9d63ccf4017::t_bcea7b3be52d00 62
+  s_75c9d63ccf4017::t_eb97ab5d82478c 30
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_auth_to_iam.py
+  s_75c9d63ccf4017::t_49c9b102e87356 108,126
+  s_75c9d63ccf4017::t_93db5e3d891930 26
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_75c9d63ccf4017::t_981356ffc90c54 41,369
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_75c9d63ccf4017::t_fb48904d1d7b70 31,227,553
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  s_75c9d63ccf4017::t_60a06397013cd0 30,205
+  s_75c9d63ccf4017::t_561552ebe724e1 104-105,124,143,204
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/add_global_gateway_administrators.py
+  s_75c9d63ccf4017::t_8d9bc2f9bbe819 26
+  s_75c9d63ccf4017::t_56256d78f71e65 66
+  s_75c9d63ccf4017::t_2ad233c60aaedf 102
+src/dashboard/apigateway/apigateway/biz/iam/__init__.py
+  s_75c9d63ccf4017::t_a9a61b052c850a 31,42
+src/dashboard/apigateway/apigateway/biz/iam/model.py
+  s_75c9d63ccf4017::t_48fe3067dacd1e 133
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_75c9d63ccf4017::t_0c9dd7fd2eb42f 511
+  s_75c9d63ccf4017::t_9852c79d72b381 35,520
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "060715f273ce188a6a5d846a96e54537983f0dab",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_75c9d63ccf4017": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6bfcaa86-8ba5-4e5b-843a-b1b3332605f6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

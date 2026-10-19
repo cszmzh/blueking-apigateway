@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_0dd559f9387733::t_43d1e07a826a70 244-306
+src/dashboard/apigateway/apigateway/biz/iam/sync.py
+  s_0dd559f9387733::t_49a0a70692d464 133-135
+  s_0dd559f9387733::t_c3226b6d9c6fe7 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4c16179af01e493de7550cdd840cd9a706cad352",
+  "prompts": {},
+  "sessions": {
+    "s_0dd559f9387733": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ab264c15-ace8-49e8-8d6d-543a57e14766",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

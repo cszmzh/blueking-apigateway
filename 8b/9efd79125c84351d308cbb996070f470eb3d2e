@@ -1,0 +1,53 @@
+src/dashboard/apigateway/apigateway/biz/iam/__init__.py
+  s_efd05493b3a54f::t_649ffdca70b347 30,59
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_efd05493b3a54f::t_f3f9d987681110 30-31,77
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_efd05493b3a54f::t_75a59015b71166 486-489,496-497,503-506
+src/dashboard/apigateway/apigateway/biz/iam/sync.py
+  s_efd05493b3a54f::t_5b2aafdd1fc33d 33-39,118,124-125,128,131,155,158,162,168,178,246,261,263
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  s_efd05493b3a54f::t_99c71d1b0c1bb2 70,76,104-105,112-113,119-121,140,144-146,153-154,161,175,182,207-208,214-217
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_efd05493b3a54f::t_dcd28286225f5f 285,288-289,306,309
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_authorization.py
+  s_efd05493b3a54f::t_b7ac9c0bbc2798 31-38,59,81,96,102,107,115,121,138,146,160
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_efd05493b3a54f::t_14902ea5b9816c 102
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_efd05493b3a54f::t_0710ad7ae09b74 29-31,35-36,64,66-72,74-80,82-87,89-90,129,134,137,141,151,158,162,176-177,181,203-204,207,211
+  s_efd05493b3a54f::t_c2b7c76684b992 46
+  s_efd05493b3a54f::t_ac59043b9885c5 26,60-63,65,73,81,88
+  s_efd05493b3a54f::t_70926df5151487 21
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_efd05493b3a54f::t_3b383eb7abaf8d 43,104-123,135,150,155-156,169-173,192,203,222,226
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_efd05493b3a54f::t_e1b5cd67a15693 370,375,377
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_efd05493b3a54f::t_8b166fd1b2c262 255,294
+  s_efd05493b3a54f::t_cef219f716314a 407
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_efd05493b3a54f::t_915df54dd45a92 24,162-169,173-174
+src/dashboard/apigateway/apigateway/biz/iam/auth.py
+  s_efd05493b3a54f::t_58047f1427879d 26,51-52
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_members.py
+  s_efd05493b3a54f::t_63fa7a3f0ebaab 229,253,257
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_auth.py
+  s_efd05493b3a54f::t_979c7f501dce24 46-59,61,63,79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8b9efd79125c84351d308cbb996070f470eb3d2e",
+  "prompts": {},
+  "sessions": {
+    "s_efd05493b3a54f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "eaa41266-4c8d-421c-b469-cd4e31576910",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

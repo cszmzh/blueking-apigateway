@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_4e29ce6cb35c2f::t_ed134de915407a 383
+src/dashboard/apigateway/apigateway/biz/iam/auth.py
+  s_4e29ce6cb35c2f::t_dbf6b55488d756 32
+  s_4e29ce6cb35c2f::t_0528dd35d87232 45-46
+src/dashboard/apigateway/apigateway/apis/permissions.py
+  s_4e29ce6cb35c2f::t_40c5dd357032f4 44
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_auth.py
+  s_4e29ce6cb35c2f::t_6d9cde7dcb8aaa 67-70
+src/dashboard/apigateway/apigateway/tests/apis/test_permissions.py
+  s_4e29ce6cb35c2f::t_08235ec4e0e2a9 179
+  s_4e29ce6cb35c2f::t_273db55c54189c 219
+  s_4e29ce6cb35c2f::t_084caf17697306 149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aa0899778e0a3376b827c30cc5cfd2ae02d2763a",
+  "prompts": {},
+  "sessions": {
+    "s_4e29ce6cb35c2f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a6aeb7c2-e6ad-4cb2-944d-fa2581b31cd9",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

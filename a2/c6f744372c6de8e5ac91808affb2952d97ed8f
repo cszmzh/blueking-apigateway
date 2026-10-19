@@ -1,0 +1,32 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_serializers.py
+  s_00848714cc6eb6::t_b922719920daad 248,250,275,282-285,287,319,325
+  s_00848714cc6eb6::t_36dcfe7bec66b4 26,28-29,31,43,45,58,77-80,92,112,119-120,139,150-151
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_00848714cc6eb6::t_a018a26ee98965 53,55-56,58,301,311,339,349,555,565,584,594
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_00848714cc6eb6::t_f678796b5c9ace 320-323,325-346,358,367-368,371-374,377,395-402,404-405,407-415,418-420,423,442-456
+  s_00848714cc6eb6::t_ee7a9ba827e35d 27
+  s_00848714cc6eb6::t_a3a53a243f5874 88-89,91-92,313-314
+  s_00848714cc6eb6::t_ac68ac6e0ea5ca 98-103,105-107,109,112-113,115,117-145,156-157,168,174,178-183,185,211-212,214-215,217-218,220-221,223-229,231-232,234-252,272-295,316-317
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a2c6f744372c6de8e5ac91808affb2952d97ed8f",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_00848714cc6eb6": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6e8b2e7a-a1e8-4f2f-af0f-4769cfa1f090",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

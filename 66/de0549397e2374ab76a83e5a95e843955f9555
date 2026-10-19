@@ -1,0 +1,26 @@
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_6b77a89efaf550::t_70e4e82c13f26a 164
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_6b77a89efaf550::t_f9c53a0e2b96f3 35,62-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "66de0549397e2374ab76a83e5a95e843955f9555",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_6b77a89efaf550": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e93ac7d2-7156-49e2-88a1-9f764715d29c",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

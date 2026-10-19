@@ -1,0 +1,68 @@
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_75c9d63ccf4017::t_e46ab8985498b6 104
+  s_75c9d63ccf4017::t_1b92ecb1de63c7 37,103
+src/dashboard/apigateway/apigateway/apis/permissions.py
+  s_75c9d63ccf4017::t_b5d8ed510961c2 44
+src/dashboard/apigateway/apigateway/biz/iam/auth.py
+  s_75c9d63ccf4017::t_46ecb99e07035b 27,48-49,54,59-61
+  s_75c9d63ccf4017::t_2411f661a37b12 18-19,21,32-33
+  s_75c9d63ccf4017::t_8f5183d418421f 34
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_75c9d63ccf4017::t_ec2b36e6a7eb31 31
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_authorization.py
+  s_75c9d63ccf4017::t_8f556168d92c38 85
+  s_75c9d63ccf4017::t_1a6af906f33ebd 86
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_75c9d63ccf4017::t_0879b7d9e23417 24,161,165-169,378,386,400-403,405-406,419-422,424-425,428-432,440,447-451,471
+  s_75c9d63ccf4017::t_65b4cd7e81fc51 390,404,409,423
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_auth.py
+  s_75c9d63ccf4017::t_b557fe3087d500 26,46-47,54-57,65-66
+  s_75c9d63ccf4017::t_39617d8849f569 19,48
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_75c9d63ccf4017::t_22ae8b8a76d3f1 200
+  s_75c9d63ccf4017::t_7352dd3390ec0a 39,112,131,180
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_75c9d63ccf4017::t_981356ffc90c54 378
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  s_75c9d63ccf4017::t_60a06397013cd0 104,206
+  s_75c9d63ccf4017::t_69f4efde14a5f0 105,125,145,207
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_75c9d63ccf4017::t_fb1fc2ffdef2d0 444
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_75c9d63ccf4017::t_d0c0d74a005795 60-62,67,74,101-102,132-133,146-147,170,369-370
+  s_75c9d63ccf4017::t_02cdc72a8a1a19 163-164,280
+  s_75c9d63ccf4017::t_2da0da2e4df636 281
+src/dashboard/apigateway/apigateway/biz/iam/sync.py
+  s_75c9d63ccf4017::t_b0d7ef57361a05 26,116-117,123-124,128-130,133,157-159,162,182
+  s_75c9d63ccf4017::t_07158c882e17e2 125,250,265,267
+  s_75c9d63ccf4017::t_240b75450dcff4 166
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_75c9d63ccf4017::t_477675edb04224 109,131,150-151,178-179,182
+  s_75c9d63ccf4017::t_b751ee2df77969 103,117,139,159
+src/dashboard/apigateway/apigateway/tests/apis/test_permissions.py
+  s_75c9d63ccf4017::t_e4b50c9ca3c79e 149,179,219
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_members.py
+  s_75c9d63ccf4017::t_ea9c2490a25ef9 232-257
+  s_75c9d63ccf4017::t_4cadd788b3f3d0 231,258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ecf52c6beac0c891ced0056f361c362e6106e44d",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_75c9d63ccf4017": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6bfcaa86-8ba5-4e5b-843a-b1b3332605f6",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

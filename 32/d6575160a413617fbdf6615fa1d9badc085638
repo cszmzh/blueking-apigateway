@@ -1,0 +1,145 @@
+src/dashboard-front/src/stores/useAccessLog.ts
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 29,38,47,56,65,74,173,182,191,200,209,228,236,243,247,251,255,285,289,293,297,301,305,309,313
+src/dashboard-front/src/locales/en.json
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 12,92,592,603-604,610,618,751,1070-1071,1104,1106,1195,1274,1282-1284,1322,1324-1334,1349,1385,1519,1697-1699
+src/dashboard-front/src/views/mcp-server/permission/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 80-81,87,198,273,377,379,407
+src/dashboard-front/src/views/basic-info/components/EditAPIDoc.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 23,106,109,111,323-327,389-391
+src/dashboard-front/src/views/personal-workbench/components/Table.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 107,294,296,306,328,346,359-363,1131
+src/dashboard-front/src/services/types/query/gateways.ts
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 368
+src/dashboard-front/src/assets/bk_icon_font/style.css
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 812,839-847
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_gateway.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 35,511,520
+src/dashboard-front/src/components/plugin-manage/ConfigDisplayTableRateLimit.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 90
+src/dashboard-front/src/views/personal-workbench/components/Form.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 57,63
+src/dashboard-front/src/views/home/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 173-176,266-267,476-477,522-541,649,731-735,873-874,877-909,912,917-919,921-922,925,944-946,951-952,1002,1010-1011,1134,1173,1177-1181,1185-1187
+  s_4e29ce6cb35c2f::t_a0b6db47d59b65 1188
+src/dashboard-front/src/views/api-docs/detail/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 325
+src/dashboard-front/src/views/permission/app/components/BatchRenewal.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 171
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 30,104-105,124,143,204-205
+src/dashboard-front/src/views/operate-data/access-log/Detail.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 109
+src/dashboard-front/src/assets/bk_icon_font/demo.html
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 1204-1215,2859-2876
+src/dashboard-front/src/views/permission/app/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 181,398
+src/dashboard-front/src/views/api-docs/components/DocAuthSection.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 37,44,47-49,51,76
+src/dashboard-front/src/views/permission/app/components/ProactiveAuthorization.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 40,50,248,259
+src/dashboard-front/src/components/plugin-manage/WhitelistTable.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 33,82,223,232,376,868
+src/dashboard-front/src/assets/bk_icon_font/iconcool.js
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 2
+src/dashboard-front/src/views/member-management/components/EditMember.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 25,27-29,31-35,94,126,142-144,153,164-172,237-240,243-257,263
+src/dashboard-front/src/views/member-management/components/AddMember.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 26,29,32,111,135,150-152,161,182-190,241-242
+src/dashboard-front/src/views/permission/app/components/DeletePermission.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 75
+src/dashboard-front/src/assets/bk_icon_font/iconcool.json
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 1
+src/dashboard-front/src/views/resource-management/components/ResourcePathConflictTips.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 419
+src/dashboard-front/src/views/permission/app/components/Renewal.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 33
+src/dashboard-front/src/layout/mcp-market/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 185,789-795
+src/dashboard-front/src/views/resource-management/components/request-params-v2/components/BodyParameterTable.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 654-660
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/add_global_gateway_administrators.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 26,66,102
+src/dashboard-front/src/views/permission/apply/components/BatchApproval.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 147
+src/dashboard-front/src/locales/cn.json
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 12,92,592,603-604,610,618,751,1067-1068,1101,1103,1192,1271,1279-1284,1322,1324-1334,1349,1385,1519,1697-1699
+src/dashboard-front/src/enums/index.ts
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 29,37
+src/dashboard-front/src/components/ag-mcp-card/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 266,300
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 31,227,553
+src/dashboard-front/src/views/basic-info/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 315
+src/dashboard-front/src/components/release-stage/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 119,361-362,432-435,632-646,683-689
+src/dashboard-front/src/views/permission/app/components/BatchRemove.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 154
+src/dashboard-front/src/views/home/CreateGateway.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 381,396
+src/dashboard-front/src/views/monitor-alarm/alarm-strategy/components/AddAlarmStrategy.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 358
+src/dashboard-front/src/views/platform-tools/cli/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 108-111,155-156,164-195,376-378,380-381
+src/dashboard-front/src/layout/my-gateway/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 217,253-258,685,759,761
+src/dashboard-front/src/views/mcp-server/components/AuthApplications.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 83,160
+src/dashboard-front/src/views/online-debugging/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 286,1403
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/sync_gateway_rbac_auth_to_iam.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 26,108,126
+src/dashboard-front/src/components/version-diff/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 111-113
+  s_4e29ce6cb35c2f::t_85bd06786eaa91 114
+src/dashboard-front/src/stores/useGatewayRole.ts
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 33-34,93
+src/dashboard/apigateway/apigateway/biz/iam/__init__.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 31,42
+src/dashboard-front/src/views/mcp-server/permission/components/ApprovalDetailSlider.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 31
+src/dashboard-front/src/assets/bk_icon_font/fonts/iconcool.svg
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 845-851
+  s_4e29ce6cb35c2f::t_8c40df84594bbf 852-853
+src/dashboard/apigateway/apigateway/biz/gateway/gateway.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 41,369
+src/dashboard-front/src/styles/base.scss
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 79,85-89,124-148
+src/dashboard-front/src/views/member-management/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 30-35,38-42,45-46,50,375-407
+  s_4e29ce6cb35c2f::t_adde6af44e56d0 408-409
+src/dashboard-front/src/views/api-docs/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 311,315,318
+src/dashboard-front/src/views/permission/record/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 26,31,115,274-278,293-297,357,427-428,430-432
+src/dashboard-front/src/views/permission/apply/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 35,39,138,304,376-380
+src/dashboard-front/src/views/member-management/components/PermissionModel.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 147
+src/dashboard-front/src/views/resource-management/components/request-params-v2/components/ScalarParameterTable.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 492-498
+src/dashboard-front/src/components/resource-detail/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 26,54-57,928-929,937-938
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 30,62
+src/dashboard-front/src/components/create-gateway/Index.vue
+  s_4e29ce6cb35c2f::t_5f8324b0276e30 165,180
+src/dashboard/apigateway/apigateway/biz/iam/model.py
+  s_4e29ce6cb35c2f::t_8be85f1789d07b 133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "32d6575160a413617fbdf6615fa1d9badc085638",
+  "prompts": {},
+  "sessions": {
+    "s_4e29ce6cb35c2f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a6aeb7c2-e6ad-4cb2-944d-fa2581b31cd9",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

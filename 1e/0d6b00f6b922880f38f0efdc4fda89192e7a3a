@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_751700dd43fb33::t_d9841f3a656719 280-281,322-336,346
+  s_751700dd43fb33::t_089287441be818 282-285,299
+  s_751700dd43fb33::t_61c5206e2a7ea1 304-305
+src/dashboard/apigateway/apigateway/biz/iam/sync.py
+  s_751700dd43fb33::t_49fe0fe546be6a 137-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1e0d6b00f6b922880f38f0efdc4fda89192e7a3a",
+  "prompts": {},
+  "sessions": {
+    "s_751700dd43fb33": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5882f3f8-735d-434c-bf95-c863263fc349",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

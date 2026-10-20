@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_751700dd43fb33::t_e579b9a6544bc2 94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8e6f7e537c1e73c457a636f03bea77e0b647fb0f",
+  "prompts": {},
+  "sessions": {
+    "s_751700dd43fb33": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5882f3f8-735d-434c-bf95-c863263fc349",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

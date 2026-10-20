@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_authorization.py
+  s_751700dd43fb33::t_21cd79cfd6837b 60,73-74,78-81,84,89-90,93-94
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  s_751700dd43fb33::t_71848aed227a64 269,314,320,338-339,343,347-350
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_751700dd43fb33::t_535e01811e58e8 21,59,74,76-93,98-105,116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aec863cff88da7f16d97208df6a661fd5f7654f1",
+  "prompts": {},
+  "sessions": {
+    "s_751700dd43fb33": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5882f3f8-735d-434c-bf95-c863263fc349",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

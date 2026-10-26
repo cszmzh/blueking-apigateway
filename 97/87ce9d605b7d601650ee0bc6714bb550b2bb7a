@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  h_1cd5b46290d715 51
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  h_1cd5b46290d715 38
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  h_1cd5b46290d715 222,316
+src/dashboard/apigateway/apigateway/controller/tasks/oauth2_builtin.py
+  h_1cd5b46290d715 158
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  h_1cd5b46290d715 41
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  h_1cd5b46290d715 98-100,113
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  h_1cd5b46290d715 172,179
+src/dashboard/apigateway/apigateway/tests/controller/tasks/test_oauth2_builtin.py
+  h_1cd5b46290d715 136
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  h_1cd5b46290d715 113,133,149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9787ce9d605b7d601650ee0bc6714bb550b2bb7a",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

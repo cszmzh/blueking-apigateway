@@ -1,0 +1,36 @@
+src/dashboard/apigateway/apigateway/controller/tasks/oauth2_builtin.py
+  s_1521b463f180c5::t_96033793153b76 158
+src/dashboard/apigateway/apigateway/apps/mcp_server/tasks.py
+  s_1521b463f180c5::t_96033793153b76 51
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_1521b463f180c5::t_96033793153b76 41
+src/dashboard/apigateway/apigateway/tests/apps/mcp_server/test_tasks.py
+  s_1521b463f180c5::t_ad354b2fc9a44d 98-100,113
+src/dashboard/apigateway/apigateway/tests/controller/tasks/test_oauth2_builtin.py
+  s_1521b463f180c5::t_96033793153b76 136
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  s_1521b463f180c5::t_ab5d02b7a22808 316
+  s_1521b463f180c5::t_abd5d906aa0bfe 222
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_tasks.py
+  s_1521b463f180c5::t_a19b088b6a85e0 172,179
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_1521b463f180c5::t_96033793153b76 113,133,149
+src/dashboard/apigateway/apigateway/apps/rbac/tasks.py
+  s_1521b463f180c5::t_96033793153b76 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "07d90c968183b036c3401ae7cb87f6f64019ae48",
+  "prompts": {},
+  "sessions": {
+    "s_1521b463f180c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e17ab8b1-a8b2-4dfa-aa59-0a6774095796",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

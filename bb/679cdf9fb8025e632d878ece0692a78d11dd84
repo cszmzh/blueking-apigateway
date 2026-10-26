@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/apps/permission/tasks.py
+  s_39a87bb27606c1::t_22677baf0862cf 233-234
+src/dashboard/apigateway/apigateway/tests/apps/permission/test_tasks.py
+  s_39a87bb27606c1::t_c8359ed8a79785 119,122-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bb679cdf9fb8025e632d878ece0692a78d11dd84",
+  "prompts": {},
+  "sessions": {
+    "s_39a87bb27606c1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "12076944-7e5c-414f-8846-b3c689723a63",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

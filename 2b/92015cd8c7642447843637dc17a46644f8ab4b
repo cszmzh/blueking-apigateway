@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_39a87bb27606c1::t_196139efc484f4 86-87
+  s_39a87bb27606c1::t_068408481c289e 107
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_39a87bb27606c1::t_9965d10d21e80f 228-264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2b92015cd8c7642447843637dc17a46644f8ab4b",
+  "prompts": {},
+  "sessions": {
+    "s_39a87bb27606c1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "12076944-7e5c-414f-8846-b3c689723a63",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

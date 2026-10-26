@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/tests/components/test_bkitsm.py
+  s_39a87bb27606c1::t_d9250f8b238a2e 360-408
+src/dashboard/apigateway/apigateway/components/bkitsm.py
+  s_39a87bb27606c1::t_1c0d6cb9ee082c 333-334,336-337
+  s_39a87bb27606c1::t_7440d21eef192c 329-331,340-346,353-354,362
+  s_39a87bb27606c1::t_eb64a9caa6bac4 328,332,335,338-339,357
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fc47b0700b00e608e66c0dbe645944d92d4d78c9",
+  "prompts": {},
+  "sessions": {
+    "s_39a87bb27606c1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "12076944-7e5c-414f-8846-b3c689723a63",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

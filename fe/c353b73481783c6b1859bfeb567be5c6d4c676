@@ -1,0 +1,33 @@
+src/dashboard/apigateway/apigateway/biz/bk_itsm/bk_itsm.py
+  s_1521b463f180c5::t_49c6d30be511a5 35,38,113-120,146,180-186,218,248-252
+src/dashboard/apigateway/apigateway/biz/mcp_server/permission.py
+  s_1521b463f180c5::t_477afbafaa6543 24,33,42,123-141
+src/dashboard/apigateway/apigateway/biz/permission/manager.py
+  s_1521b463f180c5::t_4636ef8eb59057 28,44,49,241-263
+src/dashboard/apigateway/apigateway/biz/personal_workbench/permission.py
+  s_1521b463f180c5::t_eb4e8bc8db883c 19,29,33-34,67,115,192-195,203,206-209,211-219,222,224-228,285-288,296,299-302,304-312,315-323
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_1521b463f180c5::t_42c7d2037018ca 21,30,34-36,39-41,179-183,185-201,267-278
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_1521b463f180c5::t_7757bebe3bf6c3 22,27-28,35,1454-1507,1866
+src/dashboard/apigateway/apigateway/tests/biz/bk_itsm/test_bk_itsm.py
+  s_1521b463f180c5::t_3bb336433071c0 227-353
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_1521b463f180c5::t_2cb06f62b043e2 24,37-43,87,96-100,102-104,111-142
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fec353b73481783c6b1859bfeb567be5c6d4c676",
+  "prompts": {},
+  "sessions": {
+    "s_1521b463f180c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e17ab8b1-a8b2-4dfa-aa59-0a6774095796",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

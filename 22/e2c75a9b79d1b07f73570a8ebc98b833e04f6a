@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/tests/service/test_bk_itsm.py
+  s_1521b463f180c5::t_93a2e07e7b3bc5 122,132-133
+  s_1521b463f180c5::t_6204bab7e2b881 31
+  s_1521b463f180c5::t_bee7c8e10e9e77 146-158
+src/dashboard/apigateway/apigateway/service/bk_itsm.py
+  s_1521b463f180c5::t_a4e63af8c3d472 182-183,196-200
+  s_1521b463f180c5::t_1828acb5d7fdd0 184-186
+  s_1521b463f180c5::t_2177b59ecb0944 24
+  s_1521b463f180c5::t_1d253128c6f4e7 275-293
+src/dashboard/apigateway/apigateway/biz/bk_itsm/bk_itsm.py
+  s_1521b463f180c5::t_a0ac96f10d83ce 116-117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "22e2c75a9b79d1b07f73570a8ebc98b833e04f6a",
+  "prompts": {},
+  "sessions": {
+    "s_1521b463f180c5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e17ab8b1-a8b2-4dfa-aa59-0a6774095796",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

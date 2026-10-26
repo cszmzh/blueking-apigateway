@@ -1,0 +1,23 @@
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_7e934ed86d7dab::t_549913e44cd2e0 6480
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_7e934ed86d7dab::t_281ddc929e0fd5 942
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_delete_gateway_maintainers.md
+  s_7e934ed86d7dab::t_d77b70220128d2 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e2e0586c3d375675ca4667e6efb9fe15779a6b57",
+  "prompts": {},
+  "sessions": {
+    "s_7e934ed86d7dab": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d5d64536-cf06-4aef-a219-82f00b36485b",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

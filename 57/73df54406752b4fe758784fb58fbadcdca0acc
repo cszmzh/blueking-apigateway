@@ -1,0 +1,16 @@
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  h_1cd5b46290d715 24,406-467
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  h_1cd5b46290d715 22,188-281
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5773df54406752b4fe758784fb58fbadcdca0acc",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

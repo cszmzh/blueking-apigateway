@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_migrations.py
+  s_fa5cb9fe85f49a::t_36bb943aa968a0 84,89,101,107,134-137,156,178,188,200,204,207-208,213-217
+src/dashboard/apigateway/apigateway/apps/rbac/migrations/0002_backfill_gateway_members.py
+  s_fa5cb9fe85f49a::t_36bb943aa968a0 32-35,121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab050d08cfda2cc92e577ca352df403639b00994",
+  "prompts": {},
+  "sessions": {
+    "s_fa5cb9fe85f49a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "956a7942-c524-4252-a125-b074380cb89b",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

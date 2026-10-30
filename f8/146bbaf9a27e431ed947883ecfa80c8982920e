@@ -1,14 +1,24 @@
 src/dashboard/apigateway/apigateway/biz/iam/authorization.py
   s_0b29484c395275::t_7a4a05f5ca202a 26-29,73
+  s_8482d93b596e38::t_0103f487d2ab0f 73
+  s_8482d93b596e38::t_9dba01cde6b5d1 26-29
 src/dashboard/apigateway/apigateway/tests/common/tenant/test_request.py
   s_0b29484c395275::t_7a4a05f5ca202a 21-25,44-55
+  s_8482d93b596e38::t_25127c046ef9a0 21-25
+  s_8482d93b596e38::t_5bd233cd650cce 44-55
 src/dashboard/apigateway/apigateway/components/bkpaas.py
   s_0b29484c395275::t_7a4a05f5ca202a 32-36,571-581,586-589,603
+  s_8482d93b596e38::t_b6be7aae686183 32-36
+  s_8482d93b596e38::t_a425ca2eaad5a8 571-581,586-589,603
 src/dashboard/apigateway/apigateway/tests/components/test_bkpaas.py
   s_0b29484c395275::t_7a4a05f5ca202a 38,217-258
   s_0b29484c395275::t_637e76698d0f60 259-260
+  s_8482d93b596e38::t_88ab26f1455e32 38
+  s_8482d93b596e38::t_fc4f70036af5ce 217-260
 src/dashboard/apigateway/apigateway/common/tenant/request.py
   s_0b29484c395275::t_7a4a05f5ca202a 43-47
+  s_8482d93b596e38::t_fea58c83edcb9b 43,45-47
+  s_8482d93b596e38::t_437e3c074a7830 44
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -20,6 +30,14 @@ src/dashboard/apigateway/apigateway/common/tenant/request.py
       "agent_id": {
         "tool": "cursor",
         "id": "a52b5211-22e5-44f8-83ee-42b6e594db67",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_8482d93b596e38": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "eb5fe6ac-1b9d-4eac-be7d-b9561ddb9351",
         "model": "grok-4.7"
       },
       "human_author": "Zach <cszmzh@gmail.com>"

@@ -1,7 +1,24 @@
 src/dashboard/apigateway/apigateway/components/bkiam.py
   h_1cd5b46290d715 24,406-467
+  s_f52f7f5a4ec33c::t_23beb7ebf105fc 406,454
+  s_f52f7f5a4ec33c::t_cd3e04f328916e 456,458-459
+  s_f52f7f5a4ec33c::t_416a88573c0fa4 453,460
+  s_f52f7f5a4ec33c::t_f0ae1e81e9020b 408,413,455,461
+  s_f52f7f5a4ec33c::t_5643a5a91a5007 24
+  s_d08815906d8d16::t_f259190f1c4430 407,409-412,414,416-436,438-451
+  s_d08815906d8d16::t_0e539924bcf818 437
+  s_d08815906d8d16::t_513bf956d92f0d 462
+  s_d08815906d8d16::t_e50d7d12f74f17 453-460,464-467
+  s_d08815906d8d16::t_973b2207fac2f7 461,463
 src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
   h_1cd5b46290d715 22,188-281
+  s_f52f7f5a4ec33c::t_b194ca7d5ddbce 188-189,194
+  s_f52f7f5a4ec33c::t_cda4a3c2e17d9d 215-219,227,229,231-238,246,248-249,258-260,267
+  s_f52f7f5a4ec33c::t_7fae3d0889a302 190-193,195-214,220-226,228,230,239-245,247,254-256,261-262,263,266,268-269,271-274,275,278-279,280-281
+  s_d08815906d8d16::t_92ba09ae9def88 22
+  s_d08815906d8d16::t_55db55662cfbed 264-265,277
+  s_d08815906d8d16::t_003e4997a71b79 257,270,276
+  s_d08815906d8d16::t_da74ac0119deda 234,244,246,250-254
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -11,6 +28,24 @@ src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
   "humans": {
     "h_1cd5b46290d715": {
       "author": "Zach <cszmzh@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d08815906d8d16": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "73fb74b6-daeb-4e4c-b563-d8a9a406e477",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_f52f7f5a4ec33c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "83f69d84-e08e-4d75-a6a9-79fc0cad6003",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
     }
   }
 }

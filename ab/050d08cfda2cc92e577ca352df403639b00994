@@ -1,7 +1,16 @@
 src/dashboard/apigateway/apigateway/tests/apps/rbac/test_migrations.py
   s_fa5cb9fe85f49a::t_36bb943aa968a0 84,89,101,107,134-137,156,178,188,200,204,207-208,213-217
+  s_fa5cb9fe85f49a::t_6ec1a577b80089 134-137
+  s_fa5cb9fe85f49a::t_a7d93ec1407218 188,200,204,207-208,213-217
+  s_fa5cb9fe85f49a::t_90b07eb5a6a9ec 101,107
+  s_fa5cb9fe85f49a::t_627ff65ea4272e 84,89
+  s_fa5cb9fe85f49a::t_b0a7cf86af9454 178
+  s_fa5cb9fe85f49a::t_c808a3e19b83ca 156
 src/dashboard/apigateway/apigateway/apps/rbac/migrations/0002_backfill_gateway_members.py
   s_fa5cb9fe85f49a::t_36bb943aa968a0 32-35,121
+  s_fa5cb9fe85f49a::t_d1509ab4653874 32-33
+  s_fa5cb9fe85f49a::t_d57941532b7a66 34-35
+  s_fa5cb9fe85f49a::t_2450e734adc634 121
 ---
 {
   "schema_version": "authorship/3.0.0",

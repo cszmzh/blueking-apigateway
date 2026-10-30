@@ -1,0 +1,24 @@
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_d08815906d8d16::t_92ba09ae9def88 22
+  s_d08815906d8d16::t_55db55662cfbed 234,245-246,259-260,272
+  s_d08815906d8d16::t_003e4997a71b79 252,265,271
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_d08815906d8d16::t_f259190f1c4430 407,409-412,414,416-436,438-451,453-459
+  s_d08815906d8d16::t_0e539924bcf818 437
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4bd5c317c505daeeb57d72de1542908504cecf9b",
+  "prompts": {},
+  "sessions": {
+    "s_d08815906d8d16": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "73fb74b6-daeb-4e4c-b563-d8a9a406e477",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

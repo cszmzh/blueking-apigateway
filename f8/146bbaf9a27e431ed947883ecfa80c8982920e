@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/biz/iam/authorization.py
+  s_0b29484c395275::t_7a4a05f5ca202a 26-29,73
+src/dashboard/apigateway/apigateway/tests/common/tenant/test_request.py
+  s_0b29484c395275::t_7a4a05f5ca202a 21-25,44-55
+src/dashboard/apigateway/apigateway/components/bkpaas.py
+  s_0b29484c395275::t_7a4a05f5ca202a 32-36,571-581,586-589,603
+src/dashboard/apigateway/apigateway/tests/components/test_bkpaas.py
+  s_0b29484c395275::t_7a4a05f5ca202a 38,217-258
+  s_0b29484c395275::t_637e76698d0f60 259-260
+src/dashboard/apigateway/apigateway/common/tenant/request.py
+  s_0b29484c395275::t_7a4a05f5ca202a 43-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f8146bbaf9a27e431ed947883ecfa80c8982920e",
+  "prompts": {},
+  "sessions": {
+    "s_0b29484c395275": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a52b5211-22e5-44f8-83ee-42b6e594db67",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

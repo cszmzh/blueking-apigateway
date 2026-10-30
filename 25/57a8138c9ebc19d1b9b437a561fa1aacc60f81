@@ -1,0 +1,20 @@
+src/dashboard/apigateway/apigateway/biz/iam/constants.py
+  h_1cd5b46290d715 30,34
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  h_1cd5b46290d715 137,232-248,278,285,287,290,293,309,321,323,334,344,347,358
+src/dashboard/apigateway/apigateway/tests/biz/iam/test_sync.py
+  h_1cd5b46290d715 92,98
+src/dashboard/bin/post_migrate
+  h_1cd5b46290d715 65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2557a8138c9ebc19d1b9b437a561fa1aacc60f81",
+  "prompts": {},
+  "humans": {
+    "h_1cd5b46290d715": {
+      "author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

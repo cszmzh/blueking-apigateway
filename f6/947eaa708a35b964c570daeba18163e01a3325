@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/apps/rbac/migrations/0002_backfill_gateway_members.py
+  s_fa5cb9fe85f49a::t_d1509ab4653874 32-33
+  s_fa5cb9fe85f49a::t_2450e734adc634 121
+  s_fa5cb9fe85f49a::t_d57941532b7a66 34-35
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_migrations.py
+  s_fa5cb9fe85f49a::t_c808a3e19b83ca 158
+  s_fa5cb9fe85f49a::t_90b07eb5a6a9ec 103,109
+  s_fa5cb9fe85f49a::t_627ff65ea4272e 86,91
+  s_fa5cb9fe85f49a::t_b0a7cf86af9454 180
+  s_fa5cb9fe85f49a::t_6ec1a577b80089 136-139
+  s_fa5cb9fe85f49a::t_a7d93ec1407218 190,202,206,209-210,215-219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6947eaa708a35b964c570daeba18163e01a3325",
+  "prompts": {},
+  "sessions": {
+    "s_fa5cb9fe85f49a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "956a7942-c524-4252-a125-b074380cb89b",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

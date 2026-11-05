@@ -1,0 +1,43 @@
+src/dashboard/apigateway/apigateway/tests/biz/permission/test_permission.py
+  s_50e89ad61fd824::t_cb586ddc2c334c 231-318
+  s_50e89ad61fd824::t_1d5aa6b21f59c6 26,29-30,35
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_50e89ad61fd824::t_642f22d4f25988 6805-6808
+src/dashboard/apigateway/apigateway/tests/apis/v2/inner/test_views.py
+  s_50e89ad61fd824::t_6e83defd17a6df 346,350-399,401-403
+  s_50e89ad61fd824::t_d9096bf05499f2 347-349,400
+  s_50e89ad61fd824::t_d4798521452ede 51-52
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_inner_list_gateway_permission_resources.md
+  s_50e89ad61fd824::t_264b3ca91f26f8 38-39
+  s_50e89ad61fd824::t_d53829bcc5013b 65
+src/dashboard/apigateway/apigateway/apis/v2/inner/views.py
+  s_50e89ad61fd824::t_d00c9c2f64e697 550
+  s_50e89ad61fd824::t_8787413deac9c3 526
+src/dashboard/apigateway/apigateway/biz/permission/display.py
+  s_50e89ad61fd824::t_6d17826a9746ff 128
+  s_50e89ad61fd824::t_afadc9a6d2d818 225-226
+  s_50e89ad61fd824::t_adaf9b88ae22ec 97-98,113,116-127
+  s_50e89ad61fd824::t_6124b47614e3dd 195-204
+  s_50e89ad61fd824::t_1c78bff9a9e153 249-258,260-262,266-267
+  s_50e89ad61fd824::t_13eef3e15f6c09 39-44,59-60,75-76
+src/dashboard/apigateway/apigateway/apis/v2/inner/serializers.py
+  s_50e89ad61fd824::t_01a59d46c67ed6 358-360,362-363
+  s_50e89ad61fd824::t_d5017d1d0376df 309,323
+  s_50e89ad61fd824::t_8caf97adc57715 361,364-375
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5fe55404a9a918b3241f04718efe306bab908b98",
+  "prompts": {},
+  "sessions": {
+    "s_50e89ad61fd824": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9e51e172-bcbb-4cd0-b7c5-04bba1f3ba23",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

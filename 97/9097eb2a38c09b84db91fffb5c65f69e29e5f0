@@ -1,0 +1,32 @@
+src/dashboard/apigateway/apigateway/components/bkiam.py
+  s_f52f7f5a4ec33c::t_98479169639c5a 415
+  s_f52f7f5a4ec33c::t_23beb7ebf105fc 406-407,417,420,426-427,430-432,434-438,441-442
+  s_f52f7f5a4ec33c::t_cd3e04f328916e 419,421-422
+  s_f52f7f5a4ec33c::t_416a88573c0fa4 416,423
+  s_f52f7f5a4ec33c::t_f0ae1e81e9020b 408-414,418,424-425,428-429,433,439-440,443
+  s_f52f7f5a4ec33c::t_5643a5a91a5007 24
+src/dashboard/apigateway/apigateway/tests/components/test_bkiam.py
+  s_f52f7f5a4ec33c::t_b194ca7d5ddbce 188-189,194
+  s_f52f7f5a4ec33c::t_c154b801da5bd3 265-266
+  s_f52f7f5a4ec33c::t_0f27923b8e1d9f 269,274,276,280
+  s_f52f7f5a4ec33c::t_bd2c3a31df5b25 279
+  s_f52f7f5a4ec33c::t_cda4a3c2e17d9d 215-219,227,229,231-238,246,248-249,254-257,262,264
+  s_f52f7f5a4ec33c::t_8d82f4ba06b4e2 250
+  s_f52f7f5a4ec33c::t_7fae3d0889a302 190-193,195-214,220-226,228,230,239-245,247,251-253,258-261,263,267-268,270-273,275,277-278,281-282
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "979097eb2a38c09b84db91fffb5c65f69e29e5f0",
+  "prompts": {},
+  "sessions": {
+    "s_f52f7f5a4ec33c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "83f69d84-e08e-4d75-a6a9-79fc0cad6003",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

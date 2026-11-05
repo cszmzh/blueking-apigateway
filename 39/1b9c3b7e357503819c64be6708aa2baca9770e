@@ -1,0 +1,25 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/personal_workbench/test_views.py
+  s_e84ded51d9d290::t_06be796c25e6a4 773,794,817,848,883,913,936
+  s_e84ded51d9d290::t_20c456ba843983 774,795,818,849,884,914,937
+  s_e84ded51d9d290::t_cbe9215f4d4858 772,793,816,847,882,912,935
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/views.py
+  s_e84ded51d9d290::t_b2ced085d26c59 312-313,316-318
+src/dashboard/apigateway/apigateway/apis/web/personal_workbench/serializers.py
+  s_e84ded51d9d290::t_4444eb959ef1c5 46-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "391b9c3b7e357503819c64be6708aa2baca9770e",
+  "prompts": {},
+  "sessions": {
+    "s_e84ded51d9d290": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "30eaf945-db88-4737-be71-be8e2078660f",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

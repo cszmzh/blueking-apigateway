@@ -1,0 +1,20 @@
+src/dashboard/apigateway/apigateway/apps/mcp_server/managers.py
+  s_5ce90bc18067d1::t_f9e70253a4fa44 25
+  s_5ce90bc18067d1::t_0d0cc63f151783 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c475f622214e4bc4f9d3f4487ed2d7d5c0c993f6",
+  "prompts": {},
+  "sessions": {
+    "s_5ce90bc18067d1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "402745af-b41b-4aad-82ef-d6321553329e",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+src/dashboard/apigateway/apigateway/tests/apps/skill/test_validators.py
+  s_135906ea0a0594::t_232b503ed3e9ba 215-216
+  s_135906ea0a0594::t_f8bbc089d664ef 229-233
+src/dashboard/apigateway/apigateway/tests/apps/skill/test_models.py
+  s_135906ea0a0594::t_a368f3f3ebf85e 224-225,229-233
+  s_135906ea0a0594::t_fec7a9225b20b4 333-334,338
+  s_135906ea0a0594::t_59168ecc73efd3 202-203,209
+src/dashboard/apigateway/apigateway/apps/skill/models.py
+  s_135906ea0a0594::t_3dc8250b5f96fd 170
+src/dashboard/apigateway/apigateway/controller/transformer.py
+  s_135906ea0a0594::t_7b35c4f2740dd3 45,60,71,150
+src/dashboard/apigateway/apigateway/apps/skill/validators.py
+  s_135906ea0a0594::t_e94ff4e2fed97d 132,134-137
+  s_135906ea0a0594::t_dac95ec9a80ef0 49-50
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/importers.py
+  s_135906ea0a0594::t_736df5c6bc4fbd 37,42,49,61
+src/dashboard/apigateway/apigateway/apps/skill/migrations/0001_initial.py
+  s_135906ea0a0594::t_2dd998adb55054 109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "778b42e028c4ff885b9fe33524aa742abedf7f51",
+  "prompts": {},
+  "sessions": {
+    "s_135906ea0a0594": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "45a6af7f-e638-4f16-9505-9895b222b142",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

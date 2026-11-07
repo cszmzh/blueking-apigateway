@@ -1,0 +1,31 @@
+src/dashboard/apigateway/apigateway/apps/skill/models.py
+  s_08e4bd0dc4c1ea::t_205b84f5ad8799 107,110-112
+  s_08e4bd0dc4c1ea::t_45d3a5c622c2e5 109
+  s_08e4bd0dc4c1ea::t_0fa9c6abf2699e 108
+  s_08e4bd0dc4c1ea::t_c85c1631f81bae 113
+src/dashboard/apigateway/apigateway/tests/apps/skill/test_constants.py
+  s_08e4bd0dc4c1ea::t_82ac92aa2b4d6e 19
+  s_08e4bd0dc4c1ea::t_0e476452f5d628 26-27
+src/dashboard/apigateway/apigateway/apps/skill/constants.py
+  s_08e4bd0dc4c1ea::t_5a82031b231576 38
+src/dashboard/apigateway/apigateway/tests/apps/skill/test_models.py
+  s_08e4bd0dc4c1ea::t_46a069070f0fea 85-87,89
+docs/ddd-ubiquitous-language.md
+  s_08e4bd0dc4c1ea::t_cfa0d92765ead6 188-189
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "79a146f777cc591a04d953964149ed92e6dd43ac",
+  "prompts": {},
+  "sessions": {
+    "s_08e4bd0dc4c1ea": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c2715bf7-757f-4efa-9017-16bd4b82e263",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

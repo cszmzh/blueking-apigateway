@@ -1,0 +1,60 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_00c03ecd85d58a::t_17b9041f196a30 69,73,77-86
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_00c03ecd85d58a::t_306ed7411984fd 18
+  s_00c03ecd85d58a::t_fc84e4ec1674bb 132-133
+  s_00c03ecd85d58a::t_5cd1927ccb8fb4 101
+  s_00c03ecd85d58a::t_d68d1c35c0bebc 140,142
+  s_00c03ecd85d58a::t_5538d3978b03c8 69
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_writer.py
+  s_00c03ecd85d58a::t_e1a9896f7e9795 97-116
+  s_00c03ecd85d58a::t_0efb6b847a9e96 26
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_00c03ecd85d58a::t_10a5fe36de598e 74-76
+  s_00c03ecd85d58a::t_5d5c4903296da2 39-47,49-53
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_00c03ecd85d58a::t_5e651a153d6f89 86-92
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_00c03ecd85d58a::t_eeb18c04e30408 87-111
+src/dashboard/apigateway/apigateway/biz/skill/resource_definition.py
+  s_00c03ecd85d58a::t_b69600fb6e1638 59,61-63
+docs/ddd-ubiquitous-language.md
+  s_00c03ecd85d58a::t_429e25db146b5d 203
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_00c03ecd85d58a::t_ce3bab053ac7e1 115-118,120-121,125,133-134
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_00c03ecd85d58a::t_e9b8ae00d20879 41-61
+  s_00c03ecd85d58a::t_3ec44f610cf03a 20
+  s_00c03ecd85d58a::t_c1301a680705bd 90-91
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_00c03ecd85d58a::t_799efd20d48dd7 28,33,35
+  s_00c03ecd85d58a::t_3422bfd356f6f8 96-107,118
+  s_00c03ecd85d58a::t_4ac6aadf196073 127,129-138
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_00c03ecd85d58a::t_81d7887b0d68e2 117-118,128,130-132,134-137
+  s_00c03ecd85d58a::t_fc2a4b959f2285 74,82-83
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_00c03ecd85d58a::t_d970250016c068 359
+  s_00c03ecd85d58a::t_43abe89418e426 63
+  s_00c03ecd85d58a::t_51a0d33ec0e89c 208
+  s_00c03ecd85d58a::t_78f23837a6f63e 337,339-342
+  s_00c03ecd85d58a::t_5db2f8e8df7ca2 338
+  s_00c03ecd85d58a::t_173784b95fb2f3 46
+  s_00c03ecd85d58a::t_c1caa59dc6345e 351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d14152540f41ba3bd16d8dadbcd522c1ed91068e",
+  "prompts": {},
+  "sessions": {
+    "s_00c03ecd85d58a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2156b316-c445-498f-a447-f8e4754ab60b",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+src/dashboard/apigateway/apigateway/tests/utils/test_responses.py
+  s_351a4b336b123f::t_750c08c296d540 1-51
+src/dashboard/apigateway/apigateway/utils/responses.py
+  s_351a4b336b123f::t_252a72e4d41ec8 102-103
+  s_351a4b336b123f::t_8da9171ac414c3 101
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f53f8c37ffc54a9f07bd436d1b53d993e90c4d2a",
+  "prompts": {},
+  "sessions": {
+    "s_351a4b336b123f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f67556e9-3d89-4d75-b298-dbca00b1f4ff",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

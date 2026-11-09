@@ -1,0 +1,30 @@
+src/dashboard/apigateway/apigateway/tests/common/test_constants.py
+  s_70935729d4f6d1::t_13fb5699ed5546 25-38
+src/dashboard/apigateway/apigateway/apis/web/sdk/serializers.py
+  s_70935729d4f6d1::t_9e8791a43f248f 24
+src/dashboard/apigateway/apigateway/apis/open/resource_version/serializers.py
+  s_70935729d4f6d1::t_2eadcab2875fb1 26
+src/dashboard/apigateway/apigateway/apis/open/support/serializers.py
+  s_70935729d4f6d1::t_8d4b68c070735a 22
+src/dashboard/apigateway/apigateway/apis/web/resource_version/serializers.py
+  s_70935729d4f6d1::t_b1d81ecc26a42d 27
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_70935729d4f6d1::t_9cc12c1021936d 41
+  s_70935729d4f6d1::t_3fe5a9b4568c87 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b9f3861746a4a3b5f17457f27f6dcb8df4386129",
+  "prompts": {},
+  "sessions": {
+    "s_70935729d4f6d1": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "280e927f-e3ab-4aa6-a077-9be3af1ceee3",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/importers.py
+  s_9b1d4d0606331d::t_a55828b9ee5fdb 37,42,49,61
+src/dashboard/apigateway/apigateway/controller/transformer.py
+  s_9b1d4d0606331d::t_a55828b9ee5fdb 45,60,71,150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6b0e3b9d5aca9c22523bf608f6bffe9a57a318c3",
+  "prompts": {},
+  "sessions": {
+    "s_9b1d4d0606331d": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "302e794d-79d9-4988-8cbe-72875f07c20e",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

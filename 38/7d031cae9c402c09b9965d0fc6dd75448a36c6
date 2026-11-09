@@ -1,0 +1,21 @@
+src/dashboard/apigateway/apigateway/tests/apps/skill/test_models.py
+  s_86ead743919efb::t_ee96a0399fa35b 266
+  s_86ead743919efb::t_11f71619aa7584 28
+  s_86ead743919efb::t_7ea690a1bb7b98 73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "387d031cae9c402c09b9965d0fc6dd75448a36c6",
+  "prompts": {},
+  "sessions": {
+    "s_86ead743919efb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a7f54cfa-f186-44b7-a463-d7791efd6252",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_2e758f26534699::t_a129ad3640c4ea 48
+  s_2e758f26534699::t_d5554b94b3cc79 130
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_7394f274b2cd9e::t_bf136214c70787 25,65
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_7394f274b2cd9e::t_90f83ac45efaf8 15,57
+src/dashboard/apigateway/apigateway/core/constants.py
+  s_2e758f26534699::t_2f0c00ab63f26b 316-317
+src/dashboard/apigateway/apigateway/apis/web/resource/serializers.py
+  s_2e758f26534699::t_e129ac368a78ea 44-49
+  s_2e758f26534699::t_da03bb0d7fc511 55
+src/dashboard/apigateway/apigateway/data/skill/references/how-to-call-apis.md
+  s_7394f274b2cd9e::t_14b8bad3affd86 7
+  s_7394f274b2cd9e::t_69b524128b6beb 21,25-27,30-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e53ffbf296d99d9933b8afc632fab0a1d50340b",
+  "prompts": {},
+  "sessions": {
+    "s_2e758f26534699": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "eed8c9eb-9702-40cf-93ca-0120217e3919",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_7394f274b2cd9e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2d3327f7-dccf-43ef-b9dc-1d18dca8da68",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

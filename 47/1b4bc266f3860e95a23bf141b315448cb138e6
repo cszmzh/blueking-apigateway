@@ -1,0 +1,71 @@
+src/dashboard/apigateway/apigateway/data/skill/declarations/pipeline-app-build-detail.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 15-40,42-57,59-61,63-74,76-80
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/declarations/job-plan-run-and-log.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 15-37,39-54,56-58,60-82
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_3b7aef601b6adb::t_9cfb7e92115f3b 21-22,25-26,57,77-80,86,113,115,117-119,123-135,138-139,141-146,148,150-152,155,157-158,161,163-165,170,172-174,176-178,180-182,201-202,206-213,216-218,220,224,226-228
+src/dashboard/apigateway/apigateway/data/skill/declarations/pipeline-build-artifact-url.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 13,15-41,43-62,64-100
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_3b7aef601b6adb::t_d7fc94f1a55a90 11-12,25,50,55,57-58,60,65,74-75,80-81,83-84,86-88,91-92,95-96,98,100,103-104,106-107
+src/dashboard/apigateway/apigateway/biz/skill/refs.py
+  s_3b7aef601b6adb::t_d03ad9da759957 18,20-24,29,31,36-37,42,51-67,70-71,79-86
+  s_3b7aef601b6adb::t_efb9e1a68cfb3e 32-35
+src/dashboard/apigateway/apigateway/data/skill/declarations/sops-task-list-and-status.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 15-41,43-58,60-62,64-77
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_3b7aef601b6adb::t_923bf9b0a577cb 89,93-122
+src/dashboard/apigateway/apigateway/data/skill/references/how-to-call-apis.md
+  s_3b7aef601b6adb::t_366a664eb013c2 11
+  s_3b7aef601b6adb::t_a76ebdf01bec0e 13-14,55,57
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_3b7aef601b6adb::t_dd469b879df13d 16,20,44,65-69,72-73,79-80
+  s_3b7aef601b6adb::t_75849948b63cb5 70-71
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_declaration.py
+  s_3b7aef601b6adb::t_da334355d41309 59,61-66,73-81,135-136,140,142,144,146,148-152,154,156-160,162,164-167,169,171,174,176-182,185-186,188-190,193,195-203,206-207,209,211,213-215,217,219-223,227,229-233,237,239-240,244,251-253,257
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_3b7aef601b6adb::t_1ddc986c521a18 83
+  s_3b7aef601b6adb::t_63e453e9c1f6fa 32-33,72,76,80,86-88,92,94-95,99-113,119-120,123-125,127,132-134
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_3b7aef601b6adb::t_923bf9b0a577cb 15,40-43,47,49-53,57-59,61,63,65,85,89,93,98,114,116,131,137,143,164,167,169,171,191,195,199,211,214
+  s_3b7aef601b6adb::t_8dfb19c9e42ecc 215
+docs/ddd-ubiquitous-language.md
+  s_3b7aef601b6adb::t_dd469b879df13d 190,192
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_3b7aef601b6adb::t_1ddc986c521a18 128
+  s_3b7aef601b6adb::t_9e9b6be6fcb6dc 20,26,29,52,54-56,76,87,90-93,95-103,105-116,120,122
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_writer.py
+  s_3b7aef601b6adb::t_cc539e3ff41de5 119
+src/dashboard/apigateway/apigateway/apps/skill/models.py
+  s_3b7aef601b6adb::t_d56285f357b668 158
+src/dashboard/apigateway/apigateway/tests/biz/skill/conftest.py
+  s_3b7aef601b6adb::t_092fe13baf242b 140
+src/dashboard/apigateway/apigateway/data/skill/declarations/job-plan-run-and-log.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 15-37,39-54,56-58,60-82
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_3b7aef601b6adb::t_d56285f357b668 144-145
+src/dashboard/apigateway/apigateway/data/skill/declarations/sops-create-and-start.yaml
+  s_3b7aef601b6adb::t_b8fbdb8905de40 15-41,43-58,60-62,64-72,74-84
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_3b7aef601b6adb::t_cc539e3ff41de5 53
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_3b7aef601b6adb::t_cc539e3ff41de5 103,109,113,124,128
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_3b7aef601b6adb::t_22eea2c60149d3 21,41,45,136-140,146-154,156-169,176-186,193-197,201-222,271-274,316,318-320,322-324,330,334,339,351,357,359,361-363
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "471b4bc266f3860e95a23bf141b315448cb138e6",
+  "prompts": {},
+  "sessions": {
+    "s_3b7aef601b6adb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b79dfb02-841c-403a-9c50-673f10775437",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_9b8744385f63e5::t_30af21c3e1946f 139,143-156,159-162
+  s_9b8744385f63e5::t_49233cc80a4ec4 61-85
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_9b8744385f63e5::t_b3b96a4308ff1e 65
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_9b8744385f63e5::t_4b3c787dfc2209 412
+  s_9b8744385f63e5::t_202d2d810dc62b 294,297
+  s_9b8744385f63e5::t_177e82ea4d2553 136,146-165
+  s_9b8744385f63e5::t_274186bd0bedea 183
+  s_9b8744385f63e5::t_925973d9348dd7 310,313-315
+  s_9b8744385f63e5::t_196a47e5902ba7 347,351
+  s_9b8744385f63e5::t_399663f4dea18c 430,433-434
+  s_9b8744385f63e5::t_7cb9aaacfcd49e 327,330
+  s_9b8744385f63e5::t_2d5fa170c0908a 337,340
+  s_9b8744385f63e5::t_83e594f88a76d0 277-293,295-296,299-309,311-312,316-326,328-329,331-336,338-339,341-346,348-350,352-360
+  s_9b8744385f63e5::t_6240d75556ea0f 166
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_9b8744385f63e5::t_6e5b4e0321f410 57,102,108-110,115-116,156,162-164,168,173-193,234,240-270
+  s_9b8744385f63e5::t_b4d38437a4f9c0 29-32
+src/dashboard/apigateway/apigateway/data/skill/references/how-to-call-apis.md
+  s_9b8744385f63e5::t_f9383ec3ca500c 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "63b11ff2248c0a3f50fac21da9021a848cd8a95d",
+  "prompts": {},
+  "sessions": {
+    "s_9b8744385f63e5": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "131f72ea-e0ce-49df-a1c6-448ac36dcc9e",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

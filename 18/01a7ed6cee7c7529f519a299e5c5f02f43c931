@@ -1,0 +1,28 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_7394f274b2cd9e::t_9ea9ecdfc1190f 48,53-63
+src/dashboard/apigateway/apigateway/data/skill/references/how-to-call-apis.md
+  s_7394f274b2cd9e::t_356178521f57ae 7,32
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_7394f274b2cd9e::t_d638870a0a3c30 183,412,414-419,422,428,433,440
+  s_7394f274b2cd9e::t_46f059a62e260f 21
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_7394f274b2cd9e::t_e5e3e810529c75 65,98
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_7394f274b2cd9e::t_57076297ddd286 57,68-110,113-115,123-175,178-182,187-191,201-240,243-246,249-258,263-267
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1801a7ed6cee7c7529f519a299e5c5f02f43c931",
+  "prompts": {},
+  "sessions": {
+    "s_7394f274b2cd9e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "2d3327f7-dccf-43ef-b9dc-1d18dca8da68",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

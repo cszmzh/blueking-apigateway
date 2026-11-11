@@ -1,0 +1,46 @@
+src/dashboard/apigateway/apigateway/tests/biz/gateway/test_members.py
+  s_790938d1c1deed::t_cd8bf1bb5f9c03 31
+  s_790938d1c1deed::t_eefcf40571d13b 276,283-326,328-329,333-388
+  s_790938d1c1deed::t_de14633925fea3 389-390
+src/dashboard/apigateway/apigateway/biz/gateway/__init__.py
+  s_790938d1c1deed::t_13adbc0dbb4080 22,31
+  s_790938d1c1deed::t_3fb6775a999859 58
+  s_790938d1c1deed::t_ba26e4528fcafe 42
+src/dashboard/apigateway/apigateway/common/tenant/request.py
+  s_790938d1c1deed::t_9961992885a7f6 44
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/remove_excluded_gateway_members.py
+  s_790938d1c1deed::t_297f420c7a9203 1-22,24-47,49-65
+  s_790938d1c1deed::t_281214274b779d 48
+  s_790938d1c1deed::t_c4044aa38ec64c 23
+src/dashboard/pyproject.toml
+  s_790938d1c1deed::t_d5478147b668f9 318,479
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_790938d1c1deed::t_c12fe9ae18b4ed 298-303,305-306
+  s_790938d1c1deed::t_b2825228910e51 97-102,118-123
+  s_790938d1c1deed::t_04a5f0ef046430 66-71
+  s_790938d1c1deed::t_e168649575e9bb 246
+  s_790938d1c1deed::t_1a94b641d3a9a1 219,224
+  s_790938d1c1deed::t_57a533cfd5e906 197,205
+  s_790938d1c1deed::t_cc73c0d41744ef 37
+  s_790938d1c1deed::t_1ac74f36c30890 88-96,103-117,124-154
+  s_790938d1c1deed::t_0ecaf99fa3388d 304,307-314
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_790938d1c1deed::t_e5de5aef9c52f9 660-716,718-737
+  s_790938d1c1deed::t_4f601ea92c90f8 717
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "45d62ec92c4d617d23d936866e083903fa8850da",
+  "prompts": {},
+  "sessions": {
+    "s_790938d1c1deed": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3ee3a864-b185-438c-a72a-43239946bb0a",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

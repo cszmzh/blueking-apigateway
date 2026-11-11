@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_e65c467b35ebbd::t_d95fbd218bf38b 76,82,94,106,116,136-137,157,183,197
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_e65c467b35ebbd::t_1214a778ca53b5 71-72,74,110-111
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_e65c467b35ebbd::t_2ee70b9e4d77ac 69,124,134
+src/dashboard/apigateway/apigateway/apps/skill/management/commands/sync_platform_skills.py
+  s_e65c467b35ebbd::t_44178d18600dc0 86
+src/dashboard/apigateway/apigateway/biz/skill/constants.py
+  s_e65c467b35ebbd::t_d86e92a29f7b5b 44-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f8fd3efb8217ef4130d9fd72659086a9d6cd365b",
+  "prompts": {},
+  "sessions": {
+    "s_e65c467b35ebbd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ed1d9c46-aa6d-489e-8fc2-e8f121f0c968",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+docs/ddd-ubiquitous-language.md
+  s_b8df00a9d9ac02::t_54a3a5e780164c 201
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_b8df00a9d9ac02::t_a0a0ac22474bd1 25-26
+  s_b8df00a9d9ac02::t_82991b6f284582 28
+src/dashboard/apigateway/apigateway/biz/skill/resource_definition.py
+  s_b8df00a9d9ac02::t_46f71b6ef67626 25
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_b8df00a9d9ac02::t_bd2f2e52be94e2 23-24
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_schema_converter.py
+  s_b8df00a9d9ac02::t_0bcc3874b90bf2 20
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_declaration.py
+  s_b8df00a9d9ac02::t_6b3be38726d9e8 120-124
+  s_b8df00a9d9ac02::t_b40c2e806f7703 23
+  s_b8df00a9d9ac02::t_c42332803efc58 80,82,84,88
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_b8df00a9d9ac02::t_0428765277ec2b 292
+  s_b8df00a9d9ac02::t_6b7efa148cd771 309
+  s_b8df00a9d9ac02::t_0f32508fb71186 299
+  s_b8df00a9d9ac02::t_4085e8a8a7babb 338
+  s_b8df00a9d9ac02::t_19b2dbe0f1a9b6 221
+src/dashboard/apigateway/apigateway/tests/biz/skill/static_provider.py
+  s_b8df00a9d9ac02::t_73e1826af9e9fd 18,20,22,25-27,29-32,34-35,38-63
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_patch_snapshot.py
+  s_b8df00a9d9ac02::t_34b4caedfe1d55 21-22
+src/dashboard/apigateway/apigateway/biz/skill/__init__.py
+  s_b8df00a9d9ac02::t_56ae4aa207f47f 19-20
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_b8df00a9d9ac02::t_e5260d154c9f1e 28-29
+  s_b8df00a9d9ac02::t_fd471d9b8d39b8 20-21,23
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_b8df00a9d9ac02::t_61523bdaee30a8 29-30
+  s_b8df00a9d9ac02::t_bca6be01293660 45
+src/dashboard/apigateway/apigateway/tests/biz/skill/conftest.py
+  s_b8df00a9d9ac02::t_02f504b8df3774 28
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_b8df00a9d9ac02::t_bfe3dc5943b778 24
+  s_b8df00a9d9ac02::t_b9a1db661d0d8f 61
+  s_b8df00a9d9ac02::t_e81a6ef14effba 30
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_b8df00a9d9ac02::t_80f4a47dfcc9fc 21-22
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_writer.py
+  s_b8df00a9d9ac02::t_558ecedd9b81c5 25-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4008abcab787bd98142315df4f2c6664c32c14e1",
+  "prompts": {},
+  "sessions": {
+    "s_b8df00a9d9ac02": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5d8a251e-e0b0-47c3-974a-602ee759eba6",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

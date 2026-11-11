@@ -1,0 +1,230 @@
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_018f81c50ff314::t_faf33148682a52 24
+  s_018f81c50ff314::t_e63b0de75f5fbe 29-31
+  s_018f81c50ff314::t_f6e7d29aa828d7 1-23,25-28,32-169
+src/dashboard/apigateway/apigateway/apps/skill/management/commands/sync_platform_skills.py
+  s_018f81c50ff314::t_f74b5f5674e07a 1-32,34-95
+  s_00b5cfb665e58f::t_8cac9c337eb3bb 33
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_00b5cfb665e58f::t_fb9bbf618e0f59 20
+  s_018f81c50ff314::t_e63b0de75f5fbe 44-46
+  s_018f81c50ff314::t_faf33148682a52 28,256
+  s_018f81c50ff314::t_eb82f23126aad7 341-345
+  s_018f81c50ff314::t_459ffcdc2e4385 376,378-382
+  s_018f81c50ff314::t_e48c5784e9845d 1-19,21-27,29-43,47-255,257-340,346-375,377,383-409
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_018f81c50ff314::t_85e5d8ba06a523 112-115
+  s_018f81c50ff314::t_2970a34a90e6fe 1-111,116-292,294-299,301-310,312-317,319-338,340-360,362-384,386-392
+  s_018f81c50ff314::t_132f0231676e53 385
+  s_018f81c50ff314::t_218ca4dea0ab66 361
+  s_018f81c50ff314::t_dd61fdb8762f0b 293,300,311,318,339
+src/dashboard/bin/post_migrate
+  s_00b5cfb665e58f::t_867b2af08f31c5 62
+  s_018f81c50ff314::t_bf9ec660763bc6 63-64
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_frontmatter.py
+  s_018f81c50ff314::t_2e976b590cf90f 127,134
+  s_00b5cfb665e58f::t_f16626cc376a66 43-44
+  s_00b5cfb665e58f::t_9fd164fdf1e91e 159-167
+  s_018f81c50ff314::t_5e1cf14e34f17c 1-42,45-78,86-87,106-126,135-142,149-158,168,173-186,189-195
+  s_00b5cfb665e58f::t_f5a053f03739c3 79-85,88-105
+  s_018f81c50ff314::t_ab7f6ebeecc00d 169-172
+  s_00b5cfb665e58f::t_b0ec298d25dc85 143-148
+  s_00b5cfb665e58f::t_9c40aa91ff3541 187-188
+  s_00b5cfb665e58f::t_b3d86156873980 128-133
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_018f81c50ff314::t_df398d2bcfd7e6 128
+  s_018f81c50ff314::t_f6ff7f3cde8ccb 1-18,20-21,23-127,129-144
+  s_018f81c50ff314::t_a58c639de8e139 19,22
+src/dashboard/apigateway/apigateway/biz/skill/frontmatter.py
+  s_018f81c50ff314::t_95358dc62cd8df 1-19,22-74,77-94,97-108,111-112,117-136,138-150,153-171,190,196-216,218
+  s_00b5cfb665e58f::t_2d42205d662d75 137
+  s_018f81c50ff314::t_13cfe3984cee5e 151-152
+  s_00b5cfb665e58f::t_a59e13a4c86e78 75-76
+  s_00b5cfb665e58f::t_c076ad95b27ccd 20-21
+  s_00b5cfb665e58f::t_4b21df213c7386 95-96
+  s_018f81c50ff314::t_36059ea5a1eaff 191-195
+  s_018f81c50ff314::t_aca7432d989f5d 217,219-224
+  s_00b5cfb665e58f::t_180e64918ee806 109-110,113-116
+  s_00b5cfb665e58f::t_bdf86b99654193 172-189
+src/dashboard/apigateway/apigateway/tests/biz/skill/conftest.py
+  s_018f81c50ff314::t_06091c31419e5d 20,24,26,28,38-48,50-99,104-114
+  s_018f81c50ff314::t_c1a341c7a4cb09 100-103,115-119
+  s_018f81c50ff314::t_fa170464a8bf53 1-19,21-23,25,27,29-37,120-133,135
+  s_00b5cfb665e58f::t_8b82b91b528f31 134
+  s_018f81c50ff314::t_d345b3e3554a9c 49
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_00b5cfb665e58f::t_19cf20dbab7524 55,59-60,62-68,72,79,82-83
+  s_018f81c50ff314::t_5d17c75a8360cd 1-54,56-58,61,69-71,73-78,80-81
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_018f81c50ff314::t_c791cd8a76ae58 1-22,29-32,34-37,40-64,67-69,71,73-74,76-78,81-82,84,87-88,90-92,94-97,100-101,103,105,108-109,111-116,118,121,132-136,138-140,143-145,147-149,153
+  s_00b5cfb665e58f::t_643befa786772d 70,72,75,83,89,117,120,137,146
+  s_00b5cfb665e58f::t_546e1d946a02bd 119
+  s_00b5cfb665e58f::t_3cd915be4ce329 33,38-39
+  s_00b5cfb665e58f::t_c72110f00a4c3e 65-66,79-80,85-86,102,104,106-107,110,122-124,141-142,150-152
+  s_018f81c50ff314::t_f2ff88ed7149c8 23-28
+  s_018f81c50ff314::t_2e976b590cf90f 154
+  s_00b5cfb665e58f::t_ffb630171fc4d6 93,98-99
+  s_018f81c50ff314::t_52910e7dc146db 125-131
+src/dashboard/apigateway/apigateway/biz/skill/package.py
+  s_018f81c50ff314::t_1b03cb3fd7db1d 1-38
+docs/ddd-ubiquitous-language.md
+  s_00b5cfb665e58f::t_271118b57d0d0f 193-195
+  s_018f81c50ff314::t_df2b385e896ff2 202
+  s_00b5cfb665e58f::t_f937bc5fb38bc6 201
+  s_018f81c50ff314::t_e1410acefc9872 210
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_package.py
+  s_00b5cfb665e58f::t_7ccdeb008a7d41 40
+  s_018f81c50ff314::t_a154ef30e83c39 1-39,41-50
+src/dashboard/pyproject.toml
+  s_018f81c50ff314::t_a9d470340dfd9f 325
+  s_018f81c50ff314::t_09a648e13bd5a9 491
+  s_018f81c50ff314::t_44161456d97447 420-421
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_declaration.py
+  s_018f81c50ff314::t_8a2f49fe269c42 180-181
+  s_00b5cfb665e58f::t_a8000c2f565b09 59,61-63,68-71
+  s_00b5cfb665e58f::t_378381ce3894f6 128,133
+  s_018f81c50ff314::t_8f39c8a36546ef 1-42,46-50,55,58,60,64,67,72-89,92,94-97,100,102,105,107-108,111,113-115,118-119,121,124,126,129,131,134,136-146,149,151-167,170,172,176-178,182,185,187,190,192
+  s_00b5cfb665e58f::t_54855bb7279def 169,174-175
+  s_018f81c50ff314::t_5b659d4bd943f8 51-54
+  s_00b5cfb665e58f::t_3fc09a338937f0 104,106
+  s_00b5cfb665e58f::t_5e31d092f111f0 43-45,56-57,65-66,90-91,93,98-99,101,103,109-110,112,116-117,120,122-123,125,127,130,132,135,168,171,173,179,183-184,186,188-189,191
+  s_018f81c50ff314::t_51cc503078a5c5 147-148,150
+  s_018f81c50ff314::t_26f7e78993b3e8 193
+src/dashboard/apigateway/apigateway/data/skill/declarations/sops-task-list-and-status.yaml
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 1-120
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_patch_snapshot.py
+  s_00b5cfb665e58f::t_8b08d975cf4980 22-88
+  s_00b5cfb665e58f::t_c023f458b4d53b 19-21
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_018f81c50ff314::t_faf33148682a52 21,32-33,62-64
+  s_018f81c50ff314::t_e63b0de75f5fbe 29-31
+  s_018f81c50ff314::t_26ce29f336e4e0 1-20,22-28,34-61,65-127
+src/dashboard/apigateway/apigateway/apps/skill/management/commands/__init__.py
+  s_018f81c50ff314::t_19eaf209937760 1-17
+src/dashboard/apigateway/apigateway/apps/skill/management/__init__.py
+  s_018f81c50ff314::t_19eaf209937760 1-17
+src/dashboard/apigateway/apigateway/biz/skill/constants.py
+  s_00b5cfb665e58f::t_74db5b224f707e 39
+  s_00b5cfb665e58f::t_2026005d7bda2a 45
+  s_018f81c50ff314::t_5b3f73a22e6543 1-38,40-44,46-69
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_schema_converter.py
+  s_018f81c50ff314::t_a12f60bb709c95 1-109
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_00b5cfb665e58f::t_c9e719077291a6 49
+  s_00b5cfb665e58f::t_b2f8cbbaed1415 31
+  s_018f81c50ff314::t_faf33148682a52 25
+  s_018f81c50ff314::t_eb684771ffcb8b 1-24,26-30,32-33,37-48,50-125
+  s_018f81c50ff314::t_e63b0de75f5fbe 34-36
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_writer.py
+  s_00b5cfb665e58f::t_61f05925880403 96-98,100,105-107
+  s_00b5cfb665e58f::t_8bff1faaf6b7e5 120-123,127
+  s_00b5cfb665e58f::t_ab45bec8065148 18-19
+  s_018f81c50ff314::t_3fbe93d5166088 1-17,20-95,124-126,128-129
+  s_018f81c50ff314::t_7d54dcae8f405b 102-104
+  s_018f81c50ff314::t_b6b78457660c2c 99,101,108-119
+src/dashboard/apigateway/apigateway/data/skill/declarations/sops-create-and-start.yaml
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 1-125
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_00b5cfb665e58f::t_d7c2d112c8100a 112-115
+  s_00b5cfb665e58f::t_9d9b1006a104e6 51,56
+  s_00b5cfb665e58f::t_f643c261631263 49,54,61,64,66-67,71,74,78,81,87-88,91,127-128,130
+  s_00b5cfb665e58f::t_cfccbb2bd88c2b 62
+  s_018f81c50ff314::t_f3c08169085761 1-29,31-35,40-48,50,52-53,55,57-60,63,65,68-70,73,76-77,80,82,86,90,92,94-98,101-102,105-106,109-110,116-118,120-121,124-126,129,131-140
+  s_00b5cfb665e58f::t_dec8a0edfd6186 30,36-39
+  s_018f81c50ff314::t_2e976b590cf90f 83,85
+  s_00b5cfb665e58f::t_77a01b44b25e39 72,75,79,84,89,93,99-100,103-104,107-108,111,119,122-123
+src/dashboard/apigateway/apigateway/biz/skill/__init__.py
+  s_018f81c50ff314::t_604e71bead3fff 18-37,39-98
+  s_018f81c50ff314::t_69ac542e94578d 1
+  s_00b5cfb665e58f::t_300ed4c056c1a1 38
+  s_018f81c50ff314::t_beaaeec2ee7837 2-17
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.frontmatter.md
+  s_00b5cfb665e58f::t_24fd61d7ca7bca 4-5
+  s_018f81c50ff314::t_2190a177824a4b 1-3,6-12
+src/dashboard/apigateway/apigateway/tests/biz/skill/__init__.py
+  s_018f81c50ff314::t_beaaeec2ee7837 1-17
+src/dashboard/apigateway/apigateway/biz/skill/patch_snapshot.py
+  s_00b5cfb665e58f::t_9d4930abdb558c 94
+  s_00b5cfb665e58f::t_b19990ce032068 91-93
+  s_00b5cfb665e58f::t_b9cdf3e98cea85 95-97
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_018f81c50ff314::t_46478c2e4ae22f 1-275
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_018f81c50ff314::t_faf33148682a52 23
+  s_018f81c50ff314::t_e63b0de75f5fbe 36-38
+  s_018f81c50ff314::t_1d10f2f6e5e511 1-17,19-22,24-35,39-136
+  s_00b5cfb665e58f::t_b702ef6a7a0733 18
+src/dashboard/apigateway/apigateway/data/skill/declarations/pipeline-build-artifact-url.yaml
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 1-147
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/resources.json
+  s_018f81c50ff314::t_46478c2e4ae22f 1-3,5,10,12,14-16,19-20,23-24,27-28,31-32,39-40,43,52,60-61,64,68-70,76,78,80-82,93,95-96,100-103,105,107,110-111,113-116,119-120,123-124,126-128,131-132,134-136,139-140,142-143,147-148,150,152,158,162-163,167-168,172-173,175,177-178,180,182-183,185,187-188,190,192-193,195,197-198,202-203,207-208,210,212-213,217-218,220,222-223,225,227-228,230,232-233,237-240,242,247-248,250-253,256-257,260-261,264-265,268-269,281,284-285,288,292-293,297,303-304,311-313,319,321,323-326,328-329,333-334,336,338-339,341,343-344,346,348-349,351,353-354,356,358-359,361,363-364,366,368-369,373-374,376,378-382
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 4,6-9,11,13,17-18,21-22,25-26,29-30,33-38,41-42,44-51,53-59,62-63,65-67,71-75,77,79,83-92,94,97-99,104,106,108-109,112,117-118,121-122,125,129-130,133,137-138,141,144-146,149,151,153-157,159-161,164-166,169-171,174,176,179,181,184,186,189,191,194,196,199-201,204-206,209,211,214-216,219,221,224,226,229,231,234-236,241,243-246,249,254-255,258-259,262-263,266-267,270-280,282-283,286-287,289-291,294-296,298-302,305-310,314-318,320,322,327,330-332,335,337,340,342,345,347,350,352,355,357,360,362,365,367,370-372,375,377
+src/dashboard/apigateway/apigateway/biz/skill/refs.py
+  s_018f81c50ff314::t_995367d7fbebca 58-59
+  s_018f81c50ff314::t_478308b209455a 1-57,60-96,98-112
+  s_018f81c50ff314::t_2ed46500aebe5c 97
+src/dashboard/apigateway/apigateway/data/skill/declarations/pipeline-app-build-detail.yaml
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 1-122
+src/dashboard/apigateway/apigateway/data/skill/declarations/job-plan-run-and-log.yaml
+  s_00b5cfb665e58f::t_31ed1d24e7e4a5 1-138
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_018f81c50ff314::t_5f81943104e7f0 1-8,10-17,19-20,22-27,29-30,34-54
+  s_00b5cfb665e58f::t_a205daac6b58c1 55-61
+  s_018f81c50ff314::t_27962ed0d31d3f 62
+  s_00b5cfb665e58f::t_f590ff9b774b62 9
+  s_00b5cfb665e58f::t_b61a6f979466b5 31
+  s_00b5cfb665e58f::t_867fadbe2d509c 18
+  s_00b5cfb665e58f::t_f9802648b75aaf 21
+  s_00b5cfb665e58f::t_06d67705ebeaed 28
+  s_018f81c50ff314::t_44911e4f94e11c 32-33
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_00b5cfb665e58f::t_1a4af451831fe0 18-24
+  s_00b5cfb665e58f::t_6d2f07664d50cd 49-64
+  s_00b5cfb665e58f::t_1ef7f05184a3af 73-76
+  s_00b5cfb665e58f::t_d68d42711ee9e6 93-94,100-116
+  s_00b5cfb665e58f::t_a66d70cafd037f 86-91
+  s_00b5cfb665e58f::t_d233c0dd242111 15-17
+  s_00b5cfb665e58f::t_5dee1fcc560b29 25-27,46-48
+  s_00b5cfb665e58f::t_c9245cfd1402b3 65-67,70-72
+  s_00b5cfb665e58f::t_b7353d33057d30 77-79,83-85
+  s_00b5cfb665e58f::t_52d2420b813180 92
+  s_00b5cfb665e58f::t_6c8c6166ba6fd6 95-99
+src/dashboard/apigateway/apigateway/data/AGENTS.md
+  s_00b5cfb665e58f::t_21bdebc9a376c9 6
+  s_018f81c50ff314::t_91f745a505785a 7
+src/dashboard/apigateway/apigateway/biz/skill/resource_definition.py
+  s_018f81c50ff314::t_30f30975e54218 1-141
+src/dashboard/apigateway/apigateway/biz/skill/schema_converter.py
+  s_00b5cfb665e58f::t_be7a06283365d4 18
+  s_018f81c50ff314::t_38d0853a60ce38 90-91
+  s_018f81c50ff314::t_f023c626731149 1-17,19-89,92,96-99
+  s_018f81c50ff314::t_faf33148682a52 93-95
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/declarations/job-plan-run-and-log.yaml
+  s_018f81c50ff314::t_46478c2e4ae22f 1-138
+src/dashboard/apigateway/apigateway/data/skill/resources/example.yaml
+  s_00b5cfb665e58f::t_0b64a9aa4577db 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3e71a27dcf6d7b40839e1f5466a93a6a3c7cabeb",
+  "prompts": {},
+  "sessions": {
+    "s_00b5cfb665e58f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a8b80e9b-5eb2-422c-8395-44051edeebad",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_018f81c50ff314": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0bb487b0-96be-4054-857a-496cf9659f73",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

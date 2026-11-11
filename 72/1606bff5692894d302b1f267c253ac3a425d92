@@ -1,0 +1,27 @@
+src/dashboard/apigateway/apigateway/biz/skill/constants.py
+  s_61cb76938983cf::t_14b93b596a625a 22
+  s_61cb76938983cf::t_8eab2b051fdce9 36
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_61cb76938983cf::t_657398aaeaf235 251-256,264-266
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_61cb76938983cf::t_4fa861a2051013 808-812
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_declaration.py
+  s_61cb76938983cf::t_3e9255c8951da7 136-144
+  s_61cb76938983cf::t_4c9a41b519534f 92-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "721606bff5692894d302b1f267c253ac3a425d92",
+  "prompts": {},
+  "sessions": {
+    "s_61cb76938983cf": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "afb0e391-271f-449f-b44c-b72218d2a777",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

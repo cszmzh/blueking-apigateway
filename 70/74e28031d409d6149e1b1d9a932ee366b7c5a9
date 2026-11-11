@@ -1,0 +1,58 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_shipped_declarations.py
+  s_6861970ec50681::t_2f04e79918ab5b 25,33-34,37
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_6861970ec50681::t_86c9ce9906b3c7 33-35,39,50-51,59,62,72,74,76,80,85,88,92,100,104,110,114,117,119,122,133,143,154,162,165,170,174-176,178,181,187-189,195,197,199
+  s_6861970ec50681::t_04e1896fd0e478 118
+  s_6861970ec50681::t_30bc59912f375d 200
+  s_6861970ec50681::t_fc50f3cd33cef9 25,68-70
+src/dashboard/apigateway/apigateway/biz/skill/__init__.py
+  s_6861970ec50681::t_a43b8ac585c7e2 19
+src/dashboard/apigateway/apigateway/biz/skill/resource_definition.py
+  s_6861970ec50681::t_902995ac1bad73 59,61
+docs/ddd-ubiquitous-language.md
+  s_6861970ec50681::t_7cdebd25f561dc 194
+  s_6861970ec50681::t_1b6a1b42298fc8 196
+  s_6861970ec50681::t_c0e46fad92bb78 202
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_6861970ec50681::t_c885abcc72f10b 61
+  s_6861970ec50681::t_cd023507ca2307 63,67-68,78,115
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_6861970ec50681::t_5c7d9b50b4710d 41-45
+  s_6861970ec50681::t_c09dc734890462 18,38-40,48-52,88-89
+src/dashboard/apigateway/apigateway/data/AGENTS.md
+  s_6861970ec50681::t_208282be5bf439 6-7
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_6861970ec50681::t_2bd7681ef55a54 79-81
+  s_6861970ec50681::t_decfd0872545a8 20,26,46,75
+  s_6861970ec50681::t_d8966be66ac3a5 21-22
+  s_6861970ec50681::t_d988684beddd8c 31
+  s_6861970ec50681::t_6bac02db2f5a66 72-74,76-78,82-83
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_6861970ec50681::t_ec5041ce62aa2f 64,68
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_6861970ec50681::t_a88d12201067c5 64,113-114,116-117,120
+  s_6861970ec50681::t_794b0b14ba2434 115
+src/dashboard/apigateway/apigateway/tests/biz/skill/conftest.py
+  s_6861970ec50681::t_62d3ce367c87f0 109,111,113,123
+  s_6861970ec50681::t_5f72e5582db43f 96-108,110,112,114-117,119-122,127-140,142-183
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_6861970ec50681::t_8b096756cbf7a1 77-90,95-97,99,101-103
+  s_6861970ec50681::t_0acd974d07a2c6 120
+  s_6861970ec50681::t_0732f288dd01c8 25,70,75,91,93,112,124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7074e28031d409d6149e1b1d9a932ee366b7c5a9",
+  "prompts": {},
+  "sessions": {
+    "s_6861970ec50681": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "62a985e1-5a7c-4af2-bed5-daaf9628727a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

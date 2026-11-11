@@ -1,0 +1,31 @@
+src/dashboard/apigateway/apigateway/apps/rbac/management/commands/remove_excluded_gateway_members.py
+  s_5b6b956a7e8bff::t_40b8895d56dbfa 23,27,33,42-46
+src/dashboard/apigateway/apigateway/biz/gateway/members.py
+  s_5b6b956a7e8bff::t_66f993dd076089 83-85,90,99-101,106
+  s_5b6b956a7e8bff::t_27146c8a0987ce 95,202
+  s_5b6b956a7e8bff::t_e4569eda59ee51 82,153,175
+src/dashboard/apigateway/apigateway/tests/apps/rbac/test_commands.py
+  s_5b6b956a7e8bff::t_8ba9aa66de5c1f 679,682,696,698,703,712-713
+src/dashboard/apigateway/apigateway/tests/apis/web/gateway/test_views.py
+  s_5b6b956a7e8bff::t_464382777e302e 421
+src/dashboard/apigateway/apigateway/controller/transformer.py
+  s_5b6b956a7e8bff::t_97d0f60584e66f 18-19
+src/dashboard/apigateway/apigateway/biz/resource_doc/importer/importers.py
+  s_5b6b956a7e8bff::t_2503c9142c30fa 18-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "007db11a865bdca3c128da4848bd733574fd200b",
+  "prompts": {},
+  "sessions": {
+    "s_5b6b956a7e8bff": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "52a4eeab-0708-4355-a4f3-90948608b6e7",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

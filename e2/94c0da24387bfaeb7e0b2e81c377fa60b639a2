@@ -1,0 +1,52 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_schema_converter.py
+  s_038ff3b90fe0e9::t_da4660cd1af9b9 178
+  s_038ff3b90fe0e9::t_53a972a0637610 81-99,104,108-118,123-129,133-139
+  s_038ff3b90fe0e9::t_000b7b5bab842e 100-103,119-122,130-132
+  s_038ff3b90fe0e9::t_d4ad1cf9427074 160
+  s_038ff3b90fe0e9::t_6e569a0e62957b 140-141
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_038ff3b90fe0e9::t_000b7b5bab842e 121-123
+  s_038ff3b90fe0e9::t_96acdb847783a4 115-120,124-132
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_038ff3b90fe0e9::t_544e70cd306e64 287,292
+  s_038ff3b90fe0e9::t_d0e707e9049b41 407-408
+  s_038ff3b90fe0e9::t_30cfd985865d7c 421
+  s_038ff3b90fe0e9::t_ff7f13dc577de6 427
+  s_038ff3b90fe0e9::t_df171d25d23e25 283,285-286,288-291,293-295
+  s_038ff3b90fe0e9::t_1da4ef46a2bc76 284
+  s_038ff3b90fe0e9::t_60271e3127aa62 422-424
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_038ff3b90fe0e9::t_68d4742c13a23b 146-148
+  s_038ff3b90fe0e9::t_6eecc78acec499 49-51
+src/dashboard/apigateway/apigateway/tests/biz/skill/static_provider.py
+  s_038ff3b90fe0e9::t_ce050d800a88bb 20
+  s_038ff3b90fe0e9::t_65208351afc4ed 87
+  s_038ff3b90fe0e9::t_000b7b5bab842e 92-94
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_038ff3b90fe0e9::t_4c7de5eb70c2a7 95-114
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/resources.json
+  s_038ff3b90fe0e9::t_c08fbb65cbc793 51-112
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_038ff3b90fe0e9::t_6b8d629de439d2 77-79
+src/dashboard/apigateway/apigateway/biz/skill/schema_converter.py
+  s_038ff3b90fe0e9::t_10d9de57f57b51 62
+  s_038ff3b90fe0e9::t_db11faaaae4783 61
+  s_038ff3b90fe0e9::t_a2748488d0c469 24,37
+  s_038ff3b90fe0e9::t_b5aa1d6c15d49f 78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e294c0da24387bfaeb7e0b2e81c377fa60b639a2",
+  "prompts": {},
+  "sessions": {
+    "s_038ff3b90fe0e9": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d9169ccd-7fef-4c8d-bc78-647a23437fde",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

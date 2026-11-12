@@ -1,0 +1,36 @@
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_d051f3f6ded7bb::t_196f63460b0637 25
+  s_d051f3f6ded7bb::t_6b29cd8d418829 74,76,79-81,84,86-90
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_d051f3f6ded7bb::t_d376d9a42ca347 45-60,75
+  s_d051f3f6ded7bb::t_e9531232628be7 296,299,305
+  s_d051f3f6ded7bb::t_fb4e240060ffda 276-295,297-298,300-304,306-311
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_d051f3f6ded7bb::t_57152ffbf836c8 60-62
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_d051f3f6ded7bb::t_fe00968cced720 366
+  s_d051f3f6ded7bb::t_02d8c932885f9d 109
+  s_d051f3f6ded7bb::t_b78b45342f1a2c 110
+  s_d051f3f6ded7bb::t_e5fbcb6bfd85c1 182
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_d051f3f6ded7bb::t_f34e5b1df43061 301-310
+  s_d051f3f6ded7bb::t_02c46750a9ba52 292-300,311-325
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_d051f3f6ded7bb::t_e717424f23e8dc 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3934719ea8ef0bff779220d5d726f98b6eb1da2b",
+  "prompts": {},
+  "sessions": {
+    "s_d051f3f6ded7bb": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "016f1e53-2eff-46fa-beab-1a9adc169e3d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

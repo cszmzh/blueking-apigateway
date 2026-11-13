@@ -1,0 +1,121 @@
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_7e0c4331d19a43::t_8ecdeb1c6022d3 187-191
+  s_7e0c4331d19a43::t_b68118c12c72b2 52-56
+  s_7e0c4331d19a43::t_5f49acecc0509c 93-97
+  s_7e0c4331d19a43::t_e7bc9f3dd78e7a 167-170,175-178
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_7e0c4331d19a43::t_5ac7b103aac55c 34-47
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_7e0c4331d19a43::t_0db6c060b317d0 411-416
+  s_7e0c4331d19a43::t_7e002a267846a1 284-287
+  s_7e0c4331d19a43::t_61a209fb9e9a9b 386-390
+  s_7e0c4331d19a43::t_83afce9ce69b9c 341-346
+  s_7e0c4331d19a43::t_728b3d67491747 359-366
+  s_7e0c4331d19a43::t_46a1047660ebcd 221-225
+  s_7e0c4331d19a43::t_94805e48d15f67 463
+  s_7e0c4331d19a43::t_8459e3c3bd96ef 122-129
+  s_7e0c4331d19a43::t_0642953334e65f 200-204
+  s_7e0c4331d19a43::t_f427c2c5bc443a 106-113
+  s_7e0c4331d19a43::t_c3bb1d71d41041 160
+  s_7e0c4331d19a43::t_89a4337eb1cbf3 88
+  s_7e0c4331d19a43::t_fb7e2eab14ea25 64-68
+  s_7e0c4331d19a43::t_2ec2040b2395e0 135-138,143-146
+  s_7e0c4331d19a43::t_0805fbfbcf6f8c 305-308,312
+  s_7e0c4331d19a43::t_358f09612c4533 246-250
+  s_7e0c4331d19a43::t_870bc2186c9a09 471-475
+  s_7e0c4331d19a43::t_551b145b593d1c 484-487
+  s_7e0c4331d19a43::t_f220a099a6bf26 502-506,509-512
+  s_7e0c4331d19a43::t_08c0453b814af3 325-331
+  s_7e0c4331d19a43::t_cfdeea02333c69 433-438
+  s_7e0c4331d19a43::t_c66398e843bd16 550-555
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_7e0c4331d19a43::t_3acb769ee6b29f 60-64
+  s_7e0c4331d19a43::t_b32db09b33e114 79-84
+  s_7e0c4331d19a43::t_eb6a5aa6c76b3f 128-134
+  s_7e0c4331d19a43::t_4a024d8a01355c 204-207
+  s_7e0c4331d19a43::t_e4c30a0b7bba91 221-224
+  s_7e0c4331d19a43::t_bfdbd6c5f9d51d 235-242
+  s_7e0c4331d19a43::t_8468fc5e5a984c 154-160
+  s_7e0c4331d19a43::t_f24a4ad15d55a3 268-273
+  s_7e0c4331d19a43::t_0988e41b6f3e9a 113
+src/dashboard/apigateway/apigateway/biz/skill/schema_converter.py
+  s_7e0c4331d19a43::t_3a83680a30c15c 101
+  s_7e0c4331d19a43::t_80ddf61d7190c8 158-162
+  s_7e0c4331d19a43::t_03ce9466d028fb 59-67
+  s_7e0c4331d19a43::t_0c1a05c8f0f53a 146-149
+  s_7e0c4331d19a43::t_d8cb8552b01dbc 115-123
+  s_7e0c4331d19a43::t_37b79a58891a4c 48-53
+  s_7e0c4331d19a43::t_ffc87772b9cbbd 136-140
+  s_7e0c4331d19a43::t_b0734177cf368c 98-100,102-103
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_7e0c4331d19a43::t_295c11c7da1733 122-132
+  s_7e0c4331d19a43::t_f7f17c14c2a6b5 220
+  s_7e0c4331d19a43::t_716baba339817a 112-115
+  s_7e0c4331d19a43::t_cfdfe30fc547a9 78-84
+  s_7e0c4331d19a43::t_2882e968a8b70f 94-100
+  s_7e0c4331d19a43::t_71b5df318a008a 204-208
+  s_7e0c4331d19a43::t_83dafb5ce09431 227-231
+  s_7e0c4331d19a43::t_35924d5b3811b4 70,74
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_7e0c4331d19a43::t_2c949ab0ad6373 61-63
+  s_7e0c4331d19a43::t_7d59ad0e10b926 98-102
+  s_7e0c4331d19a43::t_a21627364630f7 79-82
+  s_7e0c4331d19a43::t_d57bde6a649fa9 116-122
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_7e0c4331d19a43::t_992f043cadd17d 173-179
+  s_7e0c4331d19a43::t_e6533c4c9f0587 209-212
+  s_7e0c4331d19a43::t_68d9aa9707870f 447,451-457
+  s_7e0c4331d19a43::t_5c7ad009367039 100-107
+  s_7e0c4331d19a43::t_48992317ce4938 404-407
+  s_7e0c4331d19a43::t_7e36f54af796be 496-499
+  s_7e0c4331d19a43::t_fe46d446ab14f3 485-488
+  s_7e0c4331d19a43::t_81fff4cb86145f 427-430
+  s_7e0c4331d19a43::t_6aefb9196491ee 163-166
+  s_7e0c4331d19a43::t_12866309086c11 536-539
+  s_7e0c4331d19a43::t_eae273f9b6c38e 116-123
+  s_7e0c4331d19a43::t_48d726d1a0afb7 525-528
+  s_7e0c4331d19a43::t_4351ea4d4dce64 140-143
+  s_7e0c4331d19a43::t_dc02fec12c58bf 558-561
+  s_7e0c4331d19a43::t_b9f13d2c80f355 345,350,355,360
+  s_7e0c4331d19a43::t_7a14779abc8e4c 581,586
+  s_7e0c4331d19a43::t_b87de9f99d3f1c 595-598
+  s_7e0c4331d19a43::t_45f381160f4c11 415-418
+  s_7e0c4331d19a43::t_1f3b1fd5f46ea5 335-338
+  s_7e0c4331d19a43::t_851e56e889b942 511-514
+  s_7e0c4331d19a43::t_8fae803534d197 314-317
+  s_7e0c4331d19a43::t_0f1b2f81a7f850 283-288
+  s_7e0c4331d19a43::t_262c25524b2c28 603-608
+  s_7e0c4331d19a43::t_5378195a8a5756 149-152
+  s_7e0c4331d19a43::t_5a128ca2b47a88 624-629
+  s_7e0c4331d19a43::t_d1abafe4fdc19b 273-276
+  s_7e0c4331d19a43::t_82c89b3eb5b58b 373-376
+  s_7e0c4331d19a43::t_f8b354b22e53e1 242-245
+  s_7e0c4331d19a43::t_5adf8117f68bb3 639-642
+  s_7e0c4331d19a43::t_da4720141d19bb 191-196
+  s_7e0c4331d19a43::t_3afbdaef2f85fb 254
+  s_7e0c4331d19a43::t_1177d04e5e0c5f 392-395
+  s_7e0c4331d19a43::t_a149ffa15a0977 131-135
+  s_7e0c4331d19a43::t_3bb09e629bb7cf 325-328
+src/dashboard/apigateway/apigateway/biz/skill/refs.py
+  s_7e0c4331d19a43::t_8eef4f1c4bbe79 94-98
+  s_7e0c4331d19a43::t_10978c36acb280 117-120
+  s_7e0c4331d19a43::t_80a31a546ddea6 84-87
+  s_7e0c4331d19a43::t_95beba70a5ed40 109-112
+  s_7e0c4331d19a43::t_eff9f1a0b6dac6 56-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "05ff3d4cb938791bf67c7c3c40bed466f712d4de",
+  "prompts": {},
+  "sessions": {
+    "s_7e0c4331d19a43": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d3b24e67-9ad8-4806-8e8b-6e7d9afabeef",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

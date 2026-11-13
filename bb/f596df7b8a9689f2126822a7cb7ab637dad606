@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/conf/default.py
+  s_271b15e0f4f914::t_6041de22c9bf26 593
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_271b15e0f4f914::t_44ed81236837bc 120-122
+src/dashboard/apigateway/apigateway/apps/skill/management/commands/sync_platform_skills.py
+  s_271b15e0f4f914::t_0cb2f4bb30b585 20,22,32-46
+  s_271b15e0f4f914::t_db131936ef897b 84
+  s_271b15e0f4f914::t_bfa3e290e5b4e4 47
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_271b15e0f4f914::t_8aebdbebc2b272 309
+  s_271b15e0f4f914::t_466ece1b76a32e 317
+  s_271b15e0f4f914::t_da6886af0da6f1 327
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_271b15e0f4f914::t_088e0a534e6a42 131-144,147-160
+  s_271b15e0f4f914::t_4a4e7513a05bc4 27-28,42
+  s_271b15e0f4f914::t_03284e4f494fda 145-146
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_271b15e0f4f914::t_be88e03b27b417 23
+  s_271b15e0f4f914::t_c31f0d2c088c58 90
+  s_271b15e0f4f914::t_254d76a23bd81e 56,58-61,67,70-75,78
+  s_271b15e0f4f914::t_fb4b5319c02a97 98-104
+  s_271b15e0f4f914::t_bfc9532ee9c825 116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bbf596df7b8a9689f2126822a7cb7ab637dad606",
+  "prompts": {},
+  "sessions": {
+    "s_271b15e0f4f914": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "9e6f5202-e48b-4a49-a8ac-5c9bfa6c1027",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

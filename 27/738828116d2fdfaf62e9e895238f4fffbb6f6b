@@ -1,0 +1,44 @@
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_1b24198d1d4631::t_dffb60799836d6 49
+  s_1b24198d1d4631::t_f5bb07c461c0c9 100-106
+  s_1b24198d1d4631::t_fbde1b7a45fd24 83-93
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_1b24198d1d4631::t_7a7b0f80aaeb92 122,220,292
+  s_1b24198d1d4631::t_f55a8524c22719 115-120,123-127,135-165
+  s_1b24198d1d4631::t_855d82392db654 212,218-219,221-231
+  s_1b24198d1d4631::t_30f8e2e8cd2a73 284-291,293-297
+  s_1b24198d1d4631::t_5cb333afe56571 166
+src/dashboard/apigateway/apigateway/apps/skill/models.py
+  s_1b24198d1d4631::t_8f19e04b028147 132,134-135,137
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_1b24198d1d4631::t_3f0d2d7c000834 75
+  s_1b24198d1d4631::t_21504f76f80556 151
+  s_1b24198d1d4631::t_44b532a96b1c41 107,109-122
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_1b24198d1d4631::t_f33292c901fb4f 69,79,81,85-87,95,99-106,121-138,151-153
+  s_1b24198d1d4631::t_6e52c31578b6f6 49-51
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_writer.py
+  s_1b24198d1d4631::t_5442e30ce750e6 24
+  s_1b24198d1d4631::t_79db2ef6941560 34,36-41
+  s_1b24198d1d4631::t_fec29b18f95ba9 110-152
+docs/ddd-ubiquitous-language.md
+  s_1b24198d1d4631::t_49d5f87718eddf 191
+  s_1b24198d1d4631::t_e70b778efd3e8c 196
+  s_1b24198d1d4631::t_db462a1d8835e7 193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "27738828116d2fdfaf62e9e895238f4fffbb6f6b",
+  "prompts": {},
+  "sessions": {
+    "s_1b24198d1d4631": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1fdc845c-2c22-4995-812b-9f7b0f6fa55c",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

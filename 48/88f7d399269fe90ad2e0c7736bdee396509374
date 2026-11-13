@@ -1,0 +1,40 @@
+src/dashboard/apigateway/apigateway/tests/biz/skill/fixtures/expected/job-plan-run-and-log.md
+  s_35f05a0b1f8695::t_555a244bacf23c 59
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_35f05a0b1f8695::t_2f976c736b8c46 139-146
+  s_35f05a0b1f8695::t_9dfc883696fb37 124-129
+  s_35f05a0b1f8695::t_4caa2a93591422 33
+src/dashboard/apigateway/apigateway/biz/skill/AGENTS.md
+  s_35f05a0b1f8695::t_c14cbe403a1c36 79-81
+  s_35f05a0b1f8695::t_d744f2b58e650e 4
+src/dashboard/apigateway/apigateway/data/skill/templates/SKILL.md.j2
+  s_35f05a0b1f8695::t_96e2da11cbb4f5 67
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_renderer.py
+  s_35f05a0b1f8695::t_949a0ae8cb4ae2 293-308
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_35f05a0b1f8695::t_52a4b6e42b8289 371
+  s_35f05a0b1f8695::t_4c3900b73fd2ea 440-441
+  s_35f05a0b1f8695::t_90751e57447f18 349-350,354
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_35f05a0b1f8695::t_8cf12cb2dc9e31 116-118
+  s_35f05a0b1f8695::t_ac176866968e9f 201-213,215
+  s_35f05a0b1f8695::t_a2e7540743846d 214
+src/dashboard/apigateway/apigateway/locale/en/LC_MESSAGES/django.po
+  s_35f05a0b1f8695::t_ce9b3e1676a768 3931-3944
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4888f7d399269fe90ad2e0c7736bdee396509374",
+  "prompts": {},
+  "sessions": {
+    "s_35f05a0b1f8695": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7946bb6d-19ee-43f6-b5e0-5acd1d313b97",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

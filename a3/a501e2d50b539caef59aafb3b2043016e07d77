@@ -1,0 +1,107 @@
+src/dashboard/apigateway/apigateway/biz/skill/validator.py
+  s_8f0e1c561369ee::t_9f73f9054d1f1f 29-30,32,47,59-60,62,64-66,68-71,75,77-79
+  s_8f0e1c561369ee::t_bb945766c42aac 174-176
+  s_8f0e1c561369ee::t_97cbfd6ba89ca8 120,123-125,130-134
+  s_8f0e1c561369ee::t_0e32dba9e14289 187-190
+  s_8f0e1c561369ee::t_9d82b07c7d389b 166
+  s_8f0e1c561369ee::t_e664125ea4b221 144-146
+  s_8f0e1c561369ee::t_eec1eec5491fb1 167,199-201
+  s_8f0e1c561369ee::t_60c67b0d1e97de 147-148,155,168,177-178,191-192,202-203,218
+src/dashboard/apigateway/apigateway/tests/apps/skill/management/commands/test_sync_platform_skills.py
+  s_c70d037c98dcdd::t_bda1383230b04f 106-107
+src/dashboard/apigateway/apigateway/biz/skill/syncer.py
+  s_8f0e1c561369ee::t_8ca132277a9eeb 26
+  s_8f0e1c561369ee::t_9653a38f2ceba3 75-76
+  s_8f0e1c561369ee::t_62eb63ebd3f7f3 98-100,111,122-123,137
+  s_8f0e1c561369ee::t_9397f5bb691ae3 73-74,77
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_syncer.py
+  s_8f0e1c561369ee::t_ac3c08dc636607 32
+  s_8f0e1c561369ee::t_890d6902e50f3c 18-19
+  s_8f0e1c561369ee::t_563c4fb3f64351 173
+  s_8f0e1c561369ee::t_35a7f06870c71e 168
+  s_8f0e1c561369ee::t_eb6b27533a50af 156-157,160-167,169-172,174-179
+  s_8f0e1c561369ee::t_0133eed2453c5e 285-286
+  s_8f0e1c561369ee::t_799cb5a195bc1d 95-98
+  s_8f0e1c561369ee::t_a2fe5caf5fa363 154,283-284
+src/dashboard/apigateway/apigateway/locale/en/LC_MESSAGES/django.po
+  s_8f0e1c561369ee::t_77b546cf335cc2 3597-4050
+src/dashboard/apigateway/apigateway/biz/skill/refs.py
+  s_8f0e1c561369ee::t_8c1f5a7637890e 68-70,72
+  s_8f0e1c561369ee::t_f4e1b48a32427d 60
+  s_8f0e1c561369ee::t_558911d01a5c3f 33-34
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_declaration.py
+  s_8f0e1c561369ee::t_dae93951130d48 433-441
+  s_8f0e1c561369ee::t_6da34abcda96a6 23
+src/dashboard/apigateway/apigateway/apps/skill/migrations/0001_initial.py
+  s_c70d037c98dcdd::t_df5fd449b7c3d0 79
+src/dashboard/apigateway/apigateway/data/skill/declarations/devops-pipeline-app-build-detail.yaml
+  s_c70d037c98dcdd::t_61504f26698c56 1
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_validator.py
+  s_8f0e1c561369ee::t_aad468e9328eb3 133
+  s_8f0e1c561369ee::t_24dc5e7c79b5db 161,165,171-172
+  s_8f0e1c561369ee::t_da814e88e8d8db 50-54
+src/dashboard/apigateway/apigateway/biz/skill/renderer.py
+  s_8f0e1c561369ee::t_a471d104c33775 65,67-68,76-78
+  s_8f0e1c561369ee::t_54f585f9a038b8 31
+  s_8f0e1c561369ee::t_43d994b29160f1 383-387
+docs/ddd-ubiquitous-language.md
+  s_c70d037c98dcdd::t_d25ce8ba162a69 184
+  s_c70d037c98dcdd::t_11e4b37fc8c6d1 199-201
+src/dashboard/apigateway/apigateway/biz/skill/resource_loader.py
+  s_8f0e1c561369ee::t_140a52dcc96711 88-89,95-96,98,101,103-114,116-120,128-131,138,140,142-143,146-148,151,157-158,160-163,165-167,170,174
+  s_8f0e1c561369ee::t_91f4a914fe3ab8 22,29
+  s_8f0e1c561369ee::t_379b24071b24ea 46-49
+  s_8f0e1c561369ee::t_2abcebaf851178 30
+src/dashboard/apigateway/apigateway/biz/skill/declaration.py
+  s_8f0e1c561369ee::t_982297661730a6 127-129,343
+  s_8f0e1c561369ee::t_f43e4cb9c0c0e5 233,235
+  s_8f0e1c561369ee::t_c699eba6a60061 136
+  s_8f0e1c561369ee::t_34fa9d4bb4786c 196
+  s_8f0e1c561369ee::t_88ddc64d72d9f7 64-71
+  s_8f0e1c561369ee::t_8ecfb84d176d9f 31-32
+  s_8f0e1c561369ee::t_20d9542c3904f2 159
+  s_8f0e1c561369ee::t_04adb9dfde0f80 417,421-425,428,435,439-441
+  s_8f0e1c561369ee::t_7dee9f5e790cee 160-161,167,198,222,230,237,254,267,297,313,321,330,344-347,382,390,393,403,410,445-449,475-477,486,490
+src/dashboard/apigateway/apigateway/biz/skill/constants.py
+  s_8f0e1c561369ee::t_3f3d97e6e0ef2c 23
+  s_8f0e1c561369ee::t_1da4d8d73c3396 44-46
+src/dashboard/apigateway/apigateway/tests/biz/skill/test_resource_loader.py
+  s_8f0e1c561369ee::t_3874250e8684b2 20,22,30-31
+  s_8f0e1c561369ee::t_a393aad542eeb6 161,163-165,168-169,171,174,177,180,184,187,190,193-195,197,200-202,204-209
+  s_8f0e1c561369ee::t_5bf8f842e9ab76 53-58
+  s_8f0e1c561369ee::t_882ea3892deb54 85-86,88,91,93-96,99,104,107-110
+  s_8f0e1c561369ee::t_0b19e665b56a0a 210-212,215,218-219,223-226
+  s_8f0e1c561369ee::t_3ebf781e200c3d 32
+src/dashboard/apigateway/apigateway/data/skill/declarations/devops-pipeline-build-artifact-url.yaml
+  s_c70d037c98dcdd::t_00038dd5c0ed44 1
+src/dashboard/apigateway/apigateway/tests/biz/skill/static_provider.py
+  s_8f0e1c561369ee::t_7c5e2650a036c1 42-51,54-58
+  s_8f0e1c561369ee::t_0060bdc8464015 21,24-29
+src/dashboard/apigateway/apigateway/biz/skill/writer.py
+  s_8f0e1c561369ee::t_d0eba87acb5e50 24
+  s_8f0e1c561369ee::t_79cecd4e9201c5 53,56-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a3a501e2d50b539caef59aafb3b2043016e07d77",
+  "prompts": {},
+  "sessions": {
+    "s_8f0e1c561369ee": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "870ce5b0-c3c7-4595-b97d-e2b7ab0319c8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    },
+    "s_c70d037c98dcdd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "95a1ed90-c46a-4a16-9837-3d07b632d1fa",
+        "model": "grok-4.7"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

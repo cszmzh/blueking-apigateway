@@ -1,0 +1,39 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_sync_stage_mcp_servers.md
+  s_554d0f5a3060ea::t_893879159a2193 40
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_554d0f5a3060ea::t_fe39fe49414432 5567
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_554d0f5a3060ea::t_ebba0f7d1f00f6 991-993,996
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_554d0f5a3060ea::t_ddf1cde497cb1f 2100,2110,2118-2160,2162,2168,2171,2173,2185-2186
+  s_554d0f5a3060ea::t_c52064735604e1 2101-2109,2111-2117,2161,2163-2167,2169-2170,2172,2174-2184,2187
+  s_554d0f5a3060ea::t_e890ab22748750 1928
+  s_554d0f5a3060ea::t_842d141c9aafa6 1724,1727
+  s_554d0f5a3060ea::t_744bc688029fd5 1988
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_554d0f5a3060ea::t_20978ef447ef79 307,309-311,314,316
+  s_554d0f5a3060ea::t_f422af385f1356 315,317-318
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_554d0f5a3060ea::t_649e0853665f2e 2318-2320
+  s_554d0f5a3060ea::t_e9cc7b15233fd6 2392,2394,2396
+  s_554d0f5a3060ea::t_c04a79f4b2bf6d 2401,2408,2410,2414-2415,2418-2420,2424,2426
+  s_554d0f5a3060ea::t_507b87623564ec 2409,2411-2413,2417,2421-2423,2425,2427
+  s_554d0f5a3060ea::t_81b6affe606427 2428
+  s_554d0f5a3060ea::t_2f7f50c4f86931 2416
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dd12fae074f074d43727bc015e0b9048e812fbfd",
+  "prompts": {},
+  "sessions": {
+    "s_554d0f5a3060ea": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a98223ba-60c9-4873-8121-bf572dfd6bb2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

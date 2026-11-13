@@ -1,0 +1,55 @@
+src/dashboard/apigateway/apigateway/data/apidocs/zh/v2_sync_stage_mcp_servers.md
+  s_554d0f5a3060ea::t_8a3e972f2267f1 40
+src/dashboard/apigateway/apigateway/data/apigw-definitions/bk-apigateway-resources.yaml
+  s_554d0f5a3060ea::t_b3f5e98bf55769 5567
+  s_554d0f5a3060ea::t_2848111eb942bc 5568
+src/dashboard/apigateway/apigateway/biz/mcp_server/mcp_server.py
+  s_554d0f5a3060ea::t_8eeba55ac99477 22
+  s_554d0f5a3060ea::t_f422af385f1356 311-314,316-319,321-324,326-330
+  s_554d0f5a3060ea::t_3d416e63f5a7f2 315
+  s_554d0f5a3060ea::t_40348587c216bd 325
+src/dashboard/apigateway/apigateway/tests/apis/web/mcp_server/test_views.py
+  s_554d0f5a3060ea::t_bb20f9d7da0795 581,591,595,598,601,603-609,613-614,616-650
+  s_554d0f5a3060ea::t_c4d6c3132865c6 803-857
+src/dashboard/apigateway/apigateway/apis/v2/sync/serializers.py
+  s_554d0f5a3060ea::t_8b1d772dfc5157 1020-1023
+  s_554d0f5a3060ea::t_e23a3662c2be8b 43
+  s_554d0f5a3060ea::t_ebba0f7d1f00f6 992-994,997,1009-1010,1013-1019,1024-1030
+  s_554d0f5a3060ea::t_89f32ce91e379f 1031
+test/sync/httpbin/definition.yaml
+  s_554d0f5a3060ea::t_1362b56ddae8f9 55,78
+src/dashboard/apigateway/apigateway/apis/web/mcp_server/serializers.py
+  s_554d0f5a3060ea::t_0e183b92acb1e2 156-158,160,164-165,171,177-178,186-189
+  s_554d0f5a3060ea::t_bd8d1248dfd392 347
+  s_554d0f5a3060ea::t_166b267b07c13c 610-612
+  s_554d0f5a3060ea::t_de919c63dd1c92 20
+  s_554d0f5a3060ea::t_b683f7850f453d 47
+  s_554d0f5a3060ea::t_0e7118bff922eb 563
+  s_554d0f5a3060ea::t_acf43e42282c0b 190-191
+src/dashboard/apigateway/apigateway/tests/apis/v2/sync/test_views.py
+  s_554d0f5a3060ea::t_744bc688029fd5 1988
+  s_554d0f5a3060ea::t_842d141c9aafa6 1724,1727
+  s_554d0f5a3060ea::t_c52064735604e1 2100-2155
+  s_554d0f5a3060ea::t_e890ab22748750 1928
+src/dashboard/apigateway/apigateway/locale/en/LC_MESSAGES/django.po
+  s_554d0f5a3060ea::t_e7c5bb175c1156 611-615
+src/dashboard/apigateway/apigateway/tests/biz/mcp_server/test_mcp_server.py
+  s_554d0f5a3060ea::t_c04a79f4b2bf6d 2399,2406-2442
+  s_554d0f5a3060ea::t_81b6affe606427 2443
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "133fbed5fb519d054af59db69c334eb3afa24b60",
+  "prompts": {},
+  "sessions": {
+    "s_554d0f5a3060ea": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a98223ba-60c9-4873-8121-bf572dfd6bb2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}

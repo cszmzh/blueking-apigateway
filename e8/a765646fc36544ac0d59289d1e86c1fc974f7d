@@ -1,0 +1,19 @@
+src/dashboard/apigateway/apigateway/tests/apis/web/test_gateway_action_declarations.py
+  s_cd3f0b7aa8afbc::t_48a5b4d825515b 162,165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e8a765646fc36544ac0d59289d1e86c1fc974f7d",
+  "prompts": {},
+  "sessions": {
+    "s_cd3f0b7aa8afbc": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "54c215e7-8659-4809-8908-cb2f7705889f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zach <cszmzh@gmail.com>"
+    }
+  }
+}
